@@ -1,0 +1,68 @@
+OWNER-CIK,SERIES-ID,SERIES-NAME,CLASS-CONTRACT-ID,CLASS-CONTRACT-NAME,CLASS-CONTRACT-TICKER-SYMBOL
+0000320351,S000007454,Consumer Discretionary Portfolio,C000020428,Consumer Discretionary Portfolio,FSCPX
+0000320351,S000007455,Industrials Portfolio,C000020429,Industrials Portfolio,FCYIX
+0000320351,S000007456,Defense and Aerospace Portfolio,C000020430,Defense and Aerospace Portfolio,FSDAX
+0000320351,S000007458,Semiconductors Portfolio,C000020432,Semiconductors Portfolio,FSELX
+0000320351,S000007459,Energy Portfolio,C000020433,Energy Portfolio,FSENX
+0000320351,S000007461,Fidelity Environment and Alternative Energy Fund,C000020435,Fidelity Environment and Alternative Energy Fund,FSLEX
+0000320351,S000007462,Financials Portfolio,C000020436,Financials Portfolio,FIDSX
+0000320351,S000007463,Consumer Staples Portfolio,C000020437,Consumer Staples Portfolio,FDFAX
+0000320351,S000007463,Consumer Staples Portfolio,C000040616,Fidelity Advisor Consumer Staples Fund: Class A,FDAGX
+0000320351,S000007463,Consumer Staples Portfolio,C000040618,Fidelity Advisor Consumer Staples Fund: Class C,FDCGX
+0000320351,S000007463,Consumer Staples Portfolio,C000040619,Fidelity Advisor Consumer Staples Fund: Class M,FDTGX
+0000320351,S000007463,Consumer Staples Portfolio,C000040620,Fidelity Advisor Consumer Staples Fund: Class I,FDIGX
+0000320351,S000007463,Consumer Staples Portfolio,C000205042,Fidelity Advisor Consumer Staples Fund: Class Z,FIJCX
+0000320351,S000007464,Automotive Portfolio,C000020438,Automotive Portfolio,FSAVX
+0000320351,S000007465,Gold Portfolio,C000020439,Gold Portfolio,FSAGX
+0000320351,S000007465,Gold Portfolio,C000040621,Fidelity Advisor Gold Fund: Class I,FGDIX
+0000320351,S000007465,Gold Portfolio,C000040622,Fidelity Advisor Gold Fund: Class A,FGDAX
+0000320351,S000007465,Gold Portfolio,C000040624,Fidelity Advisor Gold Fund: Class C,FGDCX
+0000320351,S000007465,Gold Portfolio,C000040625,Fidelity Advisor Gold Fund: Class M,FGDTX
+0000320351,S000007465,Gold Portfolio,C000205043,Fidelity Advisor Gold Fund: Class Z,FIJDX
+0000320351,S000007466,Health Care Portfolio,C000020440,Health Care Portfolio,FSPHX
+0000320351,S000007467,Fintech Portfolio,C000020441,Fintech Portfolio,FSVLX
+0000320351,S000007469,Materials Portfolio,C000020443,Materials Portfolio,FSDPX
+0000320351,S000007469,Materials Portfolio,C000040626,Fidelity Advisor Materials Fund: Class A,FMFAX
+0000320351,S000007469,Materials Portfolio,C000040628,Fidelity Advisor Materials Fund: Class C,FMFCX
+0000320351,S000007469,Materials Portfolio,C000040629,Fidelity Advisor Materials Fund: Class M,FMFTX
+0000320351,S000007469,Materials Portfolio,C000040630,Fidelity Advisor Materials Fund: Class I,FMFEX
+0000320351,S000007469,Materials Portfolio,C000205044,Fidelity Advisor Materials Fund: Class Z,FIJFX
+0000320351,S000007470,Insurance Portfolio,C000020444,Insurance Portfolio,FSPCX
+0000320351,S000007471,Leisure Portfolio,C000020445,Leisure Portfolio,FDLSX
+0000320351,S000007472,Health Care Services Portfolio,C000020446,Health Care Services Portfolio,FSHCX
+0000320351,S000007473,Medical Technology and Devices Portfolio,C000020447,Medical Technology and Devices Portfolio,FSMEX
+0000320351,S000007475,Banking Portfolio,C000020449,Banking Portfolio,FSRBX
+0000320351,S000007476,Communication Services Portfolio,C000020450,Communication Services Portfolio,FBMPX
+0000320351,S000007476,Communication Services Portfolio,C000206306,Fidelity Advisor Communication Services Fund: Class I,FGJMX
+0000320351,S000007476,Communication Services Portfolio,C000206307,Fidelity Advisor Communication Services Fund: Class Z,FGKMX
+0000320351,S000007476,Communication Services Portfolio,C000206308,Fidelity Advisor Communication Services Fund: Class A,FGDMX
+0000320351,S000007476,Communication Services Portfolio,C000206309,Fidelity Advisor Communication Services Fund: Class M,FGEMX
+0000320351,S000007476,Communication Services Portfolio,C000206310,Fidelity Advisor Communication Services Fund: Class C,FGHMX
+0000320351,S000007478,Fidelity Natural Resources Fund,C000020452,Fidelity Natural Resources Fund,FNARX
+0000320351,S000007481,Pharmaceuticals Portfolio,C000020455,Pharmaceuticals Portfolio,FPHAX
+0000320351,S000007482,Retailing Portfolio,C000020456,Retailing Portfolio,FSRPX
+0000320351,S000007483,Software and IT Services Portfolio,C000020457,Software and IT Services Portfolio,FSCSX
+0000320351,S000007484,Technology Portfolio,C000020458,Technology Portfolio,FSPTX
+0000320351,S000007485,Telecommunications Portfolio,C000020459,Telecommunications Portfolio,FSTCX
+0000320351,S000007485,Telecommunications Portfolio,C000040631,Fidelity Advisor Telecommunications Fund: Class A,FTUAX
+0000320351,S000007485,Telecommunications Portfolio,C000040633,Fidelity Advisor Telecommunications Fund: Class C,FTUCX
+0000320351,S000007485,Telecommunications Portfolio,C000040634,Fidelity Advisor Telecommunications Fund: Class M,FTUTX
+0000320351,S000007485,Telecommunications Portfolio,C000040635,Fidelity Advisor Telecommunications Fund: Class I,FTUIX
+0000320351,S000007485,Telecommunications Portfolio,C000205045,Fidelity Advisor Telecommunications Fund: Class Z,FIJGX
+0000320351,S000007486,Biotechnology Portfolio,C000020460,Biotechnology Portfolio,FBIOX
+0000320351,S000007487,Transportation Portfolio,C000020461,Transportation Portfolio,FSRFX
+0000320351,S000007488,Utilities Portfolio,C000020462,Utilities Portfolio,FSUTX
+0000320351,S000007489,Wireless Portfolio,C000020463,Wireless Portfolio,FWRLX
+0000320351,S000007490,Brokerage and Investment Management Portfolio,C000020464,Brokerage and Investment Management Portfolio,FSLBX
+0000320351,S000007491,Enterprise Technology Services Portfolio,C000020465,Enterprise Technology Services Portfolio,FBSOX
+0000320351,S000007492,Chemicals Portfolio,C000020466,Chemicals Portfolio,FSCHX
+0000320351,S000007493,Tech Hardware Portfolio,C000020467,Tech Hardware Portfolio,FDCPX
+0000320351,S000007494,Construction and Housing Portfolio,C000020468,Construction and Housing Portfolio,FSHOX
+0000320351,S000039312,Fidelity Telecom and Utilities Fund,C000121123,Fidelity Telecom and Utilities Fund,FIUIX
+0000320351,S000039313,Fidelity Real Estate Investment Portfolio,C000121124,Fidelity Real Estate Investment Portfolio,FRESX
+0000320351,S000039314,Fidelity International Real Estate Fund,C000121125,Fidelity Advisor International Real Estate Fund: Class A,FIRAX
+0000320351,S000039314,Fidelity International Real Estate Fund,C000121127,Fidelity Advisor International Real Estate Fund: Class C,FIRCX
+0000320351,S000039314,Fidelity International Real Estate Fund,C000121128,Fidelity Advisor International Real Estate Fund: Class M,FIRTX
+0000320351,S000039314,Fidelity International Real Estate Fund,C000121129,Fidelity International Real Estate Fund,FIREX
+0000320351,S000039314,Fidelity International Real Estate Fund,C000121130,Fidelity Advisor International Real Estate Fund: Class I,FIRIX
+0000320351,S000039314,Fidelity International Real Estate Fund,C000205046,Fidelity Advisor International Real Estate Fund: Class Z,FIKLX

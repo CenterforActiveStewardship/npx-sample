@@ -1,0 +1,662 @@
+<SEC-DOCUMENT>0000919574-20-005596.txt : 20200831
+<SEC-HEADER>0000919574-20-005596.hdr.sgml : 20200831
+<ACCEPTANCE-DATETIME>20200831073849
+ACCESSION NUMBER:		0000919574-20-005596
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200831
+DATE AS OF CHANGE:		20200831
+EFFECTIVENESS DATE:		20200831
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AB GLOBAL BOND FUND, INC.
+		CENTRAL INDEX KEY:			0000883676
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-06554
+		FILM NUMBER:		201149840
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ALLIANCEBERNSTEIN LP
+		STREET 2:		1345 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+		BUSINESS PHONE:		2129691000
+
+	MAIL ADDRESS:	
+		STREET 1:		ALLIANCEBERNSTEIN LP
+		STREET 2:		1345 AVENUE OF THE AMERICAS 31ST FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLIANCEBERNSTEIN GLOBAL BOND FUND INC
+		DATE OF NAME CHANGE:	20071105
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLIANCEBERNSTEIN GLOBAL GOVERNMENT INCOME TRUST INC
+		DATE OF NAME CHANGE:	20060201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALLIANCEBERNSTEIN AMERICAS GOVERNMENT INCOME TRUST INC
+		DATE OF NAME CHANGE:	20030319
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000883676
+<SERIES-ID>S000010128
+<SERIES-NAME>AB GLOBAL BOND FUND, INC.
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000028113
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>ANAGX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000028114
+<CLASS-CONTRACT-NAME>Class B
+<CLASS-CONTRACT-TICKER-SYMBOL>ANABX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000028115
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>ANACX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000057409
+<CLASS-CONTRACT-NAME>Class R
+<CLASS-CONTRACT-TICKER-SYMBOL>ANARX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000057410
+<CLASS-CONTRACT-NAME>Class K
+<CLASS-CONTRACT-TICKER-SYMBOL>ANAKX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000057411
+<CLASS-CONTRACT-NAME>Class I
+<CLASS-CONTRACT-TICKER-SYMBOL>ANAIX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000057412
+<CLASS-CONTRACT-NAME>Advisor Class
+<CLASS-CONTRACT-TICKER-SYMBOL>ANAYX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000135460
+<CLASS-CONTRACT-NAME>Class Z
+<CLASS-CONTRACT-TICKER-SYMBOL>ANAZX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>d811-06554_20.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">SECURITIES AND EXCHANGE COMMISSION</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Washington, D.C. 20549</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">FORM N-PX</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">ANNUAL REPORT OF PROXY VOTING RECORD OF</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">REGISTERED MANAGEMENT INVESTMENT COMPANIES</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Investment Company Act file number: 811-06554</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">AB Global Bond Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Exact name of registrant as specified in charter)</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">AllianceBernstein L.P.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">1345 Avenue of the Americas, New York, New York
+10105</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Address of Principal Executive Office) (Zip
+Code)</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Registrant's Telephone Number, including Area
+Code:</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">(800) 221-5672</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">EMILIE D. WRAPP</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">AllianceBernstein L.P.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">1345 Avenue of the Americas</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">New York, New York 10105</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">(Name and address of agent for service)</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Copies of communications to:</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Paul M. Miller</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Seward &amp; Kissel LLP</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">901 K Street, N.W.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Suite 800</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Washington, D.C. 20001</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Date of fiscal year end: September 30</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">Date of reporting period: July 1, 2019 - June
+30, 2020</P>
+
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt">&nbsp;</P>
+
+<P STYLE="color: rgb(0, 0, 0); font: bold 14pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-align: center; text-indent: 0px">FORM
+N-PX</P>
+
+<P STYLE="color: rgb(0, 0, 0); font: 400 14pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-indent: 0px">ICA
+File Number:&nbsp;&nbsp;811-06554</P>
+
+<P STYLE="color: rgb(0, 0, 0); font: 400 14pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-indent: 0px">Registrant
+Name:&nbsp;&nbsp;AB Global Bond Fund, Inc.</P>
+
+<P STYLE="color: rgb(0, 0, 0); font: 400 14pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-indent: 0px">Reporting
+Period:&nbsp;&nbsp;07/01/2019 - 06/30/2020</P>
+
+<P STYLE="color: rgb(0, 0, 0); font: 400 14pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-align: center; text-indent: 0px">AB
+Global Bond Fund, Inc.</P>
+
+<TABLE CELLPADDING="2" CELLSPACING="0" BORDER="1" STYLE="font-family: Times New Roman; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; width: 100%; text-decoration: initial">
+<TR STYLE="font-size: 10pt">
+    <TH COLSPAN="5" STYLE="font-size: 10pt">&nbsp;</TH></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt; font-weight: bold">AVAYA HOLDINGS CORP.<BR>Meeting Date:&nbsp;&nbsp;MAR 04, 2020<BR>Record Date:&nbsp;&nbsp;JAN 06, 2020<BR>Meeting Type:&nbsp;&nbsp;ANNUAL</TD></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt">Ticker:&nbsp;&nbsp;AVYA<BR>Security ID:&nbsp;&nbsp;05351X101<BR></TD></TR>
+<TR>
+    <TH STYLE="font-size: 10pt">Proposal No</TH>
+    <TH STYLE="font-size: 10pt">Proposal</TH>
+    <TH STYLE="font-size: 10pt">Proposed By</TH>
+    <TH STYLE="font-size: 10pt">Management Recommendation</TH>
+    <TH STYLE="font-size: 10pt">Vote Cast</TH></TR>
+<TR>
+    <TD STYLE="width: 9%">1.1</TD>
+    <TD STYLE="width: 54%">Elect Director William D. Watkins</TD>
+    <TD STYLE="width: 14%">Management</TD>
+    <TD STYLE="width: 14%">For</TD>
+    <TD STYLE="width: 9%">For</TD></TR>
+<TR>
+    <TD>1.2</TD>
+    <TD>Elect Director James M. Chirico, Jr.</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>1.3</TD>
+    <TD>Elect Director Stephan Scholl</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>1.4</TD>
+    <TD>Elect Director Susan L. Spradley</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>1.5</TD>
+    <TD>Elect Director Stanley J. Sutula, III</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>1.6</TD>
+    <TD>Elect Director Scott D. Vogel</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>1.7</TD>
+    <TD>Elect Director Jacqueline E. Yeaney</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>2</TD>
+    <TD>Advisory Vote to Ratify Named Executive Officers' Compensation</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>3</TD>
+    <TD>Approve Omnibus Stock Plan</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>4</TD>
+    <TD>Approve Qualified Employee Stock Purchase Plan</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>5</TD>
+    <TD>Ratify PricewaterhouseCoopers LLP as Auditors</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+</TABLE>
+<TABLE CELLPADDING="2" CELLSPACING="0" BORDER="1" STYLE="font-family: Times New Roman; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; width: 100%; text-decoration: initial">
+<TR STYLE="font-size: 10pt">
+    <TH COLSPAN="5" STYLE="font-size: 10pt">&nbsp;</TH></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt; font-weight: bold">GOLDEN ENERGY OFFSHORE SERVICES AS<BR>Meeting Date:&nbsp;&nbsp;JUN 26, 2020<BR>Record Date:&nbsp;&nbsp;<BR>Meeting Type:&nbsp;&nbsp;SPECIAL</TD></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt">Ticker:&nbsp;&nbsp;GEOS.ME<BR>Security ID:&nbsp;&nbsp;R2R712107<BR></TD></TR>
+<TR>
+    <TH STYLE="font-size: 10pt">Proposal No</TH>
+    <TH STYLE="font-size: 10pt">Proposal</TH>
+    <TH STYLE="font-size: 10pt">Proposed By</TH>
+    <TH STYLE="font-size: 10pt">Management Recommendation</TH>
+    <TH STYLE="font-size: 10pt">Vote Cast</TH></TR>
+<TR>
+    <TD STYLE="width: 9%">1</TD>
+    <TD STYLE="width: 54%">Open Meeting</TD>
+    <TD STYLE="width: 14%">Management</TD>
+    <TD STYLE="width: 14%">None</TD>
+    <TD STYLE="width: 9%">None</TD></TR>
+<TR>
+    <TD>2</TD>
+    <TD>Elect Chairman of Meeting; Designate Inspector(s) of Minutes of Meeting</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Did Not Vote</TD></TR>
+<TR>
+    <TD>3</TD>
+    <TD>Approve Notice of Meeting and Agenda</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Did Not Vote</TD></TR>
+<TR>
+    <TD>4</TD>
+    <TD>Approve Issuance of Shares for a Private Placement; Amend Articles Accordingly</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Did Not Vote</TD></TR>
+<TR>
+    <TD>5</TD>
+    <TD>Approve Creation of Pool of Capital without Preemptive Rights</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Did Not Vote</TD></TR>
+</TABLE>
+<TABLE CELLPADDING="2" CELLSPACING="0" BORDER="1" STYLE="font-family: Times New Roman; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; width: 100%; text-decoration: initial">
+<TR STYLE="font-size: 10pt">
+    <TH COLSPAN="5" STYLE="font-size: 10pt">&nbsp;</TH></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt; font-weight: bold">SANDRIDGE ENERGY, INC.<BR>Meeting Date:&nbsp;&nbsp;JUN 05, 2020<BR>Record Date:&nbsp;&nbsp;APR 28, 2020<BR>Meeting Type:&nbsp;&nbsp;ANNUAL</TD></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt">Ticker:&nbsp;&nbsp;SD<BR>Security ID:&nbsp;&nbsp;80007P869<BR></TD></TR>
+<TR>
+    <TH STYLE="font-size: 10pt">Proposal No</TH>
+    <TH STYLE="font-size: 10pt">Proposal</TH>
+    <TH STYLE="font-size: 10pt">Proposed By</TH>
+    <TH STYLE="font-size: 10pt">Management Recommendation</TH>
+    <TH STYLE="font-size: 10pt">Vote Cast</TH></TR>
+<TR>
+    <TD STYLE="width: 9%">1a</TD>
+    <TD STYLE="width: 54%">Elect Director Patricia A. Agnello</TD>
+    <TD STYLE="width: 14%">Management</TD>
+    <TD STYLE="width: 14%">For</TD>
+    <TD STYLE="width: 9%">For</TD></TR>
+<TR>
+    <TD>1b</TD>
+    <TD>Elect Director Jonathan Christodoro</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Against</TD></TR>
+<TR>
+    <TD>1c</TD>
+    <TD>Elect Director Jonathan Frates</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Against</TD></TR>
+<TR>
+    <TD>1d</TD>
+    <TD>Elect Director John "Jack" Lipinski</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>1e</TD>
+    <TD>Elect Director Randolph C. Read</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>2</TD>
+    <TD>Ratify Deloitte as Auditors</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+<TR>
+    <TD>3</TD>
+    <TD>Advisory Vote to Ratify Named Executive Officers' Compensation</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>For</TD></TR>
+</TABLE>
+<TABLE CELLPADDING="2" CELLSPACING="0" BORDER="1" STYLE="font-family: Times New Roman; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; width: 100%; text-decoration: initial">
+<TR STYLE="font-size: 10pt">
+    <TH COLSPAN="5" STYLE="font-size: 10pt">&nbsp;</TH></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt; font-weight: bold">SUNTRUST BANKS, INC.<BR>Meeting Date:&nbsp;&nbsp;JUL 30, 2019<BR>Record Date:&nbsp;&nbsp;JUN 24, 2019<BR>Meeting Type:&nbsp;&nbsp;SPECIAL</TD></TR>
+<TR>
+    <TD COLSPAN="5" STYLE="font-size: 10pt">Ticker:&nbsp;&nbsp;STI<BR>Security ID:&nbsp;&nbsp;867914BJ1<BR></TD></TR>
+<TR>
+    <TH STYLE="font-size: 10pt">Proposal No</TH>
+    <TH STYLE="font-size: 10pt">Proposal</TH>
+    <TH STYLE="font-size: 10pt">Proposed By</TH>
+    <TH STYLE="font-size: 10pt">Management Recommendation</TH>
+    <TH STYLE="font-size: 10pt">Vote Cast</TH></TR>
+<TR>
+    <TD STYLE="width: 9%">1</TD>
+    <TD STYLE="width: 54%">Approve Merger Agreement</TD>
+    <TD STYLE="width: 14%">Management</TD>
+    <TD STYLE="width: 14%">For</TD>
+    <TD STYLE="width: 9%">Did Not Vote</TD></TR>
+<TR>
+    <TD>2</TD>
+    <TD>Advisory Vote on Golden Parachutes</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Did Not Vote</TD></TR>
+<TR>
+    <TD>3</TD>
+    <TD>Adjourn Meeting</TD>
+    <TD>Management</TD>
+    <TD>For</TD>
+    <TD>Did Not Vote</TD></TR>
+</TABLE>
+<P STYLE="color: rgb(0, 0, 0); font: bold 14pt Times New Roman, Times, Serif; letter-spacing: normal; word-spacing: 0px; text-align: center; text-indent: 0px">END
+NPX REPORT</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">SIGNATURES</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-indent: 0.5in">Pursuant to the requirements of the Investment
+Company Act of 1940, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Registrant:&nbsp;&nbsp;AB Global Bond Fund, Inc.</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 11%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 8%; padding-right: 5.4pt; padding-left: 5.4pt">By:</TD>
+    <TD STYLE="width: 30%; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">Robert M. Keith*</TD>
+    <TD STYLE="width: 17%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Chief Executive Officer</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Date:</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">August 31, 2020</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">*By:</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">/s/ Nancy E. Hay</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Nancy E. Hay</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">(Attorney-in-fact)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%"><TR><TD STYLE="text-align: center; width: 100%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt/115% Times New Roman, Times, Serif; margin: 0 0 10pt">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center"><U>POWER OF ATTORNEY</U></P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">KNOW ALL PERSONS BY THESE PRESENTS, that the
+person whose signature appears below hereby revokes all prior powers granted by the undersigned to the extent inconsistent herewith
+and constitutes and appoints Robert M. Keith, Emilie D. Wrapp, Eric C. Freed, Nancy E. Hay and Stephen J. Laffey and each of them,
+to act severally as attorney-in-fact and agent, with power of substitution and resubstitution, for the undersigned in any and all
+capacities, solely for the purpose of signing the respective Registration Statements, and any amendments thereto, on Form N-1A
+and any other filings of:</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Bond Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Cap Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Core Opportunities Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Corporate Shares</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Discovery Growth Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Equity Income Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Fixed-Income Shares, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Global Bond Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Global Real Estate Investment Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Global Risk Allocation Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB High Income Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Institutional Funds, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Large Cap Growth Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Municipal Income Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Municipal Income Fund II</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Relative Value Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Sustainable Global Thematic Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Sustainable International Thematic Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Trust</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Unconstrained Bond Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-AB Variable Products Series Fund, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-The AB Portfolios</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">-Sanford C. Bernstein Fund II, Inc.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">and filing the same, with exhibits thereto, and other documents
+in connection therewith, with the Securities and Exchange Commission, hereby ratifying and confirming all that said attorneys-in-fact,
+or their substitute or substitutes, may do or cause to be done by virtue hereof.</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 12pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 9%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 25%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 11%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 2%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="width: 36%; border-bottom: Black 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">/s/ Robert M. Keith</TD>
+    <TD STYLE="width: 17%; padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">Robert M. Keith</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0">Dated: May 3, 2018</P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

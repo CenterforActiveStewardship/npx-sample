@@ -1,0 +1,988 @@
+<SEC-DOCUMENT>0000928816-20-000907.txt : 20200819
+<SEC-HEADER>0000928816-20-000907.hdr.sgml : 20200819
+<ACCEPTANCE-DATETIME>20200819153101
+ACCESSION NUMBER:		0000928816-20-000907
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20200630
+FILED AS OF DATE:		20200819
+DATE AS OF CHANGE:		20200819
+EFFECTIVENESS DATE:		20200819
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PUTNAM PREMIER INCOME TRUST
+		CENTRAL INDEX KEY:			0000827773
+		IRS NUMBER:				042995046
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-05452
+		FILM NUMBER:		201116943
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE POST OFFICE SQ
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02109
+		BUSINESS PHONE:		6172921000
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>a_80_npx.htm
+<DESCRIPTION>PUTNAM PREMIER INCOME TRUST
+<TEXT>
+<html>
+<body>
+  	  <p align='center' style='font-weight:bold'>UNITED STATES SECURITIES AND EXCHANGE COMMISSION</p>
+
+<p align='center'>Washington, DC 20549</p>
+
+<p align='center' style='font-weight:bold'>FORM N-PX</p>
+
+<p align='center' style='font-weight:bold'>ANNUAL REPORT OF PROXY VOTING RECORD OF REGISTERED MANAGEMENT INVESTMENT COMPANY</p>
+
+<br><br>
+
+<p>INVESTMENT COMPANY ACT FILE NUMBER:  811-05452</p>
+
+<p>EXACT NAME OF REGISTRANT AS SPECIFIED IN CHARTER:  Putnam Premier Income Trust</p>
+
+
+        <p>
+          100 FEDERAL STREET, BOSTON, MASSACHUSETTS USA 02110
+          <br>(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)(ZIP CODE)
+        </p>
+        <p>
+          ROBERT BURNS, VICE PRESIDENT, 100 FEDERAL ST, MASSACHUSETTS USA 02110
+          </p>
+<p>
+          CC:
+</p>
+<p>
+BRYAN CHEGWIDDEN, ESQ., ROPES & GRAY LLP, 1211 AVENUE OF THE AMERICAS, NEW YORK, NEW YORK 10036
+          <br>(NAME AND ADDRESS OF AGENT FOR SERVICE)
+        </p>
+        <p>REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: 617-292-1000</p>
+        <p>DATE OF FISCAL YEAR END: 07/31</p>
+        <p>DATE OF REPORTING PERIOD: 07/01/2019 - 06/30/2020</p>
+<br style='page-break-after:always;'><p align='center'>Putnam Premier Income Trust</p>
+
+<table cellPadding='2' cellSpacing='0' width='100%' border='1'>
+<tr style='font-size:10pt;border:none;'><th style='font-size:10pt;border:none;' colspan='5'>&nbsp;</th></tr>
+<td style='font-size:10pt;font-weight:bold;' colSpan='5'>ADVANZ PHARMA CORP.
+<br>Meeting Date:&nbsp;&nbsp;DEC 17, 2019
+<br>Record Date:&nbsp;&nbsp;NOV 18, 2019
+<br>Meeting Type:&nbsp;&nbsp;SPECIAL
+</td>
+</tr>
+<tr>
+<td style='font-size:10pt;' colSpan='5'>
+Ticker:&nbsp;&nbsp;ADVZ
+<br>Security ID:&nbsp;&nbsp;00775M104
+<br>
+</td>
+</tr>
+<tr>
+<th style='font-size:10pt' width='10%'>Proposal No</th>
+<th style='font-size:10pt' width='55%'>Proposal</th>
+<th style='font-size:10pt' width='15%'>Proposed By</th>
+<th style='font-size:10pt' width='15%'>Management Recommendation</th>
+<th style='font-size:10pt' width='10%'>Vote Cast</th>
+</tr>
+<tr>
+<td style='font-size=10pt'>1</td>
+<td style='font-size=10pt'>Change of Continuance from CBCA to Jersey</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Against</td>
+</tr>
+</table>
+
+<table cellPadding='2' cellSpacing='0' width='100%' border='1'>
+<tr style='font-size:10pt;border:none;'><th style='font-size:10pt;border:none;' colspan='5'>&nbsp;</th></tr>
+<td style='font-size:10pt;font-weight:bold;' colSpan='5'>ADVANZ PHARMA CORP. LTD.
+<br>Meeting Date:&nbsp;&nbsp;JUN 17, 2020
+<br>Record Date:&nbsp;&nbsp;MAY 11, 2020
+<br>Meeting Type:&nbsp;&nbsp;ANNUAL
+</td>
+</tr>
+<tr>
+<td style='font-size:10pt;' colSpan='5'>
+Ticker:&nbsp;&nbsp;CXRXF
+<br>Security ID:&nbsp;&nbsp;G01022105
+<br>
+</td>
+</tr>
+<tr>
+<th style='font-size:10pt' width='10%'>Proposal No</th>
+<th style='font-size:10pt' width='55%'>Proposal</th>
+<th style='font-size:10pt' width='15%'>Proposed By</th>
+<th style='font-size:10pt' width='15%'>Management Recommendation</th>
+<th style='font-size:10pt' width='10%'>Vote Cast</th>
+</tr>
+<tr>
+<td style='font-size=10pt'>1a</td>
+<td style='font-size=10pt'>Elect Director Adeel Ahmad</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Withhold</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1b</td>
+<td style='font-size=10pt'>Elect Director Elmar Schnee</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Withhold</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1c</td>
+<td style='font-size=10pt'>Elect Director Frances Cloud</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Withhold</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1d</td>
+<td style='font-size=10pt'>Elect Director Graeme Duncan</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Withhold</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1e</td>
+<td style='font-size=10pt'>Elect Director Maurice Chagnaud</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Withhold</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2</td>
+<td style='font-size=10pt'>Approve PricewaterhouseCoopers LLP (UK) as Auditors and Authorize Board to Fix Their Remuneration</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3</td>
+<td style='font-size=10pt'>Amend Articles of Association</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Against</td>
+</tr>
+</table>
+
+<table cellPadding='2' cellSpacing='0' width='100%' border='1'>
+<tr style='font-size:10pt;border:none;'><th style='font-size:10pt;border:none;' colspan='5'>&nbsp;</th></tr>
+<td style='font-size:10pt;font-weight:bold;' colSpan='5'>CLEAR CHANNEL OUTDOOR HOLDINGS, INC.
+<br>Meeting Date:&nbsp;&nbsp;MAY 19, 2020
+<br>Record Date:&nbsp;&nbsp;MAR 23, 2020
+<br>Meeting Type:&nbsp;&nbsp;ANNUAL
+</td>
+</tr>
+<tr>
+<td style='font-size:10pt;' colSpan='5'>
+Ticker:&nbsp;&nbsp;CCO
+<br>Security ID:&nbsp;&nbsp;18453H106
+<br>
+</td>
+</tr>
+<tr>
+<th style='font-size:10pt' width='10%'>Proposal No</th>
+<th style='font-size:10pt' width='55%'>Proposal</th>
+<th style='font-size:10pt' width='15%'>Proposed By</th>
+<th style='font-size:10pt' width='15%'>Management Recommendation</th>
+<th style='font-size:10pt' width='10%'>Vote Cast</th>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.1</td>
+<td style='font-size=10pt'>Elect Director John Dionne</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.2</td>
+<td style='font-size=10pt'>Elect Director Andrew Hobson</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.3</td>
+<td style='font-size=10pt'>Elect Director Joe Marchese</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2</td>
+<td style='font-size=10pt'>Advisory Vote to Ratify Named Executive Officers' Compensation</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3</td>
+<td style='font-size=10pt'>Ratify Ernst & Young LLP as Auditors</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+</table>
+
+<table cellPadding='2' cellSpacing='0' width='100%' border='1'>
+<tr style='font-size:10pt;border:none;'><th style='font-size:10pt;border:none;' colspan='5'>&nbsp;</th></tr>
+<td style='font-size:10pt;font-weight:bold;' colSpan='5'>IHEARTMEDIA, INC.
+<br>Meeting Date:&nbsp;&nbsp;JUN 15, 2020
+<br>Record Date:&nbsp;&nbsp;APR 22, 2020
+<br>Meeting Type:&nbsp;&nbsp;ANNUAL
+</td>
+</tr>
+<tr>
+<td style='font-size:10pt;' colSpan='5'>
+Ticker:&nbsp;&nbsp;IHRT
+<br>Security ID:&nbsp;&nbsp;45174J509
+<br>
+</td>
+</tr>
+<tr>
+<th style='font-size:10pt' width='10%'>Proposal No</th>
+<th style='font-size:10pt' width='55%'>Proposal</th>
+<th style='font-size:10pt' width='15%'>Proposed By</th>
+<th style='font-size:10pt' width='15%'>Management Recommendation</th>
+<th style='font-size:10pt' width='10%'>Vote Cast</th>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.1</td>
+<td style='font-size=10pt'>Elect Director Gary Barber</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.2</td>
+<td style='font-size=10pt'>Elect Director Brad Gerstner</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2</td>
+<td style='font-size=10pt'>Ratify Ernst & Young LLP as Auditors</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3</td>
+<td style='font-size=10pt'>Advisory Vote to Ratify Named Executive Officers' Compensation</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>Against</td>
+</tr>
+</table>
+
+<table cellPadding='2' cellSpacing='0' width='100%' border='1'>
+<tr style='font-size:10pt;border:none;'><th style='font-size:10pt;border:none;' colspan='5'>&nbsp;</th></tr>
+<td style='font-size:10pt;font-weight:bold;' colSpan='5'>TERVITA CORPORATION
+<br>Meeting Date:&nbsp;&nbsp;MAY 11, 2020
+<br>Record Date:&nbsp;&nbsp;MAR 23, 2020
+<br>Meeting Type:&nbsp;&nbsp;ANNUAL
+</td>
+</tr>
+<tr>
+<td style='font-size:10pt;' colSpan='5'>
+Ticker:&nbsp;&nbsp;TEV
+<br>Security ID:&nbsp;&nbsp;88159E103
+<br>
+</td>
+</tr>
+<tr>
+<th style='font-size:10pt' width='10%'>Proposal No</th>
+<th style='font-size:10pt' width='55%'>Proposal</th>
+<th style='font-size:10pt' width='15%'>Proposed By</th>
+<th style='font-size:10pt' width='15%'>Management Recommendation</th>
+<th style='font-size:10pt' width='10%'>Vote Cast</th>
+</tr>
+<tr>
+<td style='font-size=10pt'>1</td>
+<td style='font-size=10pt'>Approve Ernst & Young LLP as Auditors and Authorize Board to Fix Their Remuneration</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2</td>
+<td style='font-size=10pt'>Fix Number of Directors at Ten</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3a</td>
+<td style='font-size=10pt'>Elect Director Grant Billing</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3b</td>
+<td style='font-size=10pt'>Elect Director Michael Colodner</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3c</td>
+<td style='font-size=10pt'>Elect Director John Cooper</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3d</td>
+<td style='font-size=10pt'>Elect Director Allen Hagerman</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3e</td>
+<td style='font-size=10pt'>Elect Director Cameron Kramer</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3f</td>
+<td style='font-size=10pt'>Elect Director Gordon Pridham</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3g</td>
+<td style='font-size=10pt'>Elect Director Douglas Ramsay</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3h</td>
+<td style='font-size=10pt'>Elect Director Susan Riddell Rose</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3i</td>
+<td style='font-size=10pt'>Elect Director Jay Thornton</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3j</td>
+<td style='font-size=10pt'>Elect Director Kevin Walbridge</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+</table>
+
+<br style='page-break-after:always;'>
+	  		<p>
+Any ballot marked 'Abstain' is considered to have been voted. Ballots marked 'Abstain' are considered to have been
+voted against management's recommendation if management's recommendation is 'For' or 'Against,' and for
+management's recommendation if management's recommendation is 'Abstain.' Where management has
+recommended that shareholders 'Abstain' from voting on a ballot item, a ballot marked 'For' or 'Against' is
+considered to have been voted against management's recommendation to 'Abstain.' </p>
+<p>
+Where management has made no recommendation on a ballot item, 'N/A' is used to indicate that there is no
+management recommendation that a shareholder may vote 'For' or 'Against.' </p>
+
+<p align='center' style='font-weight:bold'>SIGNATURES</p>
+<p>
+Pursuant to the requirements of the Investment Company Act of 1940, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorised.</p>
+
+<p>REGISTRANT:  Putnam Premier Income Trust</p>
+<p>BY:  /s/Jonathan S. Horowitz</p>
+<p>NAME:  Jonathan S. Horowitz</p>
+<p>TITLE:  Executive Vice President, Principal Executive Officer and Compliance Liaison</p>
+<p>DATE: AUGUST 19, 2020</p>
+</body></html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>npxletterx1x1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 npxletterx1x1.jpg
+M_]C_X  02D9)1@ ! 0'_____  #_[@ .061O8F4 9      !_]L 0P ! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$!_]L 0P$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!_\  $0@
+M7@#+ P$B  (1 0,1 ?_$ !\   $% 0$! 0$!           ! @,$!08'" D*
+M"__$ +40  (! P,"! ,%!00$   !?0$" P $$042(3%!!A-180<B<10R@9&A
+M""-"L<$54M'P)#-B<H()"A87&!D:)28G*"DJ-#4V-S@Y.D-$149'2$E*4U15
+M5E=865IC9&5F9VAI:G-T=79W>'EZ@X2%AH>(B8J2DY25EI>8F9JBHZ2EIJ>H
+MJ:JRL[2UMK>XN;K"P\3%QL?(R<K2T]35UM?8V=KAXN/DY>;GZ.GJ\?+S]/7V
+M]_CY^O_$ !\!  ,! 0$! 0$! 0$        ! @,$!08'" D*"__$ +41  (!
+M @0$ P0'!00$  $"=P ! @,1! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P
+M%6)RT0H6)#3A)?$7&!D:)B<H*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E
+M9F=H:6IS='5V=WAY>H*#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6V
+MM[BYNL+#Q,7&Q\C)RM+3U-76U]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_:  P#
+M 0 "$0,1 #\ _MA_:I_;"_9S_8G^'NC?%3]ISXB?\*S\!>(/&>G_  ^TC7O^
+M$2\=>,_M?B_5=#\1>([#2/[+^'WACQ7K-OY^C>%-?O/M]UIT.F1?8/L\U['=
+MW5E!<\'^RG_P4._8\_;<NO%-E^S!\7_^%FW/@NWM;KQ+%_P@'Q1\%_V;!>RB
+M&U??\0O!/A..\\V0A=NGO=.G6147FOES_@K79VFH7'_!,:QO[6WO;*[_ ."L
+M?[+=O=V=W!%<VMU;R^"?C>DL%Q;S*\4T,B$K)'(C(ZDJRD$BOG3]H/P#X)^&
+MG_!=7_@F=K'P[\)^'/ VH_%/X1?M9Z1\1[GPGHNG>'V\;Z?X6^%?B#5] @\3
+M+I5O:IK+:9J4<%W;3WRS7"/:62^;Y=E:)#[N&R_!5\%#F^M1QU;"9EBZ=2-6
+MB\+%9?"I5=*=!T55;JTZ,U[2.)2A-Q?)))I_+XW-LQPV8S4/J,LNH8_)\OJT
+MIT<1]=G/-JN'P\:M+$QQ/L(JC6Q5)NG/"OG@I_O8NS/U?_:F_;0_9I_8K\(:
+M+X\_:9^)/_"M/"GB'63X?T?5?^$.\?>,OMFKB#[4;3[#\/\ PMXJU*WQ =_V
+MBZLX+7^'SM_RU>_9@_:]_9V_;,^']Y\4OV;/B'_PLCP)8:_>>%[O7?\ A$_'
+M/@_RM=L+:TO+NQ_LSQ[X9\+:S)Y5O?VDGVF+3WLY/-V17#NDBI^1_P"TOI.E
+M^.O^#@']A;PEXSTZP\4^%_"G['WQ2\>>&_#WB"RMM7T;1?&<^M?$JW;Q/I^G
+M7T<]I;ZXL?A[0VAU%(A<P3Z1I=S \<]C;R)U'['>@:-X,_X+5_\ !4WP[X3T
+MZT\.^']:^%/[*GC'4=#TB%+'2;GQ-J/@R&?4-:;3[=8[5=0O;G4=1NKJX2-7
+MGNM0O;F3=/=32.Y99A5E[J*6(>-CE=/-7-SI_5?9U,QIX%894?9>U]HHU%5=
+M?V[A=."I6M(SAG>/EFBI<F#_ +.EG-7(U3]G7^NJO3RMYC]:=?VWL'2DX2I+
+M#_5E)*49O$)J4#ZP_:!_X+ _\$ZOV6?BSXG^!OQX_:'_ .$%^*7@Q-&?Q)X7
+M_P"%2_'/Q/\ V:OB#0=-\3Z0?[;\&_#+Q#X=O/M>AZOIU]BPU>Z-O]H^S70A
+MO(I[>+[ \*_M%_!OQM\#!^TGX8\8_P!I_!5O!.L_$8>-/^$>\4V6?!OA^QOM
+M2U?6/^$<U#0[3Q9_HEEIM[-_9_\ 87]JS^3Y=K8S2R11R?DO^S'X)\&>.O\
+M@KK_ ,%BM)\;>$O#/C#2Y/"O["]L^G>*=!TKQ!8/;WOP4\01WD#V>K6EW;M#
+M=QQQI<Q-&8YTC195<*N/!_\ @GSX<T?P5_P3L_X+%^ ?#-FFE>$/A]^U?_P4
+MC\$^#-"MRPL?#WA7P[\--%M-'T/38B2MO8V,(80PH BM)(^-SL3I6RS ^PIJ
+MC];CB84LCJXB52K1J4:L<VPM&O4]A"-"E.@Z,ZO+%5*F(YXJ[::UBAG.:O$5
+M/;1P%3"UJG$-+"0I4<12Q%&>2XJK0I+$5)XJK2Q"Q$*3E-TZ>%Y).R36WW=\
+M-_\ @N!_P2\^+GQ \$_"WX>?M._\)!X[^(OBG0?!7@W0O^%+?M#:3_;'B;Q-
+MJ5MI&B:9_:>N?";3=&T_[;J-W;V_VS5=0L=/MO,\Z[N[>!'E7Z(_:L_X*)_L
+M<_L17OA+3_VG_C#_ ,*QO/'-K?WGA:'_ (5]\4O&G]J6VF2QP7TGF?#WP1XL
+MBLO(EE1=FHO:22[MT*R*"1X)_P $?_ W@R7_ ()N_L7ZY)X3\,OK0^#_ (?O
+M/[8?0=*?5#>17E\T=W_:#6INOM*,B%)_-\U"BE7!48^-_@EHVC^._P#@X7_;
+MKG\::5I?BN;X7_LI?!C3OAW+X@L+75V\&6>NZ!\+;_6(O#?V^.<:.VHW7B7Q
+M ]U+9"":5-:U:%W,6HW:2J6"RN6-S&$*>81PN5T,54K0EBL-4Q&)G1Q=+"05
+M*LL%2IX>,I5HSEST*[Y8M+62LUF>=QR_*JM2IE;Q>=XG!4L+.."Q<,-A*6)P
+M57&U)8BC_:-2KBJD8490@J=?"QYIQ<G:+;_;']G_ /:%^#_[4GPM\/\ QI^!
+M/B__ (3KX9^*6OTT'Q+_ &!XH\,?;FTR^GTZ^']C>,=$\/:_:^1>VTT.;S2K
+M<2[/,A,D3)(WM%?AW_P1HT^R\/>//^"KWA+0[2WTCPOX>_X*9_'2'0/#VFPQ
+MV6B:);S0Z3&]MI&EVZQV6G6HAM+2".VLX8H8K>TMH(XTA@A1/W$KS,QPU/"8
+MVM0I.<J4?9SINHXNHJ=:E"M",W&,8RG&-11E*,8QDTY*,4[+W<IQE7'Y?AL5
+M7C3A6FJD*L:7-[+VE&M4H3E34W*483E3<HQE*;BI*+G-KF917'?$3Q_X1^%'
+M@#QQ\4?'^K?V!X$^&_A'Q)X[\::Y]@U/5?[&\*>$='O-?\0ZK_9FBV6I:QJ/
+M]GZ387=W]ATG3[[4KORO(L;.YN9(H7^ +;_@L!_P3XOO /A[XB:9\9_%^L:?
+MXI\4>*?!^A^#-#_9Q_:?USXVW6M^"/!.A?$OQ<T_[.VD?!F]^/FG:)X=^'/B
+MCPQX^U7Q5J?PVL_"UIX+\2>'_%$FLC1-:TR^NO.]I3O7C[2%\-2I5\2N:-\/
+M0Q%65"A6KJ]Z5*M7A.C2J5.6%2K&5.$I3BXKU/9SM1?).V)J5Z.'?*[8BMAJ
+M'UK$TJ+M^]J8?"_[37IT^:5*A^^J*-/WC],**_../_@K;_P3VN/&OA+P%:?M
+M"P:AJ_CKP)X1^(_A36=,^&/QFU/X=ZQX9\?^"/&/Q'\#11?%K3_AU<_"RW\6
+M>,/!?P]\<ZWX:^'M[XRMO'^MKX3U^QT[PQ<:GIEU91ZWA/\ X*A_L=^.-(^"
+M^L^%M?\ COJD7[1.I:A9_!'2_P#AB_\ ;2LO%7Q)TG2='\'Z_JGQ"\.>"M1_
+M9]M/&$_P9TW2/'WA"]O_ (ZSZ';_  9LUUN"*X\=QSP7D5OLJ=256K1C3G*M
+M1KK#5J*A)U:6)=6M06'JTTN>G7=?#XBBJ4DJCJT*U/EYZ4U'%U(1C2G*<(PK
+MT'BJ$G)*-;#+#PQ;Q%*3=JE!86K3Q+K0;IK#U(5G+V<XR?Z#45\N^-OVSOV<
+M/AW^T-X$_96\6^/-2L/CC\2+;1+KPQX7L?AU\3]?T)!XH@\>77A.T\4?$CP]
+MX,U7X8^ =5\86_PO^(DW@[1?'GC+PUJ_BV/P7XC?P[8ZF-+N=F7\>_VYOV8?
+MV9O&6A_#WXP>/]:TKQGKGA:Z\>OX?\(?"WXN_%B]\*_#FQU>'0;_ .*'Q+/P
+MD\!^.+?X2_"JPUF8:=?_ !0^*$WA#P!9745W'=>(XOL-X8(A^\]A[/W_ *S7
+MKX7#<GO?6,5AHSEB,-0Y;^UKX>,)RKT:?-4I1A-U(Q46UI-.G*K":<)T*&'Q
+M5>$URRHX7%N*PN)JQ=G3H8ES@L/6FHTZSE%4Y2<E?ZVHKX2\-_\ !3#]B7Q5
+MXZ^//PWTOXT26OBO]FG0/BKXI^+\/B3X9_%_P=H>C^'?@9J-II'QBUCPKXO\
+M7^ -#\'_ !2L/AIJ6H:79^,I_A5KWC5="FUC11?>4NLZ6UW?M/\ @H[^QE?^
+M!_AI\1['XR?;/!OQD^%>E?&;X5ZM:_#SXJSR^/? >L^/O!'PMLI/#.DQ>!GU
+MK4_%Z_$+XD^ _"=_\,X-./Q+TG5?%.DQZMX1LHYS*I2_?QP\J'[Z.,IT*V$E
+M2_>1Q5+%4\PJX:KAW"ZKT\32RC-:M"=+FC6IY9F$Z;E'!8ETIFU3E5A4:ISH
+M5:M"M";Y)4:]"> IUZ-6,K.G5HU,URN%6G-*=.>98",TI8S#JI]O45\L?$C]
+MM?\ 9D^$<G[0T7Q"^)?_  C\G[*?@CP!\1_CXO\ PAGQ U7_ (0/P9\46U]?
+M NLYT3PIJ0\4?VXWA?71_9W@P^(M5TS[#G6+'3Q<V?VCGO$'[?\ ^R9X4_::
+MT/\ 8^\1?$[4-)^/OB-O!]OI'AJ[^&/Q;7PE/JGQ"T#Q;XH\!^'+CXP+X#?X
+M-:=XP\9Z!X"\::IX7\&:EX_M/%>O6_A?6QIFC7,FGW$:$??G2I0]ZI7J1I4*
+M<?>G6JR4G&G2@KRJ5)*$W&$$Y-1DTK1=G/\ =PJU*GN4Z%*5:O.?NPHT81PT
+MYU:LG94Z4(8S"2E4FU&,<5AI-I5Z3E]D4444 %%%% !1110!^2/_  5@(&I?
+M\$OB>G_#VG]ECU/_ #)?QN/;VKQC]JYUU#_@N3_P2HMK!DO+GP_\(OVP]9UV
+MWMW66?1](U7X5^(=(TW4M1A0F2TLK_5#_9]G<S*D5Q> P1,TBLH[;_@M%X%T
+M3XG>%_\ @G7\._$DVM6_A_QK_P %2?V;/#.M3>'->U?PMK\6F:S\/_CG8WCZ
+M/XCT"\L-;T/45@F=K35-*O;6_LI@D]M/'*BL/FKPQ\$?!?[ O_!8K]E/X:_!
+M==1UWPI^V9\&_C?9?$"\^+,]M\5/B5X=U+X.>#M0\8Z5=^$/C5XUM=7^+NGZ
+M%KAT33+#6O!$_C.X\*7,MI#J)TW[3;:?]@^KP"I_4J$U.3Q,<JX@]E1]FE2G
+M"5'$1K2G7YW*$J=&5:K""HR525.--U*?-<^$S1U7F6(ING!8.6?<*2K8A5'[
+M:G6AB\#4P].&']GRSA5Q%/#4JE3VT72A5G-4ZG)8] ^-G_*Q%^QM_P!F(_$S
+M_P!2#XQUV'[,/_*</_@IQ_V0/]DC_P!0C3:X_P"-G_*Q%^QM_P!F(_$S_P!2
+M#XQUV'[,/_*</_@IQ_V0/]DC_P!0C3:J?^Y5/^R2P_\ ZOL,8T?^1A#_ ++W
+M$?\ K,U36_8Z('_!83_@L.2< >'/V#LD]/\ DB_B+O\ Y[^E?._[#5Q!=?L+
+M?\%M[JVFCN+:Y_;2_P""G%Q;SPNLL,\$_P .M%DAFBD0E)(I4=71U)5E8$'!
+MJOX!_9B\/?M*_P#!7K_@K!8>(OBM^T3\,K3PQX>_8IS%\ OCEX[^"P\2PZ_\
+M$M0ANK7QBW@C4M/;Q-:V::8@TF'4C(NF?;M6^R>6=2N2_P"E/BO]ECX(?L>_
+M\$\?VEO@S\ /!Z^"_ >G_ 7]H'77LI-4U;7=3U7Q!K7PY\12ZOKVN:[KM[J.
+ML:OJU^8+>&2YO;R406=I9:?91VVGV5I:PSB*]"E.A1C*I/$XK"<*>Y[)1I4H
+MT,MP4[NJZK<Y3YH62I144W>3:-L%AL96C6Q*IT887 XSC+EJ.M*5:O5Q69XV
+M$8JBJ2C3A!PFI3=:3?NM0LW;+_X(]N@_X)D?L898?\D5T(]><&[U#!QUYKXH
+M_:(U2V_88_X+)?!O]J7Q'!;V/P(_;T^%5C^RK\1/&-Z\:V?@_P".'AN]L[_X
+M:W]^8_W]M9^)M-\/^$O"\5Q=*-/M;5?$6KWMU%!I($,O_!'O]@GX&?\ #)/[
+M&'[2HUCXWCXB_P#"O]$\8?8/^%__ !?/P[_M=I-0MS'_ ,*Q/B\^!/[("$L-
+M$_L'^RU<AQ;!@#7Z;_MW_LB^#OVV_P!E_P")/[/_ (K==/N_$.GP:MX$\51H
+M@U'P/\2/#DW]J^"?%NFW01KFT>PU>&.TU863P7&H^&[_ %S13,EOJD^>>I6P
+MF&SS'PE4J5,'C*^/PF.E.BJ<J4*^)GS2IQC5J^T^KU8TZ].=X2FZ5N2%['72
+MPV.QO#>63A1I4L;E^'RS&Y8HUW56(EA<+2<8U6Z-)4?K="5;#3@O:J"K<WM'
+M;3Z/\(?#KX?>!+GQ5J'@;P)X-\%WWCOQ'>>,?&][X4\,:)X=N_&7B[40O]H>
+M*?%5SI%C9S>(O$=\%47FN:L]YJ=UM GN7(X[6OS"_P""2G[4WC?]IK]E.#3_
+M (S V_[1?[.?CCQ/^S5^T)97%S]IU&3XD_"F:#1KG7]2D(59=0\4:5_9VKZQ
+M<6P:P?Q)+KUO8L(;7RHOT]KQ,70K8;$UL/7?-5HS=.4N9R4E%)0E&3NW&4.6
+M4'_*U;0^DR_$T,9@L-BL-'EH8BE&K"'*H.#G=SA."24:D*G-"K&VE123UN>.
+M?M$?";_A?GP ^.'P,_M__A%/^%R_"+XC_"O_ (2C^RO[=_X1O_A8'@_6/"G]
+MO?V)_:6C?VQ_9']K?;_[+_M?2_M_V?[+_:-EYOVF/\9/A1_P1*\<?LRZIX"\
+M:?LN_MB:=X-^)GPVF^)]EX>\5_&;]GW5_CY;ZIX6^.GP;^"GP]^+&D>.6OOV
+MAO!'C[QOK$'CGX'>&?B%\(/$^M_$J2Z^&7AXVOP>U:R^(/@'0=%M[7]F_P!H
+MCXM?\*#^ 'QP^.?]@?\ "5_\*:^$7Q'^*G_"+_VK_87_  D?_"O_  ?K'BO^
+MPO[;_LW6?['_ +7_ +)^P?VI_9&J?8/M'VK^SKWROLTG\W^A?\'+SZQ:_!:6
+M+]D7P%JTWQ5\=>)O!\,O@K]K]O%VC>/)M OOV7+2+P_^RIK _9LT@?M+?%>1
+M_P!II=+UCX:R6?PJBT#Q3\)_B5H$OBZ]CT=M43BP="EC,SQN PD?:9EF&7X'
+M XRDI2IRK9?BJN:T<)A_:U)0HPIXF4LUP]>-*I"=;#U:N'QG-AJT*<_0Q=2=
+M# Y?BL7R_4,-CLSJX!U(0K4X8^&"P-3'U7149RG4HX6&!J4:E>G*-&I%5,$X
+M8E5)'V/\%?\ @@I^SI\(]8OM:U+QUXI^)5UX>_9T^$7P4^"J^*V\86FF?##Q
+MQ\-OA[\9O 6L?'/6?!6@?$K3/A=\3/''B*/XT:_?>&'\1?#ZSU/X56KZSI'@
+M?Q):Q>)]2NH\#PC_ ,$7?'_A']F;]FO]F?P[\;?V/_AC#^SKXZ\,^+M*^.?[
+M/?\ P3_\5_!#]H?S_#=M\,K*_P#&'@GX@:-^VUK>F>#/CA\3]/\  NL:7\<?
+MB=KWA7XA^&OBQI/B+3=-UWX6P6OAN9/$/HGQ3_X+'?\ "M/"_B7Q)_PSG_;7
+M_"/?M5_MU_LR?8C\7?[-^V?\,5?LZ_%WX^_\)L;G_A6&H?9_^%E_\*K_ .$3
+M_P"$;\B?_A#?[=_MW^W_ !7_ &7_ &-J/B/B[_@N5\5O /A#2;#Q;^Q#H\7Q
+MX\1>+?V/(?#?P[\'_'KXL_%KP)KOPO\ VU/ 'Q7\;?#7Q_I7B?X/_L7>/?CQ
+MK/B/P]>_![Q9X4\9_"[P[^ROK?B*'5(8M0\-7WB30I;;4;GHH8N4\35S&A.U
+M?'U^#\SG-4U"E7Q7$.+JYOPI5IX:4(X?ZUCL1F5;'RHTJ*K4Z<:E;-*5+#Y;
+M)X7/%T'!4\-C%*3P6$XCH*52I*K5HX+)8PX7S^-7$J<ZOL,/+*Z>5QG6JN.(
+MQ52'U"5;%9M&>-^@_P!KO_@E?\9OVA?VQ-(_:_\ A9^VB?@7XG\.^%?"'A7P
+MW:7/P=\;>-?$OAG0?#<NJ7OB3X?>&O&G@_\ :6^#-MH?PF^+NJW>G:E\5]'L
+M/",7Q8U)M.N+#P5\;/ >EZQ?V3=-^VQ_P3%^)W[2OQEU/XY? O\ ;,\;_LF>
+M./'OP>^'_P %/BSJO@K0_B:VM:KX>^%OC[Q'\0/ _B7X:>*?A-^T1^S_ .*/
+M GB[3;OQOXXT74]/\::M\7OA/XIT76]/'BCX5:QJ7A^PU%O*O '_  67U[QM
+M^T%XB_94O?V8=,\(_'.+X]6?P-^'EKXB^-7B73OA[\36B^ 7B'XJ>,?&>E^(
+M]2_9\TWQUH.G_#?X@Z=X8^&?CKPUKGPK@\8Z%HOQ#\'_ ! N-$%[?2> 8\KX
+M9_\ !9?X@R6^J>)/VC?V7OA?\'OA]IEE_P % 'F\3?#K]J?Q7\9=5AU#_@G?
+MKP\*_%."\\/>)?V4_@A;Q:=XUU\B+X=WECK^I:G?:>\5QK.@Z/J4J:,<J<EA
+M:&!Q---4,MI8_B;+JJC*LHTJF CCLPQ.$=JCQ:CA\X=6OE]+V[H8_&8B#PE/
+M-%B(1TDIU\54P<O>Q695<OR"OA_=@ZU6GB\32RW#XJ"Y84YNMPM7>&QF(Y'4
+MP>6PJQQ,L!4H3K<IXN_X(.G7/%_[3WBWPY^V!XK\(W7[8'B7XUV_QEED^%=M
+MXVOM-^$?QH^.GPK^,&K> ?@_'X\^)'B'PI\+/$4^C>!?%'P_\<^*;'P=J_@S
+MXMVOC#1?$?Q!^$VK:C\/]%M;[Z&\ _\ !)&S\(6?[+.B^)?VA-2^+.C_ +)?
+M[<7Q7_;!^']]\0?@_P" [3Q=J6B_%?0?']]J'PGU6Y^'5SX ^'VE-H_QD^(%
+MS\6M*\4^#?ACX7\-V,GA_P +^&=(^%^D'0[#Q#!TG[-G_!4*\^/6O_L7^"O$
+M/[/6H_"GX@_M-7/[77ACXK^!]9^(\.MZU^S=\3?V1)=+MO%7@34OL_@;2X?'
+M[>(Y]4@NM-UJ-O!D5OHESI>M0V&JP:I'#%Q/[4__  5&^,7[)GQY^/\ X"\=
+M_LN_"W6_@S\ ?V5]1_; U3XF>&?VH?&$_P 3?$OPP'B76?A[X=\/:3\&M1_9
+M1L/"UI\2=;^(^E0:3=:+?_'./PAHWA?4$\4OX\OKZVF\+UI!2RQY5@8+E6!P
+MDXY-"-L;"EA>&:_]NQE@,0OK$)_5:G#]3,<)5HU9U,?1HXNIA)8K#X_%?6L8
+MJ.9T<?B8_OJ>.QE?^T7=T:M7&<14ZO">(AB*3=*O&IB5F[R>I2E"*P5>KA:;
+MCAJ^$PCH6OVM/^"7OQ:_:,\??ML:MX/_ &H/AU\-/AS^W)\!?A1\&/B)X2\2
+M_LS^)?B5XU\)W_P7LO':^#/%G@OX@:7^TY\,M"CM+K5O'$MYXG\-:Y\--8FU
+M/3M.33-*\2:!<W+:O!W'PL_X)@Z7_P -=ZK^W!^U3\0/"GQ]^.B^'_@O:^!;
+M'X?^!_BS\"_@Y\//&GP<TKXN^&++XD:;\']7_:7^-7ACQ3XNOO"'Q3?1=$UK
+MQZWB?Q!\/KFV\37_ (*U[2X/&^H:9I_C$O\ P6 \:_"CQ_XC^&W[7?[*OA_X
+M&ZW\/]4^ &J_$[7_  )^T;'\9_ ?@WX3_M,> OC)J7PR\=#Q)J'P6^%%]J/B
+M&T^+OPB;X+^-O!<^@:3IVDZCXJTCQ;X8\;^--&5;>[\>7_@O3J6L?LQZU^T!
+MX3_8[UB\\1>"_"'[/H^)GPM\0?%3Q5:ZO\/OC5\?_P!K7Q;^RMIWP5U&'P%^
+MSW\3?B'K^K^%Y? ?B?XA:A=>$OA1KOBG7=)?POH?A?X?ZMJ/BFQN(9I6I3BZ
+M4HN>$S/ 9?&O"<:WU3-,:L96P=*.+3FL-B'+$UL-.HJT/JU>K@<KQ$Z-=Y;A
+M0KR5>%J]^3&X"GB/9R3HK&Y?564T()44H?6J=:AEN68B5!0J2JX"A/,ZE.6"
+MGB\5/^B.BOPT^"'_  6)\5_$O]OKP?\ L'>,/V9O"_A3Q3X@\*^$-<U[5?"W
+MQM^(VM_$'P9)XK_9W'[0)\2^)/@#\7?V5?V??B7X8^$6BAK3X7:QXY^($'@3
+MQGIGQ-UWPSX:U?X4:9?:I=V^E?N76DJ4X0ISE&T:JFZ;NGS*G4G2F[)MJU2$
+MX^\E=Q;5UJ*-2$VE%W;H8;$+1K]SBZ2K8>=VDDZE)J?(_?@FE.,6T@HHHK,L
+M**** /R2_P""K_\ R$_^"7W_ &EI_97_ /4+^-U>,_M<_P#*</\ X)(?]DT_
+M;3_]4UXB_P 3^9K[O_;<_9H\;_M(W7['-SX*U?PQI*?L\_MP?!?]I?QB/$UU
+MJELVJ>"/ASX?^(FDZUI'AP:9I.JBY\3W5QXNT^33;743IFF2PP7AN=6M72%)
+M_/?CC^R#\1OBA_P46_8<_:^T'7?!MK\.?V9_"/[06@>-M#U.]U>+QAJ]W\5_
+M &K>%-!E\,6=KHUWHUU;V6HWT4VK/JFMZ2\-FDC6D5[,%A/T&#Q6'IT\*JE:
+M$>3+,^HSO?2KB<+BX4*;TMS59U*<8_9O-<S2NU\EF6"Q=6MC)4Z$YJ>=\+8J
+M#C;WJ&"Q^75L746MVJ-/#U935KM1M%29\8_&WC_@XA_8V_[,1^)?Z^(/C%C_
+M #^==A^S%Q_P7$_X*<@]O@'^R0/7_F2-.':O5OVTOV,_VB_%?[6_[/?[>'[(
+MFO?"#_A=/P0\ >-OA5X@^'?QWF\76'@/X@> O%)U2>UAL]?\%:?J>L>'M?T>
+MZ\0^(IH97LI;/4+BZTIKF>UMM,N;?4=G]AS]D#]H'X?_ +0W[47[9W[5GBCX
+M9W/QN_:=M?AMX<_X5[\%I?$6H?#CX=^"/ACH$.AZ/8VOB#Q;I^EZ[KFN:D8X
+MI=2>33XK.TDMI);6[O1J'D6&\L3A7ETYK$4G-Y#1RWV"E^_^M1S:EBG%T[?P
+MU0IN;JWY-5"_/:+Y(8+&1S:%+ZI7Y8\4ULXEB>5?5?J4\BG@U+VU[>U^LSA2
+M]BE[1*\W'D3DO*_V-?\ E,+_ ,%B/^Q<_8-_]4OXCK]&OVQO^31?VI_^S<OC
+M=_ZK/Q/7@OP!_9/^('PL_;Q_;R_:CU[6O"5[X$_:CTK]FFP\":/I-WJTOBK1
+MI?@U\/M6\*>)&\56MWH]GI5K'?ZA?PS:*=*U;5VGM$E>]6PFV0M]7?'WP+JW
+MQ1^!7QG^&>A7.GV6N?$7X4?$/P)H]YJLEQ%I=IJOB_PCJ_A^PN=2EM+>[NH[
+M"WN]1BENY+:UNITMTD:&WGD"QMYN)KT99A@JL:D94Z>%R2$Y*]HSPN78"A7B
+M]-Z=6E.#MUB[7/;R_#UZ65XZE4I2A5J8W/ZM.#MS2IXK,\?7P\E9M6JTJM.<
+M;O::O9W2^,_^"/?_ "C(_8P_[(MH7_I7J%<Y\"OVH_BYX]_X*@?MU_LM>(]4
+MTFX^$7P'^&W[/GB;X=Z7;:)8VNKV6K?$3P9HVM>)I=2UR)1>ZI%/?7D[6T%R
+M62S1EBB 5%SY#^QO\&/^"K?[+7PA^!/[.]QIO_!/_7OAA\*-/\/>$-2\11^-
+M/VA'\>:AX0L]4#ZS?6-J? >G^'Y/$0TV>\.FQ3_9-,DO4MTNFA@,C#9^+O[)
+MG[9/PI_;<^*O[:W[%4G[/'C2Z_:!^%?@'X?_ !<^&7[06M^/?"D5IKOPZ$.F
+M>'_%G@OQ#X&T'7!+$?#]CIUC?:1K"6P+KJ%S%<3R36D5IU5:6%J8W-^?$8*?
+MUV&,G@:SK0E3IUIX^C6@YU+.-"4\,JL5*;BK3<6TI-GG4JV-IY;D"I87,:;R
+M^> IYE05"<*E2A3RRM0JJ%.Z^LTZ>*=&3C#FNX*<4[1OXS_P1W58?VOO^"U=
+MO$/+@7]NC4+D0KD1BXO-6^)<MU.$^Z);B0!YG W2, 6)(!K]]:_,/_@FS^Q3
+M\3_V6&_:@^*7QW\8>"?%'QT_:[^.6K_&OXB:=\,(]<7X:>#7O9]4N]-\*>$;
+MGQ/:67B+5+;39]?U<2:IJMK;3S6KZ?:-%-+8SZEJ/Z>5R9S7I8C,:U2A.-2G
+M[+"4E.-^64J&#H4*CBVE>/M*<^65K2C:2T9Z?#N'KX7*,-1Q--TJWM<;5=.5
+MN:$<1C\3B*2DDVE+V56#E&_NR;B]4<=\1/ 'A'XK^ /''PN\?Z3_ &_X%^)'
+MA'Q)X$\::%]OU/2O[9\*>+='O- \0Z5_:>BWNG:QIW]H:3?W=I]NTK4+'4K3
+MS?/L;RVN8XID^:?B9^P!^R)\8M'\!Z#\2?A!;^)]+^&/P7US]GWP#;S^,_B+
+M82>&/A5X@N_ASJ-]HFG7FD>+]/O1K=KJGPD^'.KZ#X]GN)OB#X6UKPK8ZQX8
+M\4Z1J<M[=W7KW[2/Q1G^"/[/?QR^,EI=>#[*]^%?PD^(?Q!L+GX@ZM=:#X%C
+MU#PAX3U;7;#_ (3#6;&&YOM,\-O>6,$>L7MC;SWMO8//):0RW C1OY7U_P""
+M_?[:-KX.\53ZEX1_9;TWQU\!?A7XY^/7QOT'QG\(_C!\.=;\7>'?#'C3]F3P
+MKI_P&\+> [K]HSQ7/\(?C)JL/QXU+6=&\7ZCX[^/'ASQ+X?3X8:W;^!]&NO'
+MVJ>'?"/C8>M2ECL5AZ4E2Q6%P=',\35LX..#I87/J;Q+J03J5%@<N>?J<8*=
+M:.&QV+PN&IU:N9_5L3[]>-2CA,'BZMY4:N.JY?@DI)R6.KU\F?L:<9-*D\9C
+M_P"PH>T;A2>(H8+$8FI2H8!XG#?T#:Q_P2T_83\0?$GXC?%G6O@A<:EXQ^*U
+MO\44\9I=?%?XUR>#I=6^-O@&#X7?%SQIX:^&G_"QQ\-O /Q,^(OP^MX_"GBW
+MXJ^ O"7AGXE:SI33QW?BN22YN99>;LO^"1O[!6F^!T\!Z?\ "_XD65K%\0/A
+MO\3[?QM;?M3_ +6D/QLM/&?P<\)ZKX%^$U]8_M#)\<A\>;'2_AIX.US5O#G@
+M7PO9_$B#PKX5TF_GM=%T2R0KM^"_V#_^"M/[1'[3EI\5=;^('A?X#VVFZA^P
+MOXA_;A^#FB>!- \<Z3XC^&-A8?&'XT_"G3?@_P#'8ZU\2_%D'C?Q&T?PTTG7
+M[OQ9X6M/A/#/<W'B;0;?PA;KI=MK4WS1^RI_P6=_;V_:!T_X)_!OQCX1_98^
+M#_[2G[0OQF^"6@>%_&OC#X6?$%?A5\._@Y\8?V/=6_:HT'Q/XC^&?A/]J_QV
+M/'?BWQ[/X3\5^$/@]H.E_M/>!?$&NZ7#8>(/B/X(^%OB$3^ WUITI)5J5.BZ
+M?U'"Y+3G27LZ<:2H<69ED.69=3?,J+JY1Q-D^;5,/1IS=##3P%?-,NJ5*#IX
+MFIE6G"#4ZM1-2_MRJZEIU+86'#669_F^/G%1E56&Q^09QE2KMP]OB7C*.78J
+MBL1S8>/[PZ-_P3T_9 T+QC\.?B+:_":>_P#B#\)_B]XH^//@3QWXD^(_Q7\7
+M^,M+^+7C;X9:3\'_ !EXPO\ Q1XK\<ZUKGB:X\5?#_0=&TKQ%IGBF^UK0]9U
+M/3;/Q9J&EW'B^%=>',>,O^"8'["WQ!\+P^"O&GP)MO$/A.+Q3\;/&4OAZ_\
+MB#\5SI>H:W^T;\2=$^+?QN36K6'QW%'KVA?$3QWX=TK4M;\)ZT+_ ,*)I4=W
+MX2T_1;+PAJFJZ#>_F;\"_P#@JO\ MD?%B\_96\-W7PQ^ 4VI_M,ZG\=_#MCX
+M]\)Z3XVO_ASI-S^PQ\8?B1X8_:K\:6D>I_%"TUC5O!7QA^&NA> -5_9I33KJ
+M^N_"7BWQ%KJ>.-0^(>A:7:RW/63_ /!1K]LK6_V9/^":O[2;0? 'X+?"C]J[
+MX9>!;O\ :(^/FN? 'XE_M >!/A7\<OC!J_PX\-_!CP%:?"OPM^U5\%/'W@?X
+M=^/M?\5>(-*F^+&J^*/BCI'A'6;7PQH_BJRTNSUW_A(XG33Q"IJC^^2Q>"R?
+M"I_NN=9E#&X#+U0AB?8RI83'2X6J97@J=6-&>,Q& R_+<+0K5JF7T:CJ?N*U
+M557[*IA(8O'UJB_>QH8G+<3B)X]1K8?VT*F-R_%9_F-;%SPTZL<+_:.:XZK6
+MAAJ^,Q,_N?3O^"3?[ ?AG6_"VO\ PX^!E]\#KWP/\0O%?Q2\&VG[-_QC^/'[
+M,^@>%?&/COPKX$\%>.)_#WA7X ?$_P"&_AC2- \9^&_AKX.L/%O@FPTB#P3X
+MDFTZ^U/6?#M[JOB#Q'?:M]&_$/\ 9,_9W^+/C#Q]X[^)/PPTCQIXC^*/P'N_
+MV9/B!)KVH^(+W1O%'P,O]=U7Q+>> M1\+-JX\+?9KC6];U.]?6K?1H/$O^DB
+MV&M"T@MH(?Q3^'7_  42_P""A'B?0?@QX6UOQ;^Q1;_$G]I3]OS]I#]B_P !
+M_$*;]F_XV^%?A3\*M*_91U'X[V_B[Q?XP\)7?[97B?7OBMXU^,MM\(]/C^&7
+MP^T;XA_".V\+ZIJ6J6>I^*?'$=K!,?E30?\ @X#_ &K;3^V=1\<_!W]GQ? ^
+MC?#;0?!,GQ+\'Z?\2-2\*77[56M_M5_M*_ GP?K5JMWX]#R?LZ_&CPO^S%XL
+MN/ )%Z?$GAWXC>)O!/AN^\8^,+#7DN;<IPAC?J>&BX5J=>-/#8&%12=*<,UX
+M;I25"C"I!>S6-RG,,)D/U9PA4QD\QHY33I5Z$ZJ@JTY9?#'8BHIX=8"LGCYT
+MVKT*N#XHQ]"%:K*E)WAA>(<FS7-?K2E*EA*N5ULVJ5:-2I@JN*_=.W_X)3_L
+M&#X-?%[X":Q\$M1\;_#?X]'X?+\7HOBA\9/CO\6?''CBS^$TVES_  NT;4OB
+MW\3?B=XM^+5MX<^';Z/8KX)\,:9XWL?#WAB 7EMHVF6=MJ>I17?5>(_^";7[
+M%OBCPG\=_!=[\&GTG1/VEOC!X.^/OQEE\%_$CXM_#SQ%XD^,'P^U'PMK/@OQ
+MSH_C+P%X\\-^,/ 6I^'-;\&>']>TVW^'FN^%-,CUZ#4-<>Q?5==UZ\U/Q;]H
+MG]IG]J?X;_MM_##X$6NJ?!SX*_ 'X[>"9/!_P%^+_P 0?@#X]^/H^)G[5DOA
+M?XJ^)+[X8^(-6\"?M/\ P47X/VOA30O"GA;QIHNE^*?!&M6/QKTN'QKX0\-_
+M$WP'XHM+*>W_ !@\2?\ !:C_ (*,?#;P[^ROXK\5+^QMXW7]H+Q5^TGI\_A?
+MPM^RU^T1X-M8+;]GG]L;X7_LI0:#JGQ4O?VQ/B%X/^#MCX\@\::SXWN?C;\4
+M](7X<_#W4+?0/!&HZ/XDU+5]/U#5C#RECL7@:2;>)S3%SR_#3JMRE4Q>7UZ.
+M(>&JSC[2=.M0AP]E6:T*51*I*AA<AKX:,ZZR^G$KQC@J4TU%4<#"AC%&DE&G
+M269X'$TZ>)H*7LX.%:G4S#*L1BZ+>'HXBEFN Q=>DL-CE3_H:\'?\$]OV3/
+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
+MMH6D>'=&M$^Y:Z3HFGV^F:=;+_LP6EK#$OL@X'2N@HHKE/3CLK=E^045Y/\
+M'GX2Z!\>_@C\7O@AXJC\SPY\7?AIXW^&VM#+*R:=XT\-ZCX>N9XG0B2*>VCU
+M W$$T;++#-%'+$RR(K#^9C]E_P#X)C_M]_$;XT^&=7_;V\':?=?"K]HFPN_C
+M+^V)H#?%7PAXMT[0?CI\"?A?\8?V2/@IX0T6QT#6;B^US2_BA\'?'/PP^,=[
+MJ-A%JVB^'O$WPL^P:[=:3XA;3[2]P52K*IC:<*#;P^"I8G#2G-4X8^NYXJMB
+M<#1J27LJ->CEV Q5>E/$U*5'%9A5RO*85(5\TI5:>LXTZ>'H8B51S4\35P^(
+MHT:?M,3AE*.&A@<0J+G!U\-B,7B'2Q<Z4G/+L+AZ^/J4ZU.'LW_5_17\FO[+
+M?_!,;_@H7J7QW^$^I_M@^&=.UOX0?%;7O LG[7FFW7Q3\(^)=+M;#_@GEX U
+M3X5?L<7^G:)I>MRZEK4O[1>M7FF_''Q1;V)U=/"\^FRZ/XXLM%\0QV325?V=
+M_P#@F1_P46\._'WX27WQG\/+JWP4O/'OP\^#?QJMS\6O!>LA?V8O^"9]_P"
+M?&_[!'C6TTB/7X-1UK7OCW\0O#_CR_\ &&@O+-?>&[;QY';^.M)TE;2>]@[*
+M4:-3$82G*LZ6'QDXUXXF=&I_LF4TFJ..Q.8T%^]PV:4<5*,<%D=)8G$YE@^?
+M'T:].G!TSGK.K1IXZU.-:O@,,HRITJJE2QN;7G5G@,LQ#BOK6#AA,-C*BSJM
+M3PN!J8O^SL!"];,J<J/]9.H:?8:M87NEZI96FI:9J5I<Z?J.G:A;0WEAJ%A>
+M0O;7EE>V=RDEO=6EU;R207-M/')#/#(\4J.C,I@T;1M(\.Z1I7A_P_I6FZ%H
+M.A:;8Z-HFB:-8VNEZ1HVD:9;166FZ5I6FV44%EI^FZ?9P0VEC8VD,-K:6T,4
+M%O%'%&B#^:7XV?L _MC_ !D_X*H:3^WAX1^$2_"OPE+X=_9OTO3M:U/6O@W8
+M?M(^ [^\^ '[4G@#QK _CSPG\6O&>DCX:_"3QQ\2OAYJ'QW^#F@QZS8?&I[3
+MP[X@^&?C[Q&?AL=$\3_G]JG_  1U_;(\:?##X>^"_!/[$_A+X#>(_#_P6_9Q
+M^%'[76I_$CQS\"?BYX)_;V^./AG]M?X!?%7QE^TAXY\'^%OCA;WWQD\%^$O
+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
++ 4444 %%%% '_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>npxletterx2x1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 npxletterx2x1.jpg
+M_]C_X  02D9)1@ ! 0'_____  #_[@ .061O8F4 9      !_]L 0P ! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$!_]L 0P$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!_\  $0@
+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
+M^(M]X-\/6ZS+"GAVX\6Z7JVHV\6R'^ST\1WEO;Q&.VM\_4]%'-+77?\ X/\
+MFPY8Z:+3^OG\RG]D_P"FG_CG_P!E7QGIO[+?Q4\(>(/B1J7PU_:<UWP3H?Q(
+M^)'BCXG7WAM_A3\/?$T>FZ]XL>T;4HK35==AGU"6U5;*W2&.5@$"$A07<M]L
+M44DVOG\_S&TG:_3;<^.Y?V</BWI'BOX@Z[\//VF=8\"Z/\0O&5SXXOO#*_"G
+MP!XFM]/UB]T;1-$NA:ZIKZ7.HR02V^@V<GE22!$E:4HJAJ]L^''PLA^'DOCV
+M=-=NM:N/'_CR^\?:E+=65O:?9M1U#P_X;T&XM8$MG,;6Y'AR.[5BJ,LEW+%@
+MI&A/K%%#;:LWII^%K?=RK[A<L4[VUNW\W>_YL9&GEH$SG&><8ZDGID^OK3Z*
+)*104444 ?__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

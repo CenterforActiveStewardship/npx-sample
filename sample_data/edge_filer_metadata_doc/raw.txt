@@ -1,0 +1,2024 @@
+<SEC-DOCUMENT>0001193125-22-229555.txt : 20220825
+<SEC-HEADER>0001193125-22-229555.hdr.sgml : 20220825
+<ACCEPTANCE-DATETIME>20220825104503
+ACCESSION NUMBER:		0001193125-22-229555
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20220630
+FILED AS OF DATE:		20220825
+DATE AS OF CHANGE:		20220825
+EFFECTIVENESS DATE:		20220825
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BlackRock Science & Technology Trust
+		CENTRAL INDEX KEY:			0001616678
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-22991
+		FILM NUMBER:		221194173
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+		BUSINESS PHONE:		302-797-2000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>d380997dnpx.htm
+<DESCRIPTION>BLACKROCK SCIENCE AND TECHNOLOGY TRUST
+<TEXT>
+<HTML><HEAD>
+<TITLE>BlackRock Science and Technology Trust</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">N-PX</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>ANNUAL REPORT
+OF PROXY VOTING RECORD OF REGISTERED MANAGEMENT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>INVESTMENT COMPANY </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Investment Company Act file number: <FONT STYLE="white-space:nowrap">811-22991</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Name of Fund: BlackRock Science and Technology Trust (BST) </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Fund Address: 100 Bellevue Parkway, Wilmington, DE 19809 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:2%; text-indent:-2%; font-size:10pt; font-family:Times New Roman">Name and address of agent for service: John Perlowski, Chief Executive Officer, BlackRock Science and Technology Trust,
+55&nbsp;East 52<SUP STYLE="font-size:75%; vertical-align:top">nd</SUP>&nbsp;Street, New&nbsp;York City, NY 10055. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Registrant&#146;s telephone number,
+including area code: (800) <FONT STYLE="white-space:nowrap">882-0052,</FONT> Option 4 </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date of fiscal year end: 12/31 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date of reporting period: 07/01/2021 &#150; 06/30/2022 </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Item 1 &#150; Proxy Voting Record &#150; Attached hereto. </P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER"><DIV ALIGN="LEFT">
+<PRE>
+
+******************************* FORM N-Px REPORT *******************************
+
+ICA File Number: 811-22991
+Reporting Period: 07/01/2021 - 06/30/2022
+BlackRock Science and Technology Trust
+
+
+
+
+
+
+
+
+
+==================== BlackRock Science and Technology Trust ====================
+
+
+ACCENTURE PLC
+
+Ticker:       ACN            Security ID:  G1151C101
+Meeting Date: JAN 26, 2022   Meeting Type: Annual
+Record Date:  NOV 29, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Jaime Ardila             For       For          Management
+1b    Elect Director Nancy McKinstry          For       Against      Management
+1c    Elect Director Beth E. Mooney           For       For          Management
+1d    Elect Director Gilles C. Pelisson       For       For          Management
+1e    Elect Director Paula A. Price           For       For          Management
+1f    Elect Director Venkata (Murthy)         For       For          Management
+      Renduchintala
+1g    Elect Director Arun Sarin               For       For          Management
+1h    Elect Director Julie Sweet              For       For          Management
+1i    Elect Director Frank K. Tang            For       For          Management
+1j    Elect Director Tracey T. Travis         For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Amend Omnibus Stock Plan                For       For          Management
+4     Approve KPMG LLP as Auditors and        For       For          Management
+      Authorize Board to Fix Their
+      Remuneration
+5     Renew the Board's Authority to Issue    For       For          Management
+      Shares Under Irish Law
+6     Authorize Board to Opt-Out of           For       For          Management
+      Statutory Pre-Emption Rights
+7     Determine Price Range for Reissuance    For       For          Management
+      of Treasury Shares
+
+
+--------------------------------------------------------------------------------
+
+ADOBE INC.
+
+Ticker:       ADBE           Security ID:  00724F101
+Meeting Date: APR 14, 2022   Meeting Type: Annual
+Record Date:  FEB 15, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Amy Banse                For       For          Management
+1b    Elect Director Brett Biggs              For       For          Management
+1c    Elect Director Melanie Boulden          For       For          Management
+1d    Elect Director Frank Calderoni          For       For          Management
+1e    Elect Director Laura Desmond            For       For          Management
+1f    Elect Director Shantanu Narayen         For       For          Management
+1g    Elect Director Spencer Neumann          For       For          Management
+1h    Elect Director Kathleen Oberg           For       For          Management
+1i    Elect Director Dheeraj Pandey           For       For          Management
+1j    Elect Director David Ricks              For       For          Management
+1k    Elect Director Daniel Rosensweig        For       For          Management
+1l    Elect Director John Warnock             For       For          Management
+2     Ratify KPMG LLP as Auditors             For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+ADVANCED MICRO DEVICES, INC.
+
+Ticker:       AMD            Security ID:  007903107
+Meeting Date: MAY 18, 2022   Meeting Type: Annual
+Record Date:  MAR 22, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director John E. Caldwell         For       For          Management
+1b    Elect Director Nora M. Denzel           For       For          Management
+1c    Elect Director Mark Durcan              For       For          Management
+1d    Elect Director Michael P. Gregoire      For       For          Management
+1e    Elect Director Joseph A. Householder    For       For          Management
+1f    Elect Director John W. Marren           For       For          Management
+1g    Elect Director Jon A. Olson             For       For          Management
+1h    Elect Director Lisa T. Su               For       For          Management
+1i    Elect Director Abhi Y. Talwalkar        For       For          Management
+1j    Elect Director Elizabeth W. Vanderslice For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+ADYEN NV
+
+Ticker:       ADYEN          Security ID:  N3501V104
+Meeting Date: JUN 01, 2022   Meeting Type: Annual
+Record Date:  MAY 04, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Open Meeting                            None      None         Management
+2.a   Receive Report of Management Board and  None      None         Management
+      Supervisory Board (Non-Voting)
+2.b   Approve Remuneration Report             For       For          Management
+2.c   Adopt Financial Statements and          For       For          Management
+      Statutory Reports
+2.d   Receive Explanation on Company's        None      None         Management
+      Reserves and Dividend Policy
+3     Approve Discharge of Management Board   For       For          Management
+4     Approve Discharge of Supervisory Board  For       For          Management
+5     Reelect Pieter Willem van der Does to   For       For          Management
+      Management Board
+6     Reelect Roelant Prins to Management     For       For          Management
+      Board
+7     Grant Board Authority to Issue Shares   For       For          Management
+      Up to 10 Percent of Issued Capital
+8     Authorize Board to Exclude Preemptive   For       For          Management
+      Rights from Share Issuances
+9     Authorize Repurchase of Up to 10        For       For          Management
+      Percent of Issued Share Capital
+10    Ratify PwC as Auditors                  For       For          Management
+11    Close Meeting                           None      None         Management
+
+
+--------------------------------------------------------------------------------
+
+AIRBNB, INC.
+
+Ticker:       ABNB           Security ID:  009066101
+Meeting Date: JUN 01, 2022   Meeting Type: Annual
+Record Date:  APR 08, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Amrita Ahuja             For       For          Management
+1.2   Elect Director Joseph Gebbia            For       For          Management
+1.3   Elect Director Jeffrey Jordan           For       For          Management
+2     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+ALPHABET INC.
+
+Ticker:       GOOGL          Security ID:  02079K305
+Meeting Date: JUN 01, 2022   Meeting Type: Annual
+Record Date:  APR 05, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Larry Page               For       For          Management
+1b    Elect Director Sergey Brin              For       For          Management
+1c    Elect Director Sundar Pichai            For       For          Management
+1d    Elect Director John L. Hennessy         For       For          Management
+1e    Elect Director Frances H. Arnold        For       For          Management
+1f    Elect Director L. John Doerr            For       For          Management
+1g    Elect Director Roger W. Ferguson, Jr.   For       For          Management
+1h    Elect Director Ann Mather               For       Against      Management
+1i    Elect Director K. Ram Shriram           For       For          Management
+1j    Elect Director Robin L. Washington      For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Amend Omnibus Stock Plan                For       For          Management
+4     Increase Authorized Common Stock        For       For          Management
+5     Report on Lobbying Payments and Policy  Against   Against      Shareholder
+6     Report on Climate Lobbying              Against   Against      Shareholder
+7     Report on Physical Risks of Climate     Against   Against      Shareholder
+      Change
+8     Report on Metrics and Efforts to        Against   For          Shareholder
+      Reduce Water Related Risk
+9     Oversee and Report a Third-Party        Against   For          Shareholder
+      Racial Equity Audit
+10    Report on Risks Associated with Use of  Against   Against      Shareholder
+      Concealment Clauses
+11    Approve Recapitalization Plan for all   Against   For          Shareholder
+      Stock to Have One-vote per Share
+12    Report on Government Takedown Requests  Against   Against      Shareholder
+13    Report on Risks of Doing Business in    Against   Against      Shareholder
+      Countries with Significant Human
+      Rights Concerns
+14    Report on Managing Risks Related to     Against   Against      Shareholder
+      Data Collection, Privacy and Security
+15    Disclose More Quantitative and          Against   Against      Shareholder
+      Qualitative Information on Algorithmic
+      Systems
+16    Commission Third Party Assessment of    Against   For          Shareholder
+      Company's Management of Misinformation
+      and Disinformation Across Platforms
+17    Report on External Costs of             Against   Against      Shareholder
+      Misinformation and Impact on
+      Diversified Shareholders
+18    Report on Steps to Improve Racial and   Against   Against      Shareholder
+      Gender Board Diversity
+19    Establish an Environmental              Against   Against      Shareholder
+      Sustainability Board Committee
+20    Adopt a Policy to Include               Against   Against      Shareholder
+      Non-Management Employees as
+      Prospective Director Candidates
+21    Report on Policies Regarding Military   Against   Against      Shareholder
+      and Militarized Policing Agencies
+
+
+--------------------------------------------------------------------------------
+
+ALPHAWAVE IP GROUP PLC
+
+Ticker:       AWE            Security ID:  G03355107
+Meeting Date: JUN 06, 2022   Meeting Type: Annual
+Record Date:  MAY 31, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Accept Financial Statements and         For       For          Management
+      Statutory Reports
+2     Approve Remuneration Report             For       For          Management
+3     Approve Remuneration Policy             For       For          Management
+4     Elect John Holt as Director             For       For          Management
+5     Elect Tony Pialis as Director           For       For          Management
+6     Elect Daniel Aharoni as Director        For       For          Management
+7     Elect Sehat Sutardja as Director        For       For          Management
+8     Elect Jan Frykhammar as Director        For       Against      Management
+9     Elect Paul Boudre as Director           For       For          Management
+10    Elect Susan Buttsworth as Director      For       For          Management
+11    Elect Michelle De Fonseca as Director   For       Against      Management
+12    Elect Victoria Hull as Director         For       For          Management
+13    Elect Rosalind Singleton as Director    For       For          Management
+14    Appoint KPMG LLP as Auditors            For       For          Management
+15    Authorise the Audit Committee to Fix    For       For          Management
+      Remuneration of Auditors
+16    Authorise UK Political Donations and    For       For          Management
+      Expenditure
+17    Authorise Issue of Equity               For       For          Management
+18    Authorise Issue of Equity without       For       For          Management
+      Pre-emptive Rights
+19    Authorise Issue of Equity without       For       For          Management
+      Pre-emptive Rights in Connection with
+      an Acquisition or Other Capital
+      Investment
+20    Authorise Market Purchase of Ordinary   For       For          Management
+      Shares
+21    Approve Waiver of Rule 9 of the         For       Against      Management
+      Takeover Code
+22    Authorise the Company to Call General   For       For          Management
+      Meeting with Two Weeks' Notice
+
+
+--------------------------------------------------------------------------------
+
+AMAZON.COM, INC.
+
+Ticker:       AMZN           Security ID:  023135106
+Meeting Date: MAY 25, 2022   Meeting Type: Annual
+Record Date:  MAR 31, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Jeffrey P. Bezos         For       For          Management
+1b    Elect Director Andrew R. Jassy          For       For          Management
+1c    Elect Director Keith B. Alexander       For       For          Management
+1d    Elect Director Edith W. Cooper          For       For          Management
+1e    Elect Director Jamie S. Gorelick        For       For          Management
+1f    Elect Director Daniel P. Huttenlocher   For       For          Management
+1g    Elect Director Judith A. McGrath        For       Against      Management
+1h    Elect Director Indra K. Nooyi           For       For          Management
+1i    Elect Director Jonathan J. Rubinstein   For       For          Management
+1j    Elect Director Patricia Q. Stonesifer   For       For          Management
+1k    Elect Director Wendell P. Weeks         For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Approve 20:1 Stock Split                For       For          Management
+5     Report on Retirement Plan Options       Against   Against      Shareholder
+      Aligned with Company Climate Goals
+6     Commission Third Party Report           Against   Against      Shareholder
+      Assessing Company's Human Rights Due
+      Diligence Process
+7     Adopt a Policy to Include               Against   Against      Shareholder
+      Non-Management Employees as
+      Prospective Director Candidates
+8     Report on Efforts to Reduce Plastic Use Against   For          Shareholder
+9     Report on Worker Health and Safety      Against   Against      Shareholder
+      Disparities
+10    Report on Risks Associated with Use of  Against   Against      Shareholder
+      Concealment Clauses
+11    Report on Charitable Contributions      Against   Against      Shareholder
+12    Publish a Tax Transparency Report       Against   Against      Shareholder
+13    Report on Protecting the Rights of      Against   Against      Shareholder
+      Freedom of Association and Collective
+      Bargaining
+14    Report on Lobbying Payments and Policy  Against   For          Shareholder
+15    Require More Director Nominations Than  Against   Against      Shareholder
+      Open Seats
+16    Commission a Third Party Audit on       Against   Against      Shareholder
+      Working Conditions
+17    Report on Median Gender/Racial Pay Gap  Against   Against      Shareholder
+18    Oversee and Report a Racial Equity      None      None         Shareholder
+      Audit *Withdrawn Resolution*
+19    Commission Third Party Study and        Against   Against      Shareholder
+      Report on Risks Associated with Use of
+      Rekognition
+
+
+--------------------------------------------------------------------------------
+
+ANALOG DEVICES, INC.
+
+Ticker:       ADI            Security ID:  032654105
+Meeting Date: MAR 09, 2022   Meeting Type: Annual
+Record Date:  JAN 03, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Ray Stata                For       For          Management
+1b    Elect Director Vincent Roche            For       For          Management
+1c    Elect Director James A. Champy          For       For          Management
+1d    Elect Director Anantha P. Chandrakasan  For       For          Management
+1e    Elect Director Tunc Doluca              For       For          Management
+1f    Elect Director Bruce R. Evans           For       For          Management
+1g    Elect Director Edward H. Frank          For       For          Management
+1h    Elect Director Laurie H. Glimcher       For       For          Management
+1i    Elect Director Karen M. Golz            For       For          Management
+1j    Elect Director Mercedes Johnson         For       For          Management
+1k    Elect Director Kenton J. Sicchitano     For       For          Management
+1l    Elect Director Susie Wee                For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Approve Qualified Employee Stock        For       For          Management
+      Purchase Plan
+4     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+ANSYS, INC.
+
+Ticker:       ANSS           Security ID:  03662Q105
+Meeting Date: MAY 12, 2022   Meeting Type: Annual
+Record Date:  MAR 15, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1A    Elect Director Anil Chakravarthy        For       For          Management
+1B    Elect Director Barbara V. Scherer       For       For          Management
+1C    Elect Director Ravi K. Vijayaraghavan   For       For          Management
+2     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Eliminate Supermajority Vote            For       For          Management
+      Requirement to Remove a Director
+5     Eliminate Supermajority Vote            For       For          Management
+      Requirement to Amend or Repeal the
+      By-Laws
+6     Eliminate Supermajority Vote            For       For          Management
+      Requirement to Amend or Repeal Certain
+      Provisions of the Charter
+7     Approve Qualified Employee Stock        For       For          Management
+      Purchase Plan
+8     Declassify the Board of Directors       Against   For          Shareholder
+
+
+--------------------------------------------------------------------------------
+
+APPLE INC.
+
+Ticker:       AAPL           Security ID:  037833100
+Meeting Date: MAR 04, 2022   Meeting Type: Annual
+Record Date:  JAN 03, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director James Bell               For       For          Management
+1b    Elect Director Tim Cook                 For       For          Management
+1c    Elect Director Al Gore                  For       For          Management
+1d    Elect Director Alex Gorsky              For       For          Management
+1e    Elect Director Andrea Jung              For       For          Management
+1f    Elect Director Art Levinson             For       For          Management
+1g    Elect Director Monica Lozano            For       For          Management
+1h    Elect Director Ron Sugar                For       For          Management
+1i    Elect Director Sue Wagner               For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Approve Omnibus Stock Plan              For       For          Management
+5     Amend Articles of Incorporation to      Against   Against      Shareholder
+      become a Social Purpose Corporation
+6     Approve Revision of Transparency        Against   Against      Shareholder
+      Reports
+7     Report on Forced Labor                  Against   Against      Shareholder
+8     Report on Median Gender/Racial Pay Gap  Against   Against      Shareholder
+9     Report on Civil Rights Audit            Against   For          Shareholder
+10    Report on Concealment Clauses           Against   Against      Shareholder
+
+
+--------------------------------------------------------------------------------
+
+APPLOVIN CORPORATION
+
+Ticker:       APP            Security ID:  03831W108
+Meeting Date: JUN 08, 2022   Meeting Type: Annual
+Record Date:  APR 13, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Adam Foroughi            For       For          Management
+1b    Elect Director Herald Chen              For       For          Management
+1c    Elect Director Craig Billings           For       For          Management
+1d    Elect Director Margaret Georgiadis      For       For          Management
+1e    Elect Director Alyssa Harvey Dawson     For       For          Management
+1f    Elect Director Edward Oberwager         For       For          Management
+1g    Elect Director Asha Sharma              For       For          Management
+1h    Elect Director Eduardo Vivas            For       For          Management
+2     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+5     Amend Omnibus Stock Plan                For       Against      Management
+
+
+--------------------------------------------------------------------------------
+
+ARRIVAL SA
+
+Ticker:       ARVL           Security ID:  L0423Q108
+Meeting Date: JUN 03, 2022   Meeting Type: Annual
+Record Date:  MAY 23, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Receive and Approve Auditor's Reports   For       For          Management
+2     Receive and Approve Consolidated        For       For          Management
+      Board's and Auditor's Reports
+3     Approve Financial Statements            For       For          Management
+4     Approve Allocation of Income            For       For          Management
+5     Approve Consolidated Financial          For       For          Management
+      Statements and Statutory Reports
+6     Approve Remuneration of Directors       For       For          Management
+7     Elect Yun Seong Hwang as Class A        For       For          Management
+      Director
+8     Approve Discharge of Directors and      For       For          Management
+      Auditors
+9     Reelect Frank Peter Cuneo and Yun       For       For          Management
+      Seong Hwang as Class A Directors
+10    Renew Appointment of Auditor            For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+ARRIVAL SA
+
+Ticker:       ARVL           Security ID:  L0423Q211
+Meeting Date: JUN 03, 2022   Meeting Type: Extraordinary Shareholders
+Record Date:  MAY 23, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Abolish Nominal Value of Shares         For       For          Management
+2     Approve Change of Currency of the       For       For          Management
+      Issued Share Capital from Euro to
+      United States Dollars
+3     Convert the Existing Issued Share       For       For          Management
+      Capital into its Equivalent Amount in
+      United States Dollars
+4     Convert the Existing Authorized Share   For       For          Management
+      Capital (Including Issued Share
+      Capital) into its Equivalent Amount in
+      United States Dollars
+5     Amend Articles of Association           For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+ASML HOLDING NV
+
+Ticker:       ASML           Security ID:  N07059202
+Meeting Date: APR 29, 2022   Meeting Type: Annual
+Record Date:  APR 01, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Open Meeting                            None      None         Management
+2     Discuss the Company's Business,         None      None         Management
+      Financial Situation and Sustainability
+3a    Approve Remuneration Report             For       For          Management
+3b    Adopt Financial Statements and          For       For          Management
+      Statutory Reports
+3c    Receive Explanation on Company's        None      None         Management
+      Reserves and Dividend Policy
+3d    Approve Dividends of EUR 5.50 Per Share For       For          Management
+4a    Approve Discharge of Management Board   For       For          Management
+4b    Approve Discharge of Supervisory Board  For       For          Management
+5     Approve Number of Shares for            For       For          Management
+      Management Board
+6     Amend Remuneration Policy for           For       For          Management
+      Management Board
+7a    Announce Intention to Reappoint P.T.F.  None      None         Management
+      M. Wennink to Management Board
+7b    Announce Intention to Reappoint M.A.    None      None         Management
+      van den Brink to Management Board
+7c    Announce Intention to Reappoint F.J.M.  None      None         Management
+      Schneider-Maunoury to Management Board
+7d    Announce Intention to Reappoint C.D.    None      None         Management
+      Fouquet to Management Board
+7e    Announce Intention to Reappoint R.J.M.  None      None         Management
+      Dassen to Management Board
+8a    Announce Vacancies on the Supervisory   None      None         Management
+      Board
+8b    Opportunity to Make Recommendations     None      None         Management
+8c    Announce Recommendation to Reappoint T. None      None         Management
+      L. Kelly and Appoint A.F.M. Everke and
+      A.L. Steegen as Members of the
+      Supervisory Board
+8d    Reelect T.L. Kelly to Supervisory Board For       For          Management
+8e    Elect A.F.M. Everke to Supervisory      For       For          Management
+      Board
+8f    Elect A.L. Steegen to Supervisory Board For       For          Management
+8g    Discuss Composition of the Supervisory  None      None         Management
+      Board
+9     Ratify KPMG Accountants N.V. as         For       For          Management
+      Auditors for the Reporting Years 2023
+      and 2024
+10    Ratify Deloitte Accountants B.V. as     None      None         Management
+      Auditors for the Reporting Year 2025
+11    Amend Articles of Association           For       For          Management
+12a   Grant Board Authority to Issue Shares   For       For          Management
+      Up to 5 Percent of Issued Capital Plus
+      Additional 5 Percent in Case of Merger
+      or Acquisition
+12b   Authorize Board to Exclude Preemptive   For       For          Management
+      Rights from Share Issuances
+13    Authorize Repurchase of Up to 10        For       For          Management
+      Percent of Issued Share Capital
+14    Authorize Cancellation of Repurchased   For       For          Management
+      Shares
+15    Other Business (Non-Voting)             None      None         Management
+16    Close Meeting                           None      None         Management
+
+
+--------------------------------------------------------------------------------
+
+ATLASSIAN CORPORATION PLC
+
+Ticker:       TEAM           Security ID:  G06242104
+Meeting Date: DEC 02, 2021   Meeting Type: Annual
+Record Date:  OCT 05, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Accept Financial Statements and         For       For          Management
+      Statutory Reports
+2     Approve Remuneration Report             For       Against      Management
+3     Appoint Ernst &amp; Young LLP as Auditors   For       For          Management
+4     Authorize Board to Fix Remuneration of  For       For          Management
+      Auditors
+5     Elect Director Shona L. Brown           For       Against      Management
+6     Elect Director Michael Cannon-Brookes   For       For          Management
+7     Elect Director Scott Farquhar           For       For          Management
+8     Elect Director Heather Mirjahangir      For       For          Management
+      Fernandez
+9     Elect Director Sasan Goodarzi           For       Against      Management
+10    Elect Director Jay Parikh               For       Against      Management
+11    Elect Director Enrique Salem            For       For          Management
+12    Elect Director Steven Sordello          For       For          Management
+13    Elect Director Richard P. Wong          For       For          Management
+14    Elect Director Michelle Zatlyn          For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+AVALARA, INC.
+
+Ticker:       AVLR           Security ID:  05338G106
+Meeting Date: JUN 08, 2022   Meeting Type: Annual
+Record Date:  APR 08, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Edward Gilhuly           For       For          Management
+1.2   Elect Director Scott McFarlane          For       For          Management
+1.3   Elect Director Tami Reller              For       For          Management
+1.4   Elect Director Srinivas Tallapragada    For       For          Management
+1.5   Elect Director Bruce Crawford           For       For          Management
+1.6   Elect Director Marcela Martin           For       Withhold     Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+AVIDXCHANGE HOLDINGS, INC.
+
+Ticker:       AVDX           Security ID:  05368X102
+Meeting Date: JUN 09, 2022   Meeting Type: Annual
+Record Date:  APR 14, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director James (Jim) Hausman      For       For          Management
+1.2   Elect Director Lance Drummond           For       For          Management
+1.3   Elect Director Wendy Murdock            For       For          Management
+2     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+BLOCK, INC.
+
+Ticker:       SQ             Security ID:  852234103
+Meeting Date: JUN 14, 2022   Meeting Type: Annual
+Record Date:  APR 21, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Jack Dorsey              For       For          Management
+1.2   Elect Director Paul Deighton            For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+4     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+5     Approve Recapitalization Plan for all   Against   For          Shareholder
+      Stock to Have One-vote per Share
+
+
+--------------------------------------------------------------------------------
+
+BOOKING HOLDINGS INC.
+
+Ticker:       BKNG           Security ID:  09857L108
+Meeting Date: JUN 09, 2022   Meeting Type: Annual
+Record Date:  APR 21, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Timothy Armstrong        For       Withhold     Management
+1.2   Elect Director Glenn D. Fogel           For       For          Management
+1.3   Elect Director Mirian M. Graddick-Weir  For       For          Management
+1.4   Elect Director Wei Hopeman              For       For          Management
+1.5   Elect Director Robert J. Mylod, Jr.     For       For          Management
+1.6   Elect Director Charles H. Noski         For       For          Management
+1.7   Elect Director Nicholas J. Read         For       For          Management
+1.8   Elect Director Thomas E. Rothman        For       For          Management
+1.9   Elect Director Sumit Singh              For       For          Management
+1.10  Elect Director Lynn Vojvodich           For       For          Management
+      Radakovich
+1.11  Elect Director Vanessa A. Wittman       For       For          Management
+2     Advisory Vote to Ratify Named           For       Against      Management
+      Executive Officers' Compensation
+3     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+4     Reduce Ownership Threshold for          Against   Against      Shareholder
+      Shareholders to Call Special Meeting
+5     Report on Climate Change Performance    Against   Against      Shareholder
+      Metrics Into Executive Compensation
+      Program
+
+
+--------------------------------------------------------------------------------
+
+C3.AI, INC.
+
+Ticker:       AI             Security ID:  12468P104
+Meeting Date: OCT 06, 2021   Meeting Type: Annual
+Record Date:  AUG 11, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Patricia A. House        For       For          Management
+1.2   Elect Director S. Shankar Sastry        For       For          Management
+1.3   Elect Director Thomas M. Siebel         For       For          Management
+2     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+CADENCE DESIGN SYSTEMS, INC.
+
+Ticker:       CDNS           Security ID:  127387108
+Meeting Date: MAY 05, 2022   Meeting Type: Annual
+Record Date:  MAR 07, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Mark W. Adams            For       For          Management
+1.2   Elect Director Ita Brennan              For       For          Management
+1.3   Elect Director Lewis Chew               For       For          Management
+1.4   Elect Director Anirudh Devgan           For       For          Management
+1.5   Elect Director Mary Louise Krakauer     For       For          Management
+1.6   Elect Director Julia Liuson             For       For          Management
+1.7   Elect Director James D. Plummer         For       For          Management
+1.8   Elect Director Alberto                  For       For          Management
+      Sangiovanni-Vincentelli
+1.9   Elect Director John B. Shoven           For       For          Management
+1.10  Elect Director Young K. Sohn            For       For          Management
+1.11  Elect Director Lip-Bu Tan               For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+4     Reduce Ownership Threshold for          Against   Against      Shareholder
+      Shareholders to Call Special Meeting
+
+
+--------------------------------------------------------------------------------
+
+CAZOO GROUP LTD
+
+Ticker:       CZOO           Security ID:  G2007L105
+Meeting Date: JUN 29, 2022   Meeting Type: Annual
+Record Date:  JUN 06, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Increase Authorized Common Stock        For       For          Management
+2.1   Elect Director Alex Chesterman          For       For          Management
+2.2   Elect Director David Hobbs              For       For          Management
+2.3   Elect Director Moni Mannings            For       For          Management
+3     Approve Ernst &amp; Young LLP as Auditors   For       For          Management
+      and Authorize Board to Fix Their
+      Remuneration
+
+
+--------------------------------------------------------------------------------
+
+CDW CORPORATION
+
+Ticker:       CDW            Security ID:  12514G108
+Meeting Date: MAY 19, 2022   Meeting Type: Annual
+Record Date:  MAR 23, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Virginia C. Addicott     For       For          Management
+1b    Elect Director James A. Bell            For       For          Management
+1c    Elect Director Lynda M. Clarizio        For       For          Management
+1d    Elect Director Paul J. Finnegan         For       For          Management
+1e    Elect Director Anthony R. Foxx          For       For          Management
+1f    Elect Director Christine A. Leahy       For       For          Management
+1g    Elect Director Sanjay Mehrotra          For       For          Management
+1h    Elect Director David W. Nelms           For       For          Management
+1i    Elect Director Joseph R. Swedish        For       For          Management
+1j    Elect Director Donna F. Zarcone         For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+4     Provide Right to Act by Written Consent Against   For          Shareholder
+
+
+--------------------------------------------------------------------------------
+
+CROWDSTRIKE HOLDINGS, INC.
+
+Ticker:       CRWD           Security ID:  22788C105
+Meeting Date: JUN 29, 2022   Meeting Type: Annual
+Record Date:  MAY 02, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Cary J. Davis            For       Withhold     Management
+1.2   Elect Director George Kurtz             For       For          Management
+1.3   Elect Director Laura J. Schumacher      For       For          Management
+2     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+ELASTIC N.V.
+
+Ticker:       ESTC           Security ID:  N14506104
+Meeting Date: OCT 01, 2021   Meeting Type: Annual
+Record Date:  SEP 03, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Shay Banon               For       For          Management
+1b    Elect Director Shelley Leibowitz        For       For          Management
+2     Adopt Financial Statements and          For       For          Management
+      Statutory Reports
+3     Approve Discharge of Executive Director For       For          Management
+4     Approve Discharge of Non-Executive      For       For          Management
+      Directors
+5     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+6     Authorize Repurchase of Up to 10        For       For          Management
+      Percent of Issued Share Capital
+7     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+ELASTIC N.V.
+
+Ticker:       ESTC           Security ID:  N14506104
+Meeting Date: MAR 09, 2022   Meeting Type: Extraordinary Shareholders
+Record Date:  FEB 09, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Elect Director Ashutosh Kulkarni        For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+ENSOGO LIMITED
+
+Ticker:       E88            Security ID:  Q3506H149
+Meeting Date: JUL 30, 2021   Meeting Type: Annual
+Record Date:  JUL 28, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+2     Elect David Naim as Director            For       Against      Management
+
+
+--------------------------------------------------------------------------------
+
+ENSOGO LIMITED
+
+Ticker:       E88            Security ID:  Q3506H149
+Meeting Date: SEP 08, 2021   Meeting Type: Special
+Record Date:  SEP 06, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Approve Issuance of Consideration       For       Against      Management
+      Shares to the RB Parties
+2     Approve the Change in Nature and Scale  For       Against      Management
+      of the Company's Activities
+3     Approve Consolidation of Capital        For       Against      Management
+4     Approve Capital Raising pursuant to a   For       Against      Management
+      Prospectus
+5     Approve the Change of Company Name to   For       Against      Management
+      RocketBoots Limited
+6     Elect Hugh Bradlow as Director          For       Against      Management
+7     Elect Karl Medak as Director            For       Against      Management
+8     Elect Cameron Petricevic as Director    For       Against      Management
+9     Approve Non-Executive Directors'        For       Against      Management
+      Remuneration
+10    Approve Issuance of Shares to Hugh      For       Against      Management
+      Bradlow and Karl Medak
+11    Adopt New Constitution                  For       Against      Management
+12    Approve Issuance of Options to Taylor   For       Against      Management
+      Collison Limited
+13    Adopt Equity Incentive Plan             For       Against      Management
+
+
+--------------------------------------------------------------------------------
+
+FLUENCE ENERGY, INC.
+
+Ticker:       FLNC           Security ID:  34379V103
+Meeting Date: MAR 23, 2022   Meeting Type: Annual
+Record Date:  JAN 24, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Herman Bulls             For       For          Management
+1.2   Elect Director Elizabeth Fessenden      For       For          Management
+1.3   Elect Director Cynthia Arnold           For       For          Management
+1.4   Elect Director Harald von Heynitz       For       For          Management
+1.5   Elect Director Barbara Humpton          For       For          Management
+1.6   Elect Director Julian Nebreda           For       For          Management
+1.7   Elect Director Axel Meier               For       For          Management
+1.8   Elect Director Lisa Krueger             For       For          Management
+1.9   Elect Director Emma Falck               For       For          Management
+1.10  Elect Director John Christopher Shelton For       For          Management
+1.11  Elect Director Simon James Smith        For       For          Management
+1.12  Elect Director Manuel Perez Dubuc       For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+GITLAB INC.
+
+Ticker:       GTLB           Security ID:  37637K108
+Meeting Date: JUN 17, 2022   Meeting Type: Annual
+Record Date:  APR 21, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Sytse Sijbrandij         For       For          Management
+1b    Elect Director Matthew Jacobson         For       For          Management
+2     Ratify KPMG LLP as Auditors             For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+GMO PAYMENT GATEWAY, INC.
+
+Ticker:       3769           Security ID:  J18229104
+Meeting Date: DEC 19, 2021   Meeting Type: Annual
+Record Date:  SEP 30, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Approve Allocation of Income, with a    For       For          Management
+      Final Dividend of JPY 59
+2     Amend Articles to Allow Virtual Only    For       For          Management
+      Shareholder Meetings - Adopt Board
+      Structure with Audit Committee - Amend
+      Provisions on Number of Directors
+3.1   Elect Director Ainoura, Issei           For       For          Management
+3.2   Elect Director Kumagai, Masatoshi       For       For          Management
+3.3   Elect Director Muramatsu, Ryu           For       For          Management
+3.4   Elect Director Isozaki, Satoru          For       For          Management
+3.5   Elect Director Yasuda, Masashi          For       For          Management
+3.6   Elect Director Yamashita, Hirofumi      For       For          Management
+3.7   Elect Director Kawasaki, Yuki           For       For          Management
+3.8   Elect Director Sato, Akio               For       For          Management
+3.9   Elect Director Arai, Teruhiro           For       For          Management
+3.10  Elect Director Inagaki, Noriko          For       For          Management
+3.11  Elect Director Shimahara, Takashi       For       For          Management
+4.1   Elect Director and Audit Committee      For       For          Management
+      Member Yoshida, Kazutaka
+4.2   Elect Director and Audit Committee      For       For          Management
+      Member Okamoto, Kazuhiko
+4.3   Elect Director and Audit Committee      For       For          Management
+      Member Hokazono, Yumi
+4.4   Elect Director and Audit Committee      For       For          Management
+      Member Kai, Fumio
+5     Approve Compensation Ceiling for        For       For          Management
+      Directors Who Are Not Audit Committee
+      Members
+6     Approve Compensation Ceiling for        For       For          Management
+      Directors Who Are Audit Committee
+      Members
+7     Appoint Ernst &amp; Young ShinNihon LLC as  For       For          Management
+      New External Audit Firm
+
+
+--------------------------------------------------------------------------------
+
+INTUIT INC.
+
+Ticker:       INTU           Security ID:  461202103
+Meeting Date: JAN 20, 2022   Meeting Type: Annual
+Record Date:  NOV 22, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Eve Burton               For       For          Management
+1b    Elect Director Scott D. Cook            For       For          Management
+1c    Elect Director Richard L. Dalzell       For       For          Management
+1d    Elect Director Sasan K. Goodarzi        For       For          Management
+1e    Elect Director Deborah Liu              For       For          Management
+1f    Elect Director Tekedra Mawakana         For       For          Management
+1g    Elect Director Suzanne Nora Johnson     For       For          Management
+1h    Elect Director Dennis D. Powell         For       For          Management
+1i    Elect Director Brad D. Smith            For       For          Management
+1j    Elect Director Thomas Szkutak           For       For          Management
+1k    Elect Director Raul Vazquez             For       For          Management
+1l    Elect Director Jeff Weiner              For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+4     Amend Omnibus Stock Plan                For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+KAKAO CORP.
+
+Ticker:       035720         Security ID:  Y4519H119
+Meeting Date: MAR 29, 2022   Meeting Type: Annual
+Record Date:  DEC 31, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Approve Financial Statements and        For       For          Management
+      Allocation of Income
+2.1   Amend Articles of Incorporation (Stock  For       For          Management
+      Option Grants)
+2.2   Amend Articles of Incorporation         For       For          Management
+      (Chairman of Shareholder Meeting)
+2.3   Amend Articles of Incorporation         For       For          Management
+      (Interim Dividend)
+2.4   Amend Articles of Incorporation         For       For          Management
+      (Miscellaneous)
+3.1   Elect Namgoong Hun as Inside Director   For       For          Management
+3.2   Elect Kim Seong-su as Inside Director   For       For          Management
+3.3   Elect Hong Eun-taek as Inside Director  For       For          Management
+4     Approve Total Remuneration of Inside    For       For          Management
+      Directors and Outside Directors
+5     Approve Stock Option Grants             For       For          Management
+6     Approve Cancellation of Treasury Shares For       For          Management
+7     Approve Terms of Retirement Pay         For       For          Management
+8     Approve Stock Option Grants             For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+KLARNA HOLDING AB
+
+Ticker:                      Security ID:  W5S068100
+Meeting Date: AUG 24, 2021   Meeting Type: Extraordinary Shareholders
+Record Date:  AUG 16, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Open Meeting                            None      None         Management
+2     Elect Chairman of Meeting               For       Did Not Vote Management
+3     Prepare and Approve List of             For       Did Not Vote Management
+      Shareholders
+4.1   Designate Sabina Kihlberg as Inspector  For       Did Not Vote Management
+      of Minutes of Meeting
+4.2   Designate Martin Hall as Inspector of   For       Did Not Vote Management
+      Minutes of Meeting
+5     Approve Agenda of Meeting               For       Did Not Vote Management
+6     Acknowledge Proper Convening of Meeting For       Did Not Vote Management
+7     Approve Warrant Plan for Key Employees  For       Did Not Vote Management
+8     Close Meeting                           None      None         Management
+
+
+--------------------------------------------------------------------------------
+
+KLARNA HOLDING AB
+
+Ticker:                      Security ID:  W5S068100
+Meeting Date: DEC 22, 2021   Meeting Type: Extraordinary Shareholders
+Record Date:  DEC 14, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Open Meeting                            None      None         Management
+2     Elect Chairman of Meeting               For       Did Not Vote Management
+3     Prepare and Approve List of             For       Did Not Vote Management
+      Shareholders
+4     Designate Inspector(s) of Minutes of    For       Did Not Vote Management
+      Meeting
+5     Approve Agenda of Meeting               For       Did Not Vote Management
+6     Acknowledge Proper Convening of Meeting For       Did Not Vote Management
+7     Amend Articles Re: Swedish Companies    For       Did Not Vote Management
+      Act; Auditors; General Meetings
+8     Close Meeting                           None      None         Management
+
+
+--------------------------------------------------------------------------------
+
+KLARNA HOLDING AB
+
+Ticker:                      Security ID:  W5S068100
+Meeting Date: MAY 06, 2022   Meeting Type: Annual
+Record Date:  APR 28, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Open Meeting                            None      None         Management
+2     Elect Chairman of Meeting               For       Did Not Vote Management
+3     Prepare and Approve List of             For       Did Not Vote Management
+      Shareholders
+4.1   Election of Person to Approve the       For       Did Not Vote Management
+      Minutes
+4.2   Election of Person to Approve the       For       Did Not Vote Management
+      Minutes
+5     Approve Agenda of Meeting               For       Did Not Vote Management
+6     Acknowledge Proper Convening of Meeting For       Did Not Vote Management
+7     Receive Financial Statements and        None      None         Management
+      Statutory Reports
+8.a   Accept Financial Statements and         For       Did Not Vote Management
+      Statutory Reports
+8.b   Approve Allocation of Income and        For       Did Not Vote Management
+      Omission of Dividends
+8.c1  Approve Discharge of Roger Ferguson     For       Did Not Vote Management
+8.c2  Approve Discharge of Lise Kaae          For       Did Not Vote Management
+8.c3  Approve Discharge of Omid Kordestani    For       Did Not Vote Management
+8.c4  Approve Discharge of Michael Moritz     For       Did Not Vote Management
+8.c5  Approve Discharge of Sebastian          For       Did Not Vote Management
+      Siemiatkowski
+8.c6  Approve Discharge of Sarah Smith        For       Did Not Vote Management
+8.c7  Approve Discharge of Mikael Walther     For       Did Not Vote Management
+9     Approve Remuneration of Directors;      For       Did Not Vote Management
+      Approve Remuneration of Auditors
+10    Determine Number of Members (7) and     For       Did Not Vote Management
+      Deputy Members of Board
+11.1  Reelect Roger Ferguson as Director      For       Did Not Vote Management
+11.2  Reelect Lise Kaae as Director           For       Did Not Vote Management
+11.3  Reelect Omid Kordestani as Director     For       Did Not Vote Management
+11.4  Reelect Michael Moritz as Director      For       Did Not Vote Management
+11.5  Reelect Sebastian Siemiatkowski as      For       Did Not Vote Management
+      Director
+11.6  Reelect Sarah Smith as Director         For       Did Not Vote Management
+11.7  Reelect Mikael Walther as Director      For       Did Not Vote Management
+12    Ratify Ernst &amp; Young as Auditors        For       Did Not Vote Management
+13    Approve Issuance of up to 10 Percent    For       Did Not Vote Management
+      of Share Capital without Preemptive
+      Rights
+14    Approve Issuance of Warrants            For       Did Not Vote Management
+15    Close Meeting                           None      None         Management
+
+
+--------------------------------------------------------------------------------
+
+LAM RESEARCH CORPORATION
+
+Ticker:       LRCX           Security ID:  512807108
+Meeting Date: NOV 08, 2021   Meeting Type: Annual
+Record Date:  SEP 09, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Sohail U. Ahmed          For       For          Management
+1.2   Elect Director Timothy M. Archer        For       For          Management
+1.3   Elect Director Eric K. Brandt           For       For          Management
+1.4   Elect Director Michael R. Cannon        For       For          Management
+1.5   Elect Director Catherine P. Lego        For       For          Management
+1.6   Elect Director Bethany J. Mayer         For       For          Management
+1.7   Elect Director Abhijit Y. Talwalkar     For       For          Management
+1.8   Elect Director Lih Shyng (Rick L.) Tsai For       For          Management
+1.9   Elect Director Leslie F. Varon          For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+LYFT, INC.
+
+Ticker:       LYFT           Security ID:  55087P104
+Meeting Date: JUN 16, 2022   Meeting Type: Annual
+Record Date:  APR 22, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Prashant (Sean) Aggarwal For       For          Management
+1.2   Elect Director Ariel Cohen              For       For          Management
+1.3   Elect Director Mary Agnes (Maggie)      For       For          Management
+      Wilderotter
+2     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Report on Lobbying Payments and Policy  Against   For          Shareholder
+
+
+--------------------------------------------------------------------------------
+
+MARVELL TECHNOLOGY, INC.
+
+Ticker:       MRVL           Security ID:  573874104
+Meeting Date: JUL 16, 2021   Meeting Type: Annual
+Record Date:  MAY 20, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director W. Tudor Brown           For       For          Management
+1b    Elect Director Brad W. Buss             For       For          Management
+1c    Elect Director Edward H. Frank          For       For          Management
+1d    Elect Director Richard S. Hill          For       For          Management
+1e    Elect Director Marachel L. Knight       For       For          Management
+1f    Elect Director Bethany J. Mayer         For       For          Management
+1g    Elect Director Matthew J. Murphy        For       For          Management
+1h    Elect Director Michael G. Strachan      For       For          Management
+1i    Elect Director Robert E. Switz          For       For          Management
+1j    Elect Director Ford Tamer               For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+MARVELL TECHNOLOGY, INC.
+
+Ticker:       MRVL           Security ID:  573874104
+Meeting Date: JUN 23, 2022   Meeting Type: Annual
+Record Date:  APR 28, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Sara Andrews             For       For          Management
+1b    Elect Director W. Tudor Brown           For       For          Management
+1c    Elect Director Brad W. Buss             For       For          Management
+1d    Elect Director Edward H. Frank          For       For          Management
+1e    Elect Director Richard S. Hill          For       For          Management
+1f    Elect Director Marachel L. Knight       For       For          Management
+1g    Elect Director Matthew J. Murphy        For       For          Management
+1h    Elect Director Michael G. Strachan      For       For          Management
+1i    Elect Director Robert E. Switz          For       For          Management
+1j    Elect Director Ford Tamer               For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Amend Qualified Employee Stock          For       For          Management
+      Purchase Plan
+4     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+MASTERCARD INCORPORATED
+
+Ticker:       MA             Security ID:  57636Q104
+Meeting Date: JUN 21, 2022   Meeting Type: Annual
+Record Date:  APR 22, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Merit E. Janow           For       For          Management
+1b    Elect Director Candido Bracher          For       For          Management
+1c    Elect Director Richard K. Davis         For       For          Management
+1d    Elect Director Julius Genachowski       For       For          Management
+1e    Elect Director Choon Phong Goh          For       For          Management
+1f    Elect Director Oki Matsumoto            For       For          Management
+1g    Elect Director Michael Miebach          For       For          Management
+1h    Elect Director Youngme Moon             For       For          Management
+1i    Elect Director Rima Qureshi             For       For          Management
+1j    Elect Director Gabrielle Sulzberger     For       For          Management
+1k    Elect Director Jackson Tai              For       For          Management
+1l    Elect Director Harit Talwar             For       For          Management
+1m    Elect Director Lance Uggla              For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+4     Provide Right to Call a Special         For       For          Management
+      Meeting at a 15 Percent Ownership
+      Threshold
+5     Provide Right to Call a Special         Against   Against      Shareholder
+      Meeting at a 10 Percent Ownership
+      Threshold
+6     Report on Political Contributions       Against   Against      Shareholder
+7     Report on Charitable Contributions      Against   Against      Shareholder
+8     Report on Risks Associated with Sale    Against   Against      Shareholder
+      and Purchase of Ghost Guns
+
+
+--------------------------------------------------------------------------------
+
+MERCADOLIBRE, INC.
+
+Ticker:       MELI           Security ID:  58733R102
+Meeting Date: JUN 08, 2022   Meeting Type: Annual
+Record Date:  APR 12, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Richard Sanders          For       For          Management
+1.2   Elect Director Emiliano Calemzuk        For       For          Management
+1.3   Elect Director Marcos Galperin          For       For          Management
+1.4   Elect Director Andrea Mayumi Petroni    For       For          Management
+      Merhy
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify Pistrelli, Henry Martin y        For       For          Management
+      Asociados S.R.L. as Auditors
+
+
+--------------------------------------------------------------------------------
+
+MICROSOFT CORPORATION
+
+Ticker:       MSFT           Security ID:  594918104
+Meeting Date: NOV 30, 2021   Meeting Type: Annual
+Record Date:  SEP 30, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Reid G. Hoffman          For       For          Management
+1.2   Elect Director Hugh F. Johnston         For       For          Management
+1.3   Elect Director Teri L. List             For       For          Management
+1.4   Elect Director Satya Nadella            For       For          Management
+1.5   Elect Director Sandra E. Peterson       For       For          Management
+1.6   Elect Director Penny S. Pritzker        For       For          Management
+1.7   Elect Director Carlos A. Rodriguez      For       For          Management
+1.8   Elect Director Charles W. Scharf        For       For          Management
+1.9   Elect Director John W. Stanton          For       For          Management
+1.10  Elect Director John W. Thompson         For       For          Management
+1.11  Elect Director Emma N. Walmsley         For       For          Management
+1.12  Elect Director Padmasree Warrior        For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Approve Qualified Employee Stock        For       For          Management
+      Purchase Plan
+4     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+5     Report on Gender/Racial Pay Gap         Against   Against      Shareholder
+6     Report on Effectiveness of Workplace    Against   For          Shareholder
+      Sexual Harassment Policies
+7     Prohibit Sales of Facial Recognition    Against   Against      Shareholder
+      Technology to All Government Entities
+8     Report on Implementation of the Fair    Against   Against      Shareholder
+      Chance Business Pledge
+9     Report on Lobbying Activities           Against   Against      Shareholder
+      Alignment with Company Policies
+
+
+--------------------------------------------------------------------------------
+
+MONGODB, INC.
+
+Ticker:       MDB            Security ID:  60937P106
+Meeting Date: JUN 28, 2022   Meeting Type: Annual
+Record Date:  APR 29, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Francisco D'Souza        For       For          Management
+1.2   Elect Director Charles M. Hazard, Jr.   For       For          Management
+1.3   Elect Director Tom Killalea             For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+MONOLITHIC POWER SYSTEMS, INC.
+
+Ticker:       MPWR           Security ID:  609839105
+Meeting Date: JUN 16, 2022   Meeting Type: Annual
+Record Date:  APR 21, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Michael Hsing            For       For          Management
+1.2   Elect Director Herbert Chang            For       Withhold     Management
+1.3   Elect Director Carintia Martinez        For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+NVIDIA CORPORATION
+
+Ticker:       NVDA           Security ID:  67066G104
+Meeting Date: JUN 02, 2022   Meeting Type: Annual
+Record Date:  APR 04, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Robert K. Burgess        For       For          Management
+1b    Elect Director Tench Coxe               For       For          Management
+1c    Elect Director John O. Dabiri           For       For          Management
+1d    Elect Director Persis S. Drell          For       For          Management
+1e    Elect Director Jen-Hsun Huang           For       For          Management
+1f    Elect Director Dawn Hudson              For       For          Management
+1g    Elect Director Harvey C. Jones          For       For          Management
+1h    Elect Director Michael G. McCaffery     For       For          Management
+1i    Elect Director Stephen C. Neal          For       For          Management
+1j    Elect Director Mark L. Perry            For       For          Management
+1k    Elect Director A. Brooke Seawell        For       For          Management
+1l    Elect Director Aarti Shah               For       For          Management
+1m    Elect Director Mark A. Stevens          For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+4     Increase Authorized Common Stock        For       For          Management
+5     Amend Omnibus Stock Plan                For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+OKTA, INC.
+
+Ticker:       OKTA           Security ID:  679295105
+Meeting Date: JUN 21, 2022   Meeting Type: Annual
+Record Date:  APR 25, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Jeff Epstein             For       For          Management
+1.2   Elect Director J. Frederic Kerrest      For       For          Management
+1.3   Elect Director Rebecca Saeger           For       Withhold     Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       Against      Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+PAYPAL HOLDINGS, INC.
+
+Ticker:       PYPL           Security ID:  70450Y103
+Meeting Date: JUN 02, 2022   Meeting Type: Annual
+Record Date:  APR 05, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Rodney C. Adkins         For       For          Management
+1b    Elect Director Jonathan Christodoro     For       For          Management
+1c    Elect Director John J. Donahoe          For       For          Management
+1d    Elect Director David W. Dorman          For       For          Management
+1e    Elect Director Belinda J. Johnson       For       For          Management
+1f    Elect Director Enrique Lores            For       For          Management
+1g    Elect Director Gail J. McGovern         For       For          Management
+1h    Elect Director Deborah M. Messemer      For       For          Management
+1i    Elect Director David M. Moffett         For       For          Management
+1j    Elect Director Ann M. Sarnoff           For       For          Management
+1k    Elect Director Daniel H. Schulman       For       For          Management
+1l    Elect Director Frank D. Yeary           For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+4     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+5     Reduce Ownership Threshold for          Against   Against      Shareholder
+      Shareholders to Call Special Meeting
+
+
+--------------------------------------------------------------------------------
+
+RENESAS ELECTRONICS CORP.
+
+Ticker:       6723           Security ID:  J4881V107
+Meeting Date: MAR 30, 2022   Meeting Type: Annual
+Record Date:  DEC 31, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Amend Articles to Allow Virtual Only    For       For          Management
+      Shareholder Meetings
+2     Amend Articles to Disclose Shareholder  For       For          Management
+      Meeting Materials on Internet
+3.1   Elect Director Shibata, Hidetoshi       For       For          Management
+3.2   Elect Director Iwasaki, Jiro            For       For          Management
+3.3   Elect Director Selena Loh Lacroix       For       For          Management
+3.4   Elect Director Arunjai Mittal           For       For          Management
+3.5   Elect Director Yamamoto, Noboru         For       For          Management
+4.1   Appoint Statutory Auditor Yamazaki,     For       For          Management
+      Kazuyoshi
+4.2   Appoint Statutory Auditor Miyama, Miya  For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+ROKU, INC.
+
+Ticker:       ROKU           Security ID:  77543R102
+Meeting Date: JUN 09, 2022   Meeting Type: Annual
+Record Date:  APR 14, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Gina Luna                For       For          Management
+1b    Elect Director Ray Rothrock             For       For          Management
+2a    Elect Director Jeffrey Hastings         For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+SALESFORCE, INC.
+
+Ticker:       CRM            Security ID:  79466L302
+Meeting Date: JUN 09, 2022   Meeting Type: Annual
+Record Date:  APR 14, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Marc Benioff             For       For          Management
+1b    Elect Director Bret Taylor              For       For          Management
+1c    Elect Director Laura Alber              For       For          Management
+1d    Elect Director Craig Conway             For       For          Management
+1e    Elect Director Parker Harris            For       For          Management
+1f    Elect Director Alan Hassenfeld          For       For          Management
+1g    Elect Director Neelie Kroes             For       For          Management
+1h    Elect Director Oscar Munoz              For       For          Management
+1i    Elect Director Sanford Robertson        For       Against      Management
+1j    Elect Director John V. Roos             For       For          Management
+1k    Elect Director Robin Washington         For       For          Management
+1l    Elect Director Maynard Webb             For       For          Management
+1m    Elect Director Susan Wojcicki           For       For          Management
+2     Amend Omnibus Stock Plan                For       For          Management
+3     Amend Qualified Employee Stock          For       For          Management
+      Purchase Plan
+4     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+5     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+6     Require Independent Board Chair         Against   Against      Shareholder
+7     Oversee and Report a Racial Equity      Against   For          Shareholder
+      Audit
+
+
+--------------------------------------------------------------------------------
+
+SAMSUNG SDI CO., LTD.
+
+Ticker:       006400         Security ID:  Y74866107
+Meeting Date: MAR 17, 2022   Meeting Type: Annual
+Record Date:  DEC 31, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Approve Financial Statements and        For       For          Management
+      Allocation of Income
+2     Elect Choi Yoon-ho as Inside Director   For       For          Management
+3     Approve Total Remuneration of Inside    For       For          Management
+      Directors and Outside Directors
+
+
+--------------------------------------------------------------------------------
+
+SERVICENOW, INC.
+
+Ticker:       NOW            Security ID:  81762P102
+Meeting Date: JUN 09, 2022   Meeting Type: Annual
+Record Date:  APR 11, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Susan L. Bostrom         For       Against      Management
+1b    Elect Director Teresa Briggs            For       For          Management
+1c    Elect Director Jonathan C. Chadwick     For       For          Management
+1d    Elect Director Paul E. Chamberlain      For       For          Management
+1e    Elect Director Lawrence J. Jackson, Jr. For       For          Management
+1f    Elect Director Frederic B. Luddy        For       For          Management
+1g    Elect Director Jeffrey A. Miller        For       Against      Management
+1h    Elect Director Joseph "Larry" Quinlan   For       For          Management
+1i    Elect Director Sukumar Rathnam          For       For          Management
+2     Advisory Vote to Ratify Named           For       Against      Management
+      Executive Officers' Compensation
+3     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+SHOPIFY INC.
+
+Ticker:       SHOP           Security ID:  82509L107
+Meeting Date: JUN 07, 2022   Meeting Type: Annual/Special
+Record Date:  APR 19, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1A    Elect Director Tobias Lutke             For       For          Management
+1B    Elect Director Robert Ashe              For       For          Management
+1C    Elect Director Gail Goodman             For       For          Management
+1D    Elect Director Colleen Johnston         For       For          Management
+1E    Elect Director Jeremy Levine            For       For          Management
+1F    Elect Director John Phillips            For       For          Management
+1G    Elect Director Fidji Simo               For       For          Management
+2     Approve PricewaterhouseCoopers LLP as   For       For          Management
+      Auditors and Authorize Board to Fix
+      Their Remuneration
+3     Authorize New Class of Common Stock     For       Against      Management
+      and Issuance of Such Founder Share to
+      the Founder and Chief Executive Officer
+4     Approve Stock Split                     For       For          Management
+5     Advisory Vote on Executive              For       For          Management
+      Compensation Approach
+
+
+--------------------------------------------------------------------------------
+
+SNOWFLAKE, INC.
+
+Ticker:       SNOW           Security ID:  833445109
+Meeting Date: JUL 08, 2021   Meeting Type: Annual
+Record Date:  MAY 14, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Benoit Dageville         For       For          Management
+1b    Elect Director Mark S. Garrett          For       For          Management
+1c    Elect Director Jayshree V. Ullal        For       For          Management
+2     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+
+
+--------------------------------------------------------------------------------
+
+SOITEC SA
+
+Ticker:       SOI            Security ID:  F8582K389
+Meeting Date: JUL 28, 2021   Meeting Type: Annual/Special
+Record Date:  JUL 26, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Approve Financial Statements and        For       For          Management
+      Statutory Reports
+2     Approve Consolidated Financial          For       For          Management
+      Statements and Statutory Reports
+3     Approve Allocation of Income and        For       For          Management
+      Absence of Dividends
+4     Approve Auditors' Special Report on     For       For          Management
+      Related-Party Transactions Mentioning
+      the Absence of New Transactions
+5     Elect Francoise Chombar as Director     For       Against      Management
+6     Elect Shuo Zhang as Director            For       Against      Management
+7     Elect Eric Meurice as Director          For       Against      Management
+8     Reelect Satoshi Onishi as Director      For       Against      Management
+9     Ratify Appointment of Guillemette       For       Against      Management
+      Picard as Director
+10    Approve Compensation of Corporate       For       For          Management
+      Officers
+11    Approve Compensation of Paul Boudre,    For       Against      Management
+      CEO
+12    Approve Compensation of Eric Meurice,   For       For          Management
+      Chairman of the Board
+13    Approve Remuneration Policy of          For       For          Management
+      Chairman of the Board
+14    Approve Remuneration Policy of CEO      For       For          Management
+15    Approve Remuneration Policy of          For       For          Management
+      Directors
+16    Authorize Repurchase of Up to 10        For       For          Management
+      Percent of Issued Share Capital
+17    Authorize Issuance of Equity or         For       For          Management
+      Equity-Linked Securities with
+      Preemptive Rights up to Aggregate
+      Nominal Amount of EUR 32.5 Million
+18    Authorize Issuance of Equity or         For       For          Management
+      Equity-Linked Securities without
+      Preemptive Rights up to Aggregate
+      Nominal Amount of EUR 6.5 Million
+19    Approve Issuance of Equity or           For       For          Management
+      Equity-Linked Securities for Private
+      Placements, up to Aggregate Nominal
+      Amount of EUR 6.5 Million
+20    Approve Issuance of Equity or           For       For          Management
+      Equity-Linked Securities Reserved for
+      Specific Beneficiaries, up to
+      Aggregate Nominal Amount of EUR 6.5
+      Million
+21    Authorize Board to Increase Capital in  For       For          Management
+      the Event of Additional Demand Related
+      to Delegation Submitted to Shareholder
+      Vote Above Under Items 17-20
+22    Authorize Board to Set Issue Price for  For       For          Management
+      10 Percent Per Year of Issued Capital
+      Pursuant to Issue Authority without
+      Preemptive Rights
+23    Authorize Capital Increase of up to 10  For       For          Management
+      Percent of Issued Capital for
+      Contributions in Kind
+24    Authorize Capitalization of Reserves    For       For          Management
+      of Up to EUR 32.5 Million for Bonus
+      Issue or Increase in Par Value
+25    Authorize Capital Increase of Up to     For       For          Management
+      EUR 6.5 Million for Future Exchange
+      Offers
+26    Authorize Capital Issuances for Use in  For       For          Management
+      Employee Stock Purchase Plans
+27    Authorize up to 5 Percent of Issued     For       Against      Management
+      Capital for Use in Restricted Stock
+      Plans
+28    Authorize Decrease in Share Capital     For       For          Management
+      via Cancellation of Repurchased Shares
+29    Add Article of Bylaws Re: Corporate     For       For          Management
+      Purpose
+30    Amend Article 7 of Bylaws Re:           For       For          Management
+      Shareholders Identification
+31    Amend Article 16 of Bylaws Re: Board    For       For          Management
+      Power
+32    Amend Articles 12.4 and 18 of Bylaws    For       For          Management
+      Re: Board Remuneration
+33    Amend Article 19 of Bylaws to Comply    For       For          Management
+      with Legal Changes
+34    Amend Articles 21.3,23 and 24 of        For       For          Management
+      Bylaws Re: Quorum
+35    Authorize Filing of Required            For       For          Management
+      Documents/Other Formalities
+
+
+--------------------------------------------------------------------------------
+
+SQUARE, INC.
+
+Ticker:       SQ             Security ID:  852234103
+Meeting Date: NOV 03, 2021   Meeting Type: Special
+Record Date:  OCT 01, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Issue Shares in Connection with         For       For          Management
+      Transaction Agreement
+2     Adjourn Meeting                         For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+STMICROELECTRONICS NV
+
+Ticker:       STM            Security ID:  N83574108
+Meeting Date: MAY 25, 2022   Meeting Type: Annual
+Record Date:  APR 27, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Receive Report of Management Board      None      None         Management
+      (Non-Voting)
+2     Receive Report of Supervisory Board     None      None         Management
+      (Non-Voting)
+3     Approve Remuneration Report             For       For          Management
+4     Adopt Financial Statements and          For       For          Management
+      Statutory Reports
+5     Approve Dividends                       For       For          Management
+6     Approve Discharge of Management Board   For       For          Management
+7     Approve Discharge of Supervisory Board  For       For          Management
+8     Approve Grant of Unvested Stock Awards  For       For          Management
+      to Jean-Marc Chery as President and CEO
+9     Reelect Janet Davidson to Supervisory   For       For          Management
+      Board
+10    Elect Donatella Sciuto to Supervisory   For       For          Management
+      Board
+11    Authorize Repurchase of Up to 10        For       For          Management
+      Percent of Issued Share Capital
+12    Grant Board Authority to Issue Shares   For       For          Management
+      Up To 10 Percent of Issued Capital and
+      Exclude Pre-emptive Rights
+13    Allow Questions                         None      None         Management
+
+
+--------------------------------------------------------------------------------
+
+TAIWAN SEMICONDUCTOR MANUFACTURING CO., LTD.
+
+Ticker:       2330           Security ID:  874039100
+Meeting Date: JUN 08, 2022   Meeting Type: Annual
+Record Date:  APR 08, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Approve Business Operations Report and  For       For          Management
+      Financial Statements
+2     Approve Amendments to Articles of       For       For          Management
+      Association
+3     Amend Procedures Governing the          For       For          Management
+      Acquisition or Disposal of Assets
+4     Approve Issuance of Restricted Stocks   For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+TESLA, INC.
+
+Ticker:       TSLA           Security ID:  88160R101
+Meeting Date: OCT 07, 2021   Meeting Type: Annual
+Record Date:  AUG 09, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director James Murdoch            For       Against      Management
+1.2   Elect Director Kimbal Musk              For       For          Management
+2     Amend Certificate of Incorporation to   For       For          Management
+      Reduce Director Terms to Two Years
+3     Eliminate Supermajority Vote            None      For          Management
+      Requirements
+4     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+5     Declassify the Board of Directors       Against   For          Shareholder
+6     Report on Diversity and Inclusion       Against   For          Shareholder
+      Efforts
+7     Report on Employee Arbitration          Against   For          Shareholder
+8     Assign Responsibility for Strategic     Against   For          Shareholder
+      Oversight of Human Capital Management
+      to an Independent Board-Level Committee
+9     Additional Reporting on Human Rights    Against   For          Shareholder
+
+
+--------------------------------------------------------------------------------
+
+THOUGHTWORKS HOLDING, INC.
+
+Ticker:       TWKS           Security ID:  88546E105
+Meeting Date: JUN 15, 2022   Meeting Type: Annual
+Record Date:  APR 18, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Jane Chwick              For       For          Management
+1.2   Elect Director Ian Davis                For       For          Management
+1.3   Elect Director Rohan Haldea             For       For          Management
+2     Ratify Ernst &amp; Young, LLP as Auditors   For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+TWILIO INC.
+
+Ticker:       TWLO           Security ID:  90138F102
+Meeting Date: JUN 22, 2022   Meeting Type: Annual
+Record Date:  APR 25, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Donna L. Dubinsky        For       For          Management
+1.2   Elect Director Deval Patrick            For       For          Management
+2     Ratify KPMG LLP as Auditors             For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+UNITY SOFTWARE INC.
+
+Ticker:       U              Security ID:  91332U101
+Meeting Date: JUN 02, 2022   Meeting Type: Annual
+Record Date:  APR 08, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Egon Durban              For       Withhold     Management
+1.2   Elect Director Barry Schuler            For       Withhold     Management
+1.3   Elect Director Robynne Sisco            For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       Against      Management
+      Executive Officers' Compensation
+4     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+
+
+--------------------------------------------------------------------------------
+
+VISA INC.
+
+Ticker:       V              Security ID:  92826C839
+Meeting Date: JAN 25, 2022   Meeting Type: Annual
+Record Date:  NOV 26, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Lloyd A. Carney          For       For          Management
+1b    Elect Director Mary B. Cranston         For       For          Management
+1c    Elect Director Francisco Javier         For       For          Management
+      Fernandez-Carbajal
+1d    Elect Director Alfred F. Kelly, Jr.     For       For          Management
+1e    Elect Director Ramon Laguarta           For       For          Management
+1f    Elect Director John F. Lundgren         For       For          Management
+1g    Elect Director Robert W. Matschullat    For       For          Management
+1h    Elect Director Denise M. Morrison       For       For          Management
+1i    Elect Director Linda J. Rendle          For       For          Management
+1j    Elect Director Maynard G. Webb, Jr.     For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify KPMG LLP as Auditors             For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+WOLFSPEED, INC.
+
+Ticker:       WOLF           Security ID:  225447101
+Meeting Date: OCT 25, 2021   Meeting Type: Annual
+Record Date:  AUG 27, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Glenda M. Dorchak        For       For          Management
+1.2   Elect Director John C. Hodge            For       For          Management
+1.3   Elect Director Clyde R. Hosein          For       For          Management
+1.4   Elect Director Darren R. Jackson        For       For          Management
+1.5   Elect Director Duy-Loan T. Le           For       For          Management
+1.6   Elect Director Gregg A. Lowe            For       For          Management
+1.7   Elect Director John B. Replogle         For       For          Management
+1.8   Elect Director Marvin A. Riley          For       For          Management
+1.9   Elect Director Thomas H. Werner         For       Withhold     Management
+2     Approve Increase in Size of Board       For       For          Management
+3     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+4     Advisory Vote to Ratify Named           For       Against      Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+XERO LIMITED
+
+Ticker:       XRO            Security ID:  Q98665104
+Meeting Date: AUG 12, 2021   Meeting Type: Annual
+Record Date:  AUG 10, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Authorize Board to Fix Remuneration of  For       For          Management
+      the Auditors
+2     Elect Dale Murray as Director           For       For          Management
+3     Elect Steven Aldrich as Director        For       For          Management
+4     Approve the Increase in Non-Executive   None      For          Management
+      Directors' Fee Pool
+
+
+--------------------------------------------------------------------------------
+
+Z HOLDINGS CORP.
+
+Ticker:       4689           Security ID:  J9894K105
+Meeting Date: JUN 17, 2022   Meeting Type: Annual
+Record Date:  MAR 31, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Amend Articles to Disclose Shareholder  For       For          Management
+      Meeting Materials on Internet
+2.1   Elect Director Kawabe, Kentaro          For       For          Management
+2.2   Elect Director Idezawa, Takeshi         For       For          Management
+2.3   Elect Director Jungho Shin              For       For          Management
+2.4   Elect Director Ozawa, Takao             For       For          Management
+2.5   Elect Director Masuda, Jun              For       For          Management
+2.6   Elect Director Oketani, Taku            For       For          Management
+3.1   Elect Director and Audit Committee      For       For          Management
+      Member Hasumi, Maiko
+3.2   Elect Director and Audit Committee      For       For          Management
+      Member Kunihiro, Tadashi
+3.3   Elect Director and Audit Committee      For       For          Management
+      Member Hatoyama, Rehito
+4     Approve Compensation Ceiling for        For       For          Management
+      Directors Who Are Not Audit Committee
+      Members
+5     Approve Stock Option Plan               For       For          Management
+6     Approve Trust-Type Equity Compensation  For       For          Management
+      Plan
+7     Approve Trust-Type Equity Compensation  For       For          Management
+      Plan
+
+
+--------------------------------------------------------------------------------
+
+ZOOMINFO TECHNOLOGIES INC.
+
+Ticker:       ZI             Security ID:  98980F104
+Meeting Date: MAY 17, 2022   Meeting Type: Annual
+Record Date:  MAR 21, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Elect Director Mark Mader               For       For          Management
+2     Ratify KPMG LLP as Auditors             For       For          Management
+3     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+4a    Amend Certificate of Incorporation      For       For          Management
+      Regarding Classes of Common Stock
+4b    Amend Charter to Remove Pass-Through    For       For          Management
+      Voting Provision
+
+
+--------------------------------------------------------------------------------
+
+ZSCALER, INC.
+
+Ticker:       ZS             Security ID:  98980G102
+Meeting Date: JAN 05, 2022   Meeting Type: Annual
+Record Date:  NOV 10, 2021
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Karen Blasing            For       For          Management
+1.2   Elect Director Charles Giancarlo        For       Withhold     Management
+1.3   Elect Director Eileen Naughton          For       For          Management
+2     Ratify PricewaterhouseCoopers LLP as    For       For          Management
+      Auditors
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+========== END NPX REPORT</PRE>
+ </DIV>
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always">
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Investment Company Act of 1940, the registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">BlackRock Science and Technology Trust </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="11%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ John Perlowski</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>John Perlowski</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Chief Executive Officer of</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>BlackRock Science and Technology Trust</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>August&nbsp;25, 2022</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

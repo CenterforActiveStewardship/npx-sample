@@ -1,0 +1,193 @@
+<SEC-DOCUMENT>0001104659-23-095647.txt : 20230828
+<SEC-HEADER>0001104659-23-095647.hdr.sgml : 20230828
+<ACCEPTANCE-DATETIME>20230828081644
+ACCESSION NUMBER:		0001104659-23-095647
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230828
+DATE AS OF CHANGE:		20230828
+EFFECTIVENESS DATE:		20230828
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VANGUARD WHITEHALL FUNDS
+		CENTRAL INDEX KEY:			0001004655
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-07443
+		FILM NUMBER:		231210362
+
+	BUSINESS ADDRESS:	
+		STREET 1:		PO BOX 2600
+		STREET 2:		V26
+		CITY:			VALLEY FORGE
+		STATE:			PA
+		ZIP:			19482
+		BUSINESS PHONE:		6106691000
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 2600
+		STREET 2:		V26
+		CITY:			VALLEY FORGE
+		STATE:			PA
+		ZIP:			19482
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VANGUARD WHITEHALL FUNDS INC
+		DATE OF NAME CHANGE:	19951207
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0001004655
+<SERIES-ID>S000004408
+<SERIES-NAME>Vanguard Mid-Cap Growth Fund
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000012166
+<CLASS-CONTRACT-NAME>Investor Shares
+<CLASS-CONTRACT-TICKER-SYMBOL>VMGRX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>tm2322236d10_npx.txt
+<DESCRIPTION>N-PX
+<TEXT>
+
+                               UNITED STATES
+                     SECURITIES AND EXCHANGE COMMISSION
+                           WASHINGTON, D.C. 20549
+
+                                 FORM N-PX
+
+                    ANNUAL REPORT OF PROXY VOTING RECORD
+                                     OF
+                 REGISTERED MANAGEMENT INVESTMENT COMPANIES
+
+INVESTMENT COMPANY ACT FILE NUMBER:     811-07443
+
+NAME OF REGISTRANT:                     VANGUARD WHITEHALL FUNDS
+
+ADDRESS OF REGISTRANT:                  PO BOX 2600, VALLEY FORGE, PA 19482
+
+NAME AND ADDRESS OF AGENT FOR SERVICE:  ANNE E. ROBINSON
+                                        PO BOX 876
+                                        VALLEY FORGE, PA 19482
+
+REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (610) 669-1000
+
+DATE OF FISCAL YEAR END:                OCTOBER 31
+
+DATE OF REPORTING PERIOD:               JULY 1, 2022 - JUNE 30, 2023
+
+<PAGE>
+
+******************************* FORM N-Px REPORT *******************************
+ICA File Number: 81107443E
+Reporting Period: 07/01/2022 - 06/30/2023
+VANGUARD WHITEHALL FUNDS
+
+Each  investment  advisor's  votes  cast  are  shown  separately below. Sections
+without  an  investment advisor listed reflect votes cast by the Fund. The votes
+reported do not reflect any votes cast pursuant to a regulatory requirement.
+
+
+
+
+=================== VANGUARD MID-CAP GROWTH FUND - FRONTIER ====================
+
+
+ILLUMINA, INC.
+
+Ticker:       ILMN           Security ID:  452327109
+Meeting Date: MAY 25, 2023   Meeting Type: Proxy Contest
+Record Date:  APR 03, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a.   Elect Icahn Nominee Vincent J. Intrieri None      TNA          Shareholder
+1b.   Elect Icahn Nominee Jesse A. Lynn       None      TNA          Shareholder
+1c.   Elect Icahn Nominee Andrew J. Teno      None      TNA          Shareholder
+1d.   Elect Management Nominee Frances Arnold None      TNA          Management
+1e.   Elect Management Nominee Caroline D.    None      TNA          Management
+      Dorsa
+1f.   Elect Management Nominee Scott Gottlieb None      TNA          Management
+1g.   Elect Management Nominee Gary S.        None      TNA          Management
+      Guthart
+1h.   Elect Management Nominee Philip W.      None      TNA          Management
+      Schiller
+1i.   Elect Management Nominee Susan E.       None      TNA          Management
+      Siegel
+1j.   Elect Management Nominee Francis A.     None      TNA          Management
+      deSouza
+1k.   Elect Management Nominee Robert S.      None      TNA          Management
+      Epstein
+1l.   Elect Management Nominee John W.        None      TNA          Management
+      Thompson
+2.    Ratification of Auditor                 None      TNA          Management
+3.    Advisory Vote on Executive Compensation None      TNA          Management
+4.    Frequency of Advisory Vote on           None      TNA          Management
+      Executive Compensation
+5.    Amendment to the 2015 Stock and         None      TNA          Management
+      Incentive Plan
+1A.   Elect Management Nominee Frances Arnold For       For          Management
+1B.   Elect Management Nominee Francis A.     For       Withhold     Management
+      deSouza
+1C.   Elect Management Nominee Caroline D.    For       For          Management
+      Dorsa
+1D.   Elect Management Nominee Robert S.      For       Withhold     Management
+      Epstein
+1E.   Elect Management Nominee Scott Gottlieb For       For          Management
+1F.   Elect Management Nominee Gary S.        For       For          Management
+      Guthart
+1G.   Elect Management Nominee Philip W.      For       For          Management
+      Schiller
+1H.   Elect Management Nominee Susan E.       For       For          Management
+      Siegel
+1I.   Elect Management Nominee John W.        For       Withhold     Management
+      Thompson
+1J.   Elect Icahn Nominee Vincent J. Intrieri Withhold  For          Shareholder
+1K.   Elect Icahn Nominee Jesse A. Lynn       Withhold  Withhold     Shareholder
+1L.   Elect Icahn Nominee Andrew J. Teno      Withhold  For          Shareholder
+2.    Ratification of Auditor                 For       For          Management
+3.    Advisory Vote on Executive Compensation For       Against      Management
+4.    Frequency of Advisory Vote on           1 Year    1 Year       Management
+      Executive Compensation
+5.    Amendment to the 2015 Stock and         For       For          Management
+      Incentive Plan
+
+
+========== END NPX REPORT
+
+<PAGE>
+
+                                   SIGNATURES
+
+Pursuant to the requirements of the Investment Company Act of 1940, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+VANGUARD WHITEHALL FUNDS
+
+By: /s/Mortimer J. Buckley
+       Mortimer J. Buckley*
+       Chief Executive Officer, President, and Trustee
+
+Date:  August 28, 2023
+*By:   /s/Anne E. Robinson
+
+Anne E. Robinson, pursuant to a Power of Attorney filed on July 21, 2023 (see
+File Number 33-53683) and to a Power of Attorney filed on March 29, 2023 (see
+File Number 2-11444), Incorporated by Reference.
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

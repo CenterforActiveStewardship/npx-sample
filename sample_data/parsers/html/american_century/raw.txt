@@ -1,0 +1,308 @@
+<SEC-DOCUMENT>0000880268-22-000032.txt : 20220819
+<SEC-HEADER>0000880268-22-000032.hdr.sgml : 20220819
+<ACCEPTANCE-DATETIME>20220819095830
+ACCESSION NUMBER:		0000880268-22-000032
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20220630
+FILED AS OF DATE:		20220819
+DATE AS OF CHANGE:		20220819
+EFFECTIVENESS DATE:		20220819
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN CENTURY INTERNATIONAL BOND FUNDS
+		CENTRAL INDEX KEY:			0000880268
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-06441
+		FILM NUMBER:		221179234
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4500 MAIN STREET
+		STREET 2:		9TH FLOOR
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+		BUSINESS PHONE:		8003218321
+
+	MAIL ADDRESS:	
+		STREET 1:		4500 MAIN STREET
+		STREET 2:		9TH FLOOR
+		CITY:			KANSAS CITY
+		STATE:			MO
+		ZIP:			64111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BENHAM INTERNATIONAL FUNDS
+		DATE OF NAME CHANGE:	19920929
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000880268
+<SERIES-ID>S000005795
+<SERIES-NAME>INTERNATIONAL BOND FUND
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000015925
+<CLASS-CONTRACT-NAME>INVESTOR CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>BEGBX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000015926
+<CLASS-CONTRACT-NAME>A CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIBDX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000015927
+<CLASS-CONTRACT-NAME>R5 CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIDIX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000055443
+<CLASS-CONTRACT-NAME>C CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIQCX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000055444
+<CLASS-CONTRACT-NAME>R CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIBRX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000131611
+<CLASS-CONTRACT-NAME>R6 CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIDDX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000189708
+<CLASS-CONTRACT-NAME>I CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIBHX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000189709
+<CLASS-CONTRACT-NAME>Y CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIBYX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000194399
+<CLASS-CONTRACT-NAME>G CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AIBGX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0000880268
+<SERIES-ID>S000035738
+<SERIES-NAME>GLOBAL BOND FUND
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000109545
+<CLASS-CONTRACT-NAME>INVESTOR CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBVX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000109546
+<CLASS-CONTRACT-NAME>R5 CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBNX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000109547
+<CLASS-CONTRACT-NAME>A CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBAX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000109548
+<CLASS-CONTRACT-NAME>C CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBTX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000109549
+<CLASS-CONTRACT-NAME>R CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBRX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000131612
+<CLASS-CONTRACT-NAME>R6 CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBDX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000189710
+<CLASS-CONTRACT-NAME>I CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBHX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000189711
+<CLASS-CONTRACT-NAME>Y CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBWX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000194400
+<CLASS-CONTRACT-NAME>G CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AGBGX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0000880268
+<SERIES-ID>S000046096
+<SERIES-NAME>EMERGING MARKETS DEBT FUND
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000144189
+<CLASS-CONTRACT-NAME>INVESTOR CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEDVX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000144190
+<CLASS-CONTRACT-NAME>R5 CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEDJX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000144191
+<CLASS-CONTRACT-NAME>A CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEDQX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000144192
+<CLASS-CONTRACT-NAME>C CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEDHX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000144193
+<CLASS-CONTRACT-NAME>R CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEDWX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000144194
+<CLASS-CONTRACT-NAME>R6 CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEXDX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000189713
+<CLASS-CONTRACT-NAME>I CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEHDX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000189714
+<CLASS-CONTRACT-NAME>Y CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEYDX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000194401
+<CLASS-CONTRACT-NAME>G CLASS
+<CLASS-CONTRACT-TICKER-SYMBOL>AEDGX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>acibf2022npx.htm
+<DESCRIPTION>N-PX
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!-- Document created using Wdesk -->
+<!-- Copyright 2022 Workiva -->
+<title>ACIBF 2022 NPX</title></head>
+<body style="font-family:Times New Roman;font-size:10pt;">
+<div id="i73a06376f74d4217a11169d0e18b5b05_1"></div><div style="min-height:42.75pt;width:100%"><div><font><br></font></div></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:400;line-height:120%">UNITED STATES</font></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:400;line-height:120%">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:400;line-height:120%">Washington, DC  20549</font></div><div style="text-align:center"><font><br></font></div><div><font><br></font></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:14pt;font-weight:700;line-height:120%">FORM N-PX</font></div><div style="text-align:center"><font><br></font></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:700;line-height:120%">ANNUAL REPORT OF PROXY VOTING RECORD</font></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:700;line-height:120%">OF REGISTERED MANAGEMENT INVESTMENT COMPANY</font></div><div style="text-align:center"><font><br></font></div><div style="text-align:center"><table style="border-collapse:collapse;display:inline-table;margin-bottom:5pt;vertical-align:text-bottom;width:90.935%"><tr><td style="width:1.0%"></td><td style="width:27.838%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:12.244%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:8.385%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:2.758%"></td><td style="width:0.1%"></td><td style="width:0.1%"></td><td style="width:1.729%"></td><td style="width:0.1%"></td><td style="width:0.1%"></td><td style="width:1.729%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:39.417%"></td><td style="width:0.1%"></td></tr><tr><td colspan="6" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Investment Company Act file number</font></td><td colspan="15" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">811-06441</font></td></tr><tr style="height:15pt"><td colspan="6" style="padding:0 1pt"></td><td colspan="15" style="border-top:1pt solid #000000;padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="6" style="padding:0 1pt"></td><td colspan="15" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="6" style="padding:0 1pt"></td><td colspan="15" style="padding:0 1pt"></td></tr><tr><td colspan="21" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:14pt;font-weight:700;line-height:100%">AMERICAN CENTURY INTERNATIONAL BOND FUNDS</font></td></tr><tr><td colspan="21" style="border-top:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">(Exact name of registrant as specified in charter)</font></td></tr><tr style="height:15pt"><td colspan="9" style="padding:0 1pt"></td><td colspan="12" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="9" style="padding:0 1pt"></td><td colspan="12" style="padding:0 1pt"></td></tr><tr><td colspan="18" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">4500 MAIN STREET, KANSAS CITY, MISSOURI</font></td><td colspan="3" style="padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">64111</font></td></tr><tr><td colspan="18" style="border-top:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">(Address of principal executive offices)</font></td><td colspan="3" style="border-top:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">(Zip Code)</font></td></tr><tr style="height:15pt"><td colspan="18" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="18" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="21" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:12pt;font-weight:700;line-height:100%">JOHN PAK, 4500 MAIN STREET<br>KANSAS CITY, MISSOURI  64111</font></td></tr><tr><td colspan="21" style="border-top:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">(Name and address of agent for service)</font></td></tr><tr style="height:15pt"><td colspan="12" style="padding:0 1pt"></td><td colspan="9" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="12" style="padding:0 1pt"></td><td colspan="9" style="padding:0 1pt"></td></tr><tr><td colspan="15" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Registrant&#8217;s telephone number, including area code&#58;</font></td><td colspan="6" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">816-531-5575</font></td></tr><tr style="height:15pt"><td colspan="3" style="border-top:1pt solid #000000;padding:0 1pt"></td><td colspan="18" style="border-top:1pt solid #000000;padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="18" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Date of fiscal year end&#58;</font></td><td colspan="18" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">10-31</font></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="18" style="border-top:1pt solid #000000;padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="18" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Date of reporting period&#58;</font></td><td colspan="18" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:center;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:100%">07-01-2021 - 06-30-2022</font></td></tr></table></div><div style="text-align:center"><font><br></font></div><div style="text-align:center"><font><br></font></div><div><font><br></font></div><div><font><br></font></div><div><font><br></font></div><div><font><br></font></div><div><font><br></font></div><div><font><br></font></div><div style="height:42.75pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div><hr style="page-break-after:always">
+
+<p align='center' style='font-weight:bold'>FORM N-PX</p>
+<br><br>
+<p >ICA File Number:&nbsp;&nbsp;811-06441</p><p >Registrant Name:&nbsp;&nbsp;American Century International Bond Funds</p><p >Reporting Period:&nbsp;&nbsp;07/01/2021 - 06/30/2022</p>
+<br style='page-break-after:always;'><p align='center'>Emerging Markets Debt</p>
+
+<table cellPadding='2' cellSpacing='0' width='100%' border='1'>
+<tr style='font-size:10pt;border:none;'><th style='font-size:10pt;border:none;' colspan='5'>&nbsp;</th></tr>
+<tr>
+<td style='font-size:10pt;font-weight:bold;' colSpan='5'>SELECT SECTOR SPDR TRUST
+<br>Meeting Date:&nbsp;&nbsp;OCT 29, 2021
+<br>Record Date:&nbsp;&nbsp;SEP 03, 2021
+<br>Meeting Type:&nbsp;&nbsp;SPECIAL
+</td>
+</tr>
+<tr>
+<td style='font-size:10pt;' colSpan='5'>
+Ticker:&nbsp;&nbsp;
+<br>Security ID:&nbsp;&nbsp;81369Y506
+<br>
+</td>
+</tr>
+<tr>
+<th style='font-size:10pt' width='10%'>Proposal No</th>
+<th style='font-size:10pt' width='55%'>Proposal</th>
+<th style='font-size:10pt' width='15%'>Proposed By</th>
+<th style='font-size:10pt' width='15%'>Management Recommendation</th>
+<th style='font-size:10pt' width='10%'>Vote Cast</th>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.1</td>
+<td style='font-size=10pt'>Elect Director Allison Grant Williams</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.2</td>
+<td style='font-size=10pt'>Elect Director Sheila Hartnett-Devlin</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.3</td>
+<td style='font-size=10pt'>Elect Director James Jessee</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.4</td>
+<td style='font-size=10pt'>Elect Director Teresa Polley</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.5</td>
+<td style='font-size=10pt'>Elect Director Ashley T. Rabun</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.6</td>
+<td style='font-size=10pt'>Elect Director James E. Ross</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>1.7</td>
+<td style='font-size=10pt'>Elect Director Rory Tobin</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>For</td>
+<td style='font-size=10pt'>For</td>
+</tr>
+</table>
+
+<br style='page-break-after:always;'><p align='center'>Global Bond</p>
+
+<p><i>There is no proxy voting activity for the fund, as the fund did not hold any votable positions during the reporting period.</i></p>
+
+<br style='page-break-after:always;'><p align='center'>International Bond</p>
+
+<p><i>There is no proxy voting activity for the fund, as the fund did not hold any votable positions during the reporting period.</i></p>
+
+<p align='center' style='font-weight:bold'>END NPX REPORT</p>
+
+<hr style="page-break-after:always">
+<div id="idb3949db92d14810b670ccfb50a31f8e_1"></div><div style="min-height:42.75pt;width:100%"><div><font><br></font></div></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:11pt;font-weight:700;line-height:120%">SIGNATURES</font></div><div><font><br></font></div><div style="text-align:justify;text-indent:36pt"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">Pursuant to the requirements of the Investment Company Act of 1940, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div><div><font><br></font></div><div style="text-align:center"><table style="border-collapse:collapse;display:inline-table;margin-bottom:5pt;vertical-align:text-bottom;width:87.573%"><tr><td style="width:1.0%"></td><td style="width:24.108%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:7.748%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:59.000%"></td><td style="width:0.1%"></td><td style="width:1.0%"></td><td style="width:4.744%"></td><td style="width:0.1%"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">(Registrant)</font></td><td colspan="6" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">AMERICAN CENTURY INTERNATIONAL BOND FUNDS</font></td><td colspan="3" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="6" style="border-top:1pt solid #000000;padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="6" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">By (Signature and Title)*</font></td><td colspan="6" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">&#47;s&#47; Patrick Bannigan</font></td><td colspan="3" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:0 1pt"></td><td colspan="9" style="border-top:1pt solid #000000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Name&#58;  Patrick Bannigan</font></td></tr><tr><td colspan="3" style="padding:0 1pt"></td><td colspan="9" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Title&#58;    President</font></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td><td colspan="6" style="padding:0 1pt"></td></tr><tr style="height:15pt"><td colspan="3" style="padding:0 1pt"></td><td colspan="3" style="padding:0 1pt"></td><td colspan="6" style="padding:0 1pt"></td></tr><tr><td colspan="3" style="padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">Date</font></td><td colspan="6" style="border-bottom:1pt solid #000000;padding:2px 1pt;text-align:left;vertical-align:bottom"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:100%">August 19, 2022</font></td><td colspan="3" style="padding:0 1pt"></td></tr></table></div><div><font><br></font></div><div><font><br></font></div><div><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:9pt;font-weight:400;line-height:120%">*Print the name and title of each signing officer under his or her signature.</font></div><div><font><br></font></div><div style="height:42.75pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div><hr style="page-break-after:always">
+
+</body></html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

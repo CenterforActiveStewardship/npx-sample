@@ -1,0 +1,132 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QwM8OiohjLHJEQ1i+NZ9S42aRA5kH1ZMg0I/c8K6n7/pBG8h0xkvkmAJgoeFvcMm
+ Qzf0Pl+lnCmPP4dQ7XZEiw==
+
+<SEC-DOCUMENT>0000930413-05-006005.txt : 20050822
+<SEC-HEADER>0000930413-05-006005.hdr.sgml : 20050822
+<ACCEPTANCE-DATETIME>20050822164718
+ACCESSION NUMBER:		0000930413-05-006005
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050630
+FILED AS OF DATE:		20050822
+DATE AS OF CHANGE:		20050822
+EFFECTIVENESS DATE:		20050822
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLACKROCK ADVANTAGE TERM TRUST INC
+		CENTRAL INDEX KEY:			0000845851
+		IRS NUMBER:				133504092
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-05757
+		FILM NUMBER:		051041516
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		STREET 2:		MUTUAL FUND DEPARTMENT
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+		BUSINESS PHONE:		888-825-2257
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		STREET 2:		MUTUAL FUND DEPARTMENT
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BLACKSTONE ADVANTAGE TERM TRUST INC/MD/
+		DATE OF NAME CHANGE:	19930305
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BLACKSTONE ADVANTAGE TERM TRUST INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BLACKSTONE STAR TRUST INC
+		DATE OF NAME CHANGE:	19900312
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>c38727_npx.txt
+<TEXT>
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+
+                                    FORM N-PX
+
+          ANNUAL REPORT OF PROXY VOTING RECORD OF REGISTERED MANAGEMENT
+                               INVESTMENT COMPANY
+
+Investment Company Act File Number:  811-05757
+
+                      The BlackRock Advantage Term Trust Inc.
+                     ----------------------------------------
+               (Exact name of registrant as specified in charter)
+
+                    100 Bellevue Parkway, Wilmington DE 19809
+                    -----------------------------------------
+               (Address of principal executive offices) (Zip code)
+
+                           Robert S. Kapito, President
+                               40 East 52nd Street
+                            New York, New York 10022
+                         ------------------------------
+                     (name and address of agent for service)
+
+Registrant's telephone number, including area code: (888) 825-2257
+
+Date of fiscal year end: 12/31
+
+Date of reporting period:  07/01/2004 - 06/30/2005
+
+<PAGE>
+
+=================== THE BLACKROCK ADVANTAGE TERM TRUST INC. ====================
+
+ITEM 1 PROXY VOTING RECORD
+
+There were no matters relating to a portfolio security considered at any
+shareholder meeting held during the period ended June 30, 2005 with respect to
+which the registrant was entitled to vote.
+
+<PAGE>
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Investment Company Act of 1940, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+
+                  The BlackRock Advantage Term Trust Inc.
+
+
+
+                    by /s/ Robert S. Kapito
+                      ---------------------------
+                      Robert S. Kapito
+                      Principal Executive Officer
+
+Date:  August 17, 2005
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

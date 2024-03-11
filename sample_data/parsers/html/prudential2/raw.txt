@@ -1,0 +1,229 @@
+<SEC-DOCUMENT>0001683863-21-004652.txt : 20210825
+<SEC-HEADER>0001683863-21-004652.hdr.sgml : 20210825
+<ACCEPTANCE-DATETIME>20210825161618
+ACCESSION NUMBER:		0001683863-21-004652
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20210630
+FILED AS OF DATE:		20210825
+DATE AS OF CHANGE:		20210825
+EFFECTIVENESS DATE:		20210825
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRUDENTIAL GLOBAL TOTAL RETURN FUND, INC.
+		CENTRAL INDEX KEY:			0000793159
+		IRS NUMBER:				133352347
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-04661
+		FILM NUMBER:		211207066
+
+	BUSINESS ADDRESS:	
+		STREET 1:		655 BROAD STREET
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+		BUSINESS PHONE:		(973) 367-8982
+
+	MAIL ADDRESS:	
+		STREET 1:		655 BROAD STREET
+		CITY:			NEWARK
+		STATE:			NJ
+		ZIP:			07102
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DRYDEN GLOBAL TOTAL RETURN FUND INC
+		DATE OF NAME CHANGE:	20030716
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PRUDENTIAL GLOBAL TOTAL RETURN FUND INC
+		DATE OF NAME CHANGE:	19990816
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GLOBAL TOTAL RETURN FUND INC /MD
+		DATE OF NAME CHANGE:	19950301
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000793159
+<SERIES-ID>S000004375
+<SERIES-NAME>PGIM Global Total Return Fund
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000012110
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>GTRAX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000012112
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>PCTRX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000012113
+<CLASS-CONTRACT-NAME>Class Z
+<CLASS-CONTRACT-TICKER-SYMBOL>PZTRX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000109121
+<CLASS-CONTRACT-NAME>Class R6
+<CLASS-CONTRACT-TICKER-SYMBOL>PGTQX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000196748
+<CLASS-CONTRACT-NAME>Class R2
+<CLASS-CONTRACT-TICKER-SYMBOL>PGTOX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000196749
+<CLASS-CONTRACT-NAME>Class R4
+<CLASS-CONTRACT-TICKER-SYMBOL>PGTSX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0000793159
+<SERIES-ID>S000059804
+<SERIES-NAME>PGIM Global Total Return (USD Hedged) Fund
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000195657
+<CLASS-CONTRACT-NAME>Class A
+<CLASS-CONTRACT-TICKER-SYMBOL>PHEAX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000195658
+<CLASS-CONTRACT-NAME>Class C
+<CLASS-CONTRACT-TICKER-SYMBOL>PHECX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000195659
+<CLASS-CONTRACT-NAME>Class R6
+<CLASS-CONTRACT-TICKER-SYMBOL>PHEQX
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000195660
+<CLASS-CONTRACT-NAME>Class Z
+<CLASS-CONTRACT-TICKER-SYMBOL>PHEZX
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>f9532d1.htm
+<DESCRIPTION>PRUDENTIAL GLOBAL TOTAL RETURN FUND, INC. N-PX
+<TEXT>
+<html>
+<head><title></title></head>
+<body>
+
+<p align='center' style='font-weight:bold'>FORM N-PX</p>
+<br><br>
+<p>ICA File Number:&nbsp;&nbsp;811-04661</p><p>Registrant Name:&nbsp;&nbsp;Prudential Global Total Return Fund, Inc.</p><p>Reporting Period:&nbsp;&nbsp;07/01/2020 - 06/30/2021</p>
+<br style='page-break-after:always;'><p align='center'>PGIM Global Total Return (USD Hedged) Fund - Subadviser: PGIM Fixed Income, a business unit of PGIM Inc.</p>
+
+<p><i>There is no proxy voting activity for the fund, as the fund did not hold any votable positions during the reporting period.</i></p>
+
+<br style='page-break-after:always;'><p align='center'>PGIM Global Total Return Fund - Subadviser: PGIM Fixed Income, a business unit of PGIM Inc.</p>
+
+<table cellpadding='2' cellspacing='0' width='100%' border='1'>
+<tr style='font-size:10pt;border:none;'><th style='font-size:10pt;border:none;' colspan='5'>&nbsp;</th></tr>
+<tr>
+<td style='font-size:10pt;font-weight:bold;' colspan='5'>FRONTERA ENERGY CORP
+<br>Meeting Date:&nbsp;&nbsp;MAY 19, 2021
+<br>Record Date:&nbsp;&nbsp;APR 09, 2021
+<br>Meeting Type:&nbsp;&nbsp;ANNUAL
+</td>
+</tr>
+<tr>
+<td style='font-size:10pt;' colspan='5'>
+Ticker:&nbsp;&nbsp;FEC
+<br>Security ID:&nbsp;&nbsp;35905B107
+<br>
+</td>
+</tr>
+<tr>
+<th style='font-size:10pt' width='10%'>Proposal No</th>
+<th style='font-size:10pt' width='55%'>Proposal</th>
+<th style='font-size:10pt' width='15%'>Proposed By</th>
+<th style='font-size:10pt' width='15%'>Management Recommendation</th>
+<th style='font-size:10pt' width='10%'>Vote Cast</th>
+</tr>
+<tr>
+<td style='font-size=10pt'>1</td>
+<td style='font-size=10pt'>To set the number of Directors at 7</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2.1</td>
+<td style='font-size=10pt'>DIRECTOR: L. F. ALARCON MANTILLA</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2.2</td>
+<td style='font-size=10pt'>DIRECTOR: W. ELLIS ARMSTRONG</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2.3</td>
+<td style='font-size=10pt'>DIRECTOR: RENE BURGOS DIAZ</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2.4</td>
+<td style='font-size=10pt'>DIRECTOR: O. CABRALES SEGOVIA</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2.5</td>
+<td style='font-size=10pt'>DIRECTOR: GABRIEL DE ALBA</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2.6</td>
+<td style='font-size=10pt'>DIRECTOR: RUSSELL FORD</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>2.7</td>
+<td style='font-size=10pt'>DIRECTOR: VERONIQUE GIRY</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+<tr>
+<td style='font-size=10pt'>3</td>
+<td style='font-size=10pt'>Appointment of Ernst & Young LLP as Auditors of the Corporation for the ensuing year and authorizing the Directors to fix their remuneration</td>
+<td style='font-size=10pt'>Management</td>
+<td style='font-size=10pt'>FOR</td>
+<td style='font-size=10pt'>FOR</td>
+</tr>
+</table>
+
+<p align='center' style='font-weight:bold'>END NPX REPORT</p>
+
+<div><br></div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

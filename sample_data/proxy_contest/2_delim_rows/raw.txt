@@ -1,0 +1,1517 @@
+<SEC-DOCUMENT>0001193125-23-221538.txt : 20230825
+<SEC-HEADER>0001193125-23-221538.hdr.sgml : 20230825
+<ACCEPTANCE-DATETIME>20230825162815
+ACCESSION NUMBER:		0001193125-23-221538
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20230630
+FILED AS OF DATE:		20230825
+DATE AS OF CHANGE:		20230825
+EFFECTIVENESS DATE:		20230825
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPDR SERIES TRUST
+		CENTRAL INDEX KEY:			0001064642
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			MA
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-08839
+		FILM NUMBER:		231208715
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE LINCOLN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02111
+		BUSINESS PHONE:		617-664-1465
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE LINCOLN STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STREETTRACKS SERIES TRUST
+		DATE OF NAME CHANGE:	20000925
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INDEX EXCHANGE LISTED SECURITIES TRUST
+		DATE OF NAME CHANGE:	19980622
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006973
+<SERIES-NAME>SPDR(R) Portfolio S&P 1500 Composite Stock Market ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019026
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio S&P 1500 Composite Stock Market ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPTM
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006974
+<SERIES-NAME>SPDR(R) S & P 600 Small Cap Value ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019027
+<CLASS-CONTRACT-NAME>SPDR(R) S & P 600 Small Cap Value ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SLYV
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006975
+<SERIES-NAME>SPDR(R) Global Dow ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019028
+<CLASS-CONTRACT-NAME>SPDR(R) Global Dow ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>DGT
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006976
+<SERIES-NAME>SPDR(R) Dow Jones REIT ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019029
+<CLASS-CONTRACT-NAME>SPDR(R) Dow Jones REIT ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>RWR
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006977
+<SERIES-NAME>SPDR(R) S&P Bank ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019030
+<CLASS-CONTRACT-NAME>SPDR(R) S&P Bank ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>KBE
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006978
+<SERIES-NAME>SPDR(R) S&P Capital Markets ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019031
+<CLASS-CONTRACT-NAME>SPDR(R) S&P Capital Markets ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>KCE
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006979
+<SERIES-NAME>SPDR(R) S&P Insurance ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019032
+<CLASS-CONTRACT-NAME>SPDR(R) S&P Insurance ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>KIE
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006980
+<SERIES-NAME>SPDR(R) NYSE Technology ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019033
+<CLASS-CONTRACT-NAME>SPDR(R) NYSE Technology ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XNTK
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006981
+<SERIES-NAME>SPDR(R) S&P(R) Dividend ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019034
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Dividend ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SDY
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006983
+<SERIES-NAME>SPDR(R) Portfolio S&P 500 ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019036
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio S&P 500 ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPLG
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006984
+<SERIES-NAME>SPDR(R) Portfolio S&P 500 Growth ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019037
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio S&P 500 Growth ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPYG
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006985
+<SERIES-NAME>SPDR(R) Portfolio S&P 500 Value ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019038
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio S&P 500 Value ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPYV
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006986
+<SERIES-NAME>SPDR(R) Portfolio S&P 400 Mid Cap ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019039
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio S&P 400 Mid Cap ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPMD
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006987
+<SERIES-NAME>SPDR(R) S & P 400 Mid Cap Growth ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019040
+<CLASS-CONTRACT-NAME>SPDR(R) S & P 400 Mid Cap Growth ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>MDYG
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006988
+<SERIES-NAME>SPDR(R) S & P 400 Mid Cap Value ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019041
+<CLASS-CONTRACT-NAME>SPDR(R) S & P 400 Mid Cap Value ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>MDYV
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006989
+<SERIES-NAME>SPDR(R) S & P 600 Small Cap ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019042
+<CLASS-CONTRACT-NAME>SPDR(R) S & P 600 Small Cap ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SLY
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000006990
+<SERIES-NAME>SPDR(R) S & P 600 Small Cap Growth ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000019043
+<CLASS-CONTRACT-NAME>SPDR(R) S & P 600 Small Cap Growth ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SLYG
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000010018
+<SERIES-NAME>SPDR(R) S&P(R) Biotech ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000027706
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Biotech ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XBI
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000010019
+<SERIES-NAME>SPDR(R) S&P(R) Homebuilders ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000027707
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Homebuilders ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XHB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000010020
+<SERIES-NAME>SPDR(R) S&P(R) Semiconductor ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000027708
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Semiconductor ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XSD
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012318
+<SERIES-NAME>SPDR(R) S&P(R) Aerospace & Defense ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033534
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Aerospace & Defense ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XAR
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012319
+<SERIES-NAME>SPDR(R) S&P(R) Oil & Gas Exploration & Production ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033535
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Oil & Gas Exploration & Production ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XOP
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012321
+<SERIES-NAME>SPDR(R) S&P(R) Pharmaceuticals ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033537
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Pharmaceuticals ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XPH
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012322
+<SERIES-NAME>SPDR(R) S&P(R) Retail ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033538
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Retail ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XRT
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012323
+<SERIES-NAME>SPDR(R) S&P(R) Telecom ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033539
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Telecom ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XTL
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012324
+<SERIES-NAME>SPDR(R) S&P(R) Transportation ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033540
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Transportation ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XTN
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012325
+<SERIES-NAME>SPDR(R) S&P Regional Banking(SM) ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033541
+<CLASS-CONTRACT-NAME>SPDR(R) S&P Regional Banking(SM) ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>KRE
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012329
+<SERIES-NAME>SPDR(R) S&P(R) Software & Services ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033545
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Software & Services ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XSW
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012330
+<SERIES-NAME>SPDR(R) S&P(R) Health Care Equipment ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033546
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Health Care Equipment ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XHE
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012331
+<SERIES-NAME>SPDR(R) S&P(R) Health Care Services ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033547
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Health Care Services ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XHS
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012333
+<SERIES-NAME>SPDR(R) S&P(R) Metals & Mining ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033549
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Metals & Mining ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XME
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000012334
+<SERIES-NAME>SPDR(R) S&P(R) Oil & Gas Equipment & Services ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000033550
+<CLASS-CONTRACT-NAME>SPDR(R) S&P(R) Oil & Gas Equipment & Services ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XES
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000017326
+<SERIES-NAME>SPDR(R) Bloomberg 1-3 Month T-Bill ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000047963
+<CLASS-CONTRACT-NAME>SPDR(R) Bloomberg 1-3 Month T-Bill ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>BIL
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000017327
+<SERIES-NAME>SPDR(R) Nuveen Bloomberg Short Term Municipal Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000047964
+<CLASS-CONTRACT-NAME>SPDR(R) Nuveen Bloomberg Short Term Municipal Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SHM
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000017328
+<SERIES-NAME>SPDR(R) Portfolio Intermediate Term Treasury ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000047965
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Intermediate Term Treasury ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPTI
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000017329
+<SERIES-NAME>SPDR(R) Portfolio Long Term Treasury ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000047966
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Long Term Treasury ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPTL
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000017330
+<SERIES-NAME>SPDR(R) Portfolio TIPS ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000047967
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio TIPS ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPIP
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000017333
+<SERIES-NAME>SPDR(R) Nuveen Bloomberg Municipal Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000047970
+<CLASS-CONTRACT-NAME>SPDR(R) Nuveen Bloomberg Municipal Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>TFI
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000017334
+<SERIES-NAME>SPDR(R) Portfolio Aggregate Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000047971
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Aggregate Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPAB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000018782
+<SERIES-NAME>SPDR(R) Bloomberg International Treasury Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000051964
+<CLASS-CONTRACT-NAME>SPDR(R) Bloomberg International Treasury Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>BWX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000018783
+<SERIES-NAME>SPDR(R) FTSE International Government Inflation-Protected Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000051965
+<CLASS-CONTRACT-NAME>SPDR(R) FTSE International Government Inflation-Protected Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>WIP
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000019665
+<SERIES-NAME>SPDR(R) Portfolio Short Term Treasury ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000055009
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Short Term Treasury ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPTS
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000019666
+<SERIES-NAME>SPDR(R) Portfolio Short Term Corporate Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000055010
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Short Term Corporate Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPSB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000019669
+<SERIES-NAME>SPDR(R) Bloomberg High Yield Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000055013
+<CLASS-CONTRACT-NAME>SPDR(R) Bloomberg High Yield Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>JNK
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000022631
+<SERIES-NAME>SPDR(R) Bloomberg Emerging Markets Local Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000065485
+<CLASS-CONTRACT-NAME>SPDR(R) Bloomberg Emerging Markets Local Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>EBND
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000022922
+<SERIES-NAME>SPDR(R) Portfolio Mortgage Backed Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000066453
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Mortgage Backed Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPMB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000022923
+<SERIES-NAME>SPDR(R) Portfolio Intermediate Term Corporate Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000066454
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Intermediate Term Corporate Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPIB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000022924
+<SERIES-NAME>SPDR(R) Portfolio Long Term Corporate Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000066455
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio Long Term Corporate Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPLB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000022925
+<SERIES-NAME>SPDR(R) Bloomberg Convertible Securities ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000066456
+<CLASS-CONTRACT-NAME>SPDR(R) Bloomberg Convertible Securities ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>CWB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000023655
+<SERIES-NAME>SPDR(R) Bloomberg Short Term International Treasury Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000069669
+<CLASS-CONTRACT-NAME>SPDR(R) Bloomberg Short Term International Treasury Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>BWZ
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000026152
+<SERIES-NAME>SPDR(R) ICE Preferred Securities ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000078463
+<CLASS-CONTRACT-NAME>SPDR(R) ICE Preferred Securities ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>PSK
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000028870
+<SERIES-NAME>SPDR(R) Nuveen Bloomberg High Yield Municipal Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000088522
+<CLASS-CONTRACT-NAME>SPDR(R) Nuveen Bloomberg High Yield Municipal Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>HYMB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000028947
+<SERIES-NAME>SPDR(R) Bloomberg International Corporate Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000088912
+<CLASS-CONTRACT-NAME>SPDR(R) Bloomberg International Corporate Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>IBND
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000031836
+<SERIES-NAME>SPDR Portfolio Corporate Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000099139
+<CLASS-CONTRACT-NAME>SPDR Portfolio Corporate Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPBO
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000033831
+<SERIES-NAME>SPDR S&P 1500 Value Tilt ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000104492
+<CLASS-CONTRACT-NAME>SPDR S&P 1500 Value Tilt ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>VLU
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000033832
+<SERIES-NAME>SPDR S&P 1500 Momentum Tilt ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000104493
+<CLASS-CONTRACT-NAME>SPDR S&P 1500 Momentum Tilt ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>MMTM
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000034874
+<SERIES-NAME>SPDR Bloomberg Investment Grade Floating Rate ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000107256
+<CLASS-CONTRACT-NAME>SPDR Bloomberg Investment Grade Floating Rate ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>FLRN
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000036414
+<SERIES-NAME>SPDR Bloomberg Short Term High Yield Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000111386
+<CLASS-CONTRACT-NAME>SPDR Bloomberg Short Term High Yield Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SJNK
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000036938
+<SERIES-NAME>SPDR Portfolio High Yield Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000113018
+<CLASS-CONTRACT-NAME>SPDR Portfolio High Yield Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPHY
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000039794
+<SERIES-NAME>SPDR SSGA US Large Cap Low Volatility Index ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000123372
+<CLASS-CONTRACT-NAME>SPDR SSGA US Large Cap Low Volatility Index ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>LGLV
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000039795
+<SERIES-NAME>SPDR SSGA US Small Cap Low Volatility Index ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000123373
+<CLASS-CONTRACT-NAME>SPDR SSGA US Small Cap Low Volatility Index ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SMLV
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000040742
+<SERIES-NAME>SPDR Bloomberg 1-10 Year TIPS ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000126354
+<CLASS-CONTRACT-NAME>SPDR Bloomberg 1-10 Year TIPS ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>TIPX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000041317
+<SERIES-NAME>SPDR(R) Portfolio S&P 600 Small Cap ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000128125
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio S&P 600 Small Cap ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPSM
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000048346
+<SERIES-NAME>SPDR MSCI USA StrategicFactors ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000152674
+<CLASS-CONTRACT-NAME>SPDR MSCI USA StrategicFactors ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>QUS
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000050968
+<SERIES-NAME>SPDR(R) Portfolio S&P 500 High Dividend ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000160602
+<CLASS-CONTRACT-NAME>SPDR(R) Portfolio S&P 500 High Dividend ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPYD
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000051577
+<SERIES-NAME>SPDR FactSet Innovative Technology ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000162275
+<CLASS-CONTRACT-NAME>SPDR FactSet Innovative Technology ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XITK
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000051701
+<SERIES-NAME>SPDR S&P 500 Fossil Fuel Reserves Free ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000162693
+<CLASS-CONTRACT-NAME>SPDR S&P 500 Fossil Fuel Reserves Free ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SPYX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000051787
+<SERIES-NAME>SPDR Russell 1000 Yield Focus ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000162940
+<CLASS-CONTRACT-NAME>SPDR Russell 1000 Yield Focus ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>ONEY
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000051788
+<SERIES-NAME>SPDR Russell 1000 Momentum Focus ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000162941
+<CLASS-CONTRACT-NAME>SPDR Russell 1000 Momentum Focus ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>ONEO
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000051789
+<SERIES-NAME>SPDR Russell 1000 Low Volatility Focus ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000162942
+<CLASS-CONTRACT-NAME>SPDR Russell 1000 Low Volatility Focus ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>ONEV
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000053058
+<SERIES-NAME>SPDR MSCI USA Gender Diversity ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000166946
+<CLASS-CONTRACT-NAME>SPDR MSCI USA Gender Diversity ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SHE
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000054130
+<SERIES-NAME>SPDR S&P Internet ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000170118
+<CLASS-CONTRACT-NAME>SPDR S&P Internet ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>XWEB
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000059700
+<SERIES-NAME>SPDR S&P Kensho Intelligent Structures ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000195381
+<CLASS-CONTRACT-NAME>SPDR S&P Kensho Intelligent Structures ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>SIMS
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000059701
+<SERIES-NAME>SPDR S&P Kensho Smart Mobility ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000195382
+<CLASS-CONTRACT-NAME>SPDR S&P Kensho Smart Mobility ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>HAIL
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000059702
+<SERIES-NAME>SPDR S&P Kensho Future Security ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000195383
+<CLASS-CONTRACT-NAME>SPDR S&P Kensho Future Security ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>FITE
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000063360
+<SERIES-NAME>SPDR S&P Kensho Clean Power ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000205413
+<CLASS-CONTRACT-NAME>SPDR S&P Kensho Clean Power ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>CNRG
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000063361
+<SERIES-NAME>SPDR S&P Kensho Final Frontiers ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000205414
+<CLASS-CONTRACT-NAME>SPDR S&P Kensho Final Frontiers ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>ROKT
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000063362
+<SERIES-NAME>SPDR S&P Kensho New Economies Composite ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000205415
+<CLASS-CONTRACT-NAME>SPDR S&P Kensho New Economies Composite ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>KOMP
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000067221
+<SERIES-NAME>SPDR Bloomberg SASB Corporate Bond ESG Select ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000216236
+<CLASS-CONTRACT-NAME>SPDR Bloomberg SASB Corporate Bond ESG Select ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>RBND
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000068660
+<SERIES-NAME>SPDR Bloomberg Emerging Markets USD Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000219610
+<CLASS-CONTRACT-NAME>SPDR Bloomberg Emerging Markets USD Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>EMHC
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000069051
+<SERIES-NAME>SPDR S&P 500 ESG ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000220766
+<CLASS-CONTRACT-NAME>SPDR S&P 500 ESG ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>EFIV
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000069594
+<SERIES-NAME>SPDR Bloomberg 3-12 Month T-Bill ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000222017
+<CLASS-CONTRACT-NAME>SPDR Bloomberg 3-12 Month T-Bill ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>BILS
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000074035
+<SERIES-NAME>SPDR S&P SmallCap 600 ESG ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000231370
+<CLASS-CONTRACT-NAME>SPDR S&P SmallCap 600 ESG ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>ESIX
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000075434
+<SERIES-NAME>SPDR MarketAxess Investment Grade 400 Corporate Bond ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000234530
+<CLASS-CONTRACT-NAME>SPDR MarketAxess Investment Grade 400 Corporate Bond ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>LQIG
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000076007
+<SERIES-NAME>SPDR MSCI USA Climate Paris Aligned ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000235432
+<CLASS-CONTRACT-NAME>SPDR MSCI USA Climate Paris Aligned ETF
+<CLASS-CONTRACT-TICKER-SYMBOL>NZUS
+</CLASS-CONTRACT>
+</SERIES>
+<SERIES>
+<OWNER-CIK>0001064642
+<SERIES-ID>S000081587
+<SERIES-NAME>SPDR Portfolio S&P Dividend Growth ETF
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000244514
+<CLASS-CONTRACT-NAME>SPDR Portfolio S&P Dividend Growth ETF
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>d513242dnpx.htm
+<DESCRIPTION>SPDR SERIES TRUST
+<TEXT>
+<HTML><HEAD>
+<TITLE>SPDR Series Trust</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE" STYLE="line-height:Normal">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, DC 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">N-PX</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>ANNUAL REPORT
+OF PROXY VOTING RECORD OF REGISTERED </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>MANAGEMENT INVESTMENT COMPANY </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Investment Company Act file number <FONT STYLE="white-space:nowrap">811-08839</FONT> </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>SPDR Series Trust </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>One Iron
+Street, Boston, MA 02210 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip code) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Sean O&#146;Malley, Esq. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Senior Vice President and General Counsel </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>c/o SSGA Funds Management, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>One Iron Street </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Boston,
+Massachusetts 02210 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Name and Address of Agent for Service) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: (617) <FONT STYLE="white-space:nowrap">664-1465</FONT> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Date of fiscal year end: June&nbsp;30 and December&nbsp;31 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Reporting Period: 07/01/2022 - 06/30/2023 </B></P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Item 1. Proxy Voting Report </P>
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV ALIGN="LEFT">
+<PRE>
+
+
+
+
+
+========= SPDR Bloomberg 1-10 Year TIPS ETF ==========
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+============= SPDR Bloomberg 1-3 Month T-Bill ETF ==============
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+============= SPDR Bloomberg 3-12 Month T-Bill ETF =============
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+========== SPDR Bloomberg Convertible Securities ETF ===========
+
+
+GANNETT CO., INC.
+
+Ticker:       GCI            Security ID:  36472T109
+Meeting Date: JUN 05, 2023   Meeting Type: Annual
+Record Date:  APR 13, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Theodore P. Janulis      For       For          Management
+1.2   Elect Director John Jeffry Louis, III   For       For          Management
+1.3   Elect Director Maria M. Miller          For       For          Management
+1.4   Elect Director Michael E. Reed          For       For          Management
+1.5   Elect Director Amy Reinhard             For       For          Management
+1.6   Elect Director Debra A. Sandler         For       For          Management
+1.7   Elect Director Kevin M. Sheehan         For       For          Management
+1.8   Elect Director Laurence Tarica          For       For          Management
+1.9   Elect Director Barbara W. Wall          For       For          Management
+2     Ratify Grant Thornton LLP as Auditors   For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Approve Omnibus Stock Plan              For       For          Management
+5     Amend Certificate of Incorporation to   For       Against      Management
+      Reflect New Delaware Law Provisions
+      Regarding Officer Exculpation
+6     Adopt Majority Voting for Uncontested   For       For          Management
+      Election of Directors
+7A    Eliminate Supermajority Vote            For       For          Management
+      Requirement to Amend Certificate of
+      Incorporation
+7B    Eliminate Supermajority Vote            For       For          Management
+      Requirement to Amend Bylaws
+7C    Eliminate Supermajority Vote            For       For          Management
+      Requirement for Removal of Directors
+      and Appointment of Directors in the
+      Event the Entire Board of Directors is
+      Removed
+
+
+--------------------------------------------------------------------------------
+
+TAKE-TWO INTERACTIVE SOFTWARE, INC.
+
+Ticker:       TTWO           Security ID:  874054109
+Meeting Date: SEP 16, 2022   Meeting Type: Annual
+Record Date:  JUL 25, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Strauss Zelnick          For       For          Management
+1b    Elect Director Michael Dornemann        For       For          Management
+1c    Elect Director J Moses                  For       For          Management
+1d    Elect Director Michael Sheresky         For       Against      Management
+1e    Elect Director LaVerne Srinivasan       For       For          Management
+1f    Elect Director Susan Tolson             For       For          Management
+1g    Elect Director Paul Viera               For       For          Management
+1h    Elect Director Roland Hernandez         For       For          Management
+1i    Elect Director William "Bing" Gordon    For       For          Management
+1j    Elect Director Ellen Siminoff           For       For          Management
+2     Advisory Vote to Ratify Named           For       Against      Management
+      Executive Officers' Compensation
+3     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+THE SOUTHERN COMPANY
+
+Ticker:       SO             Security ID:  842587107
+Meeting Date: MAY 24, 2023   Meeting Type: Annual
+Record Date:  MAR 27, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Janaki Akella            For       For          Management
+1b    Elect Director Henry A. "Hal" Clark,    For       For          Management
+      III
+1c    Elect Director Anthony F. "Tony"        For       For          Management
+      Earley, Jr.
+1d    Elect Director Thomas A. Fanning        For       For          Management
+1e    Elect Director David J. Grain           For       For          Management
+1f    Elect Director Colette D. Honorable     For       For          Management
+1g    Elect Director Donald M. James          For       For          Management
+1h    Elect Director John D. Johns            For       For          Management
+1i    Elect Director Dale E. Klein            For       For          Management
+1j    Elect Director David E. Meador          For       For          Management
+1k    Elect Director Ernest J. Moniz          For       For          Management
+1l    Elect Director William G. Smith, Jr.    For       For          Management
+1m    Elect Director Kristine L. Svinicki     For       For          Management
+1n    Elect Director Lizanne Thomas           For       For          Management
+1o    Elect Director Christopher C. Womack    For       For          Management
+1p    Elect Director E. Jenner Wood, III      For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+4     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+5     Eliminate Supermajority Vote            For       For          Management
+      Requirement
+6     Adopt Simple Majority Vote              Against   For          Shareholder
+7     Adopt Scope 3 GHG Emissions Reduction   Against   Against      Shareholder
+      Targets Aligned with Paris Agreement
+      Goal
+8     Report on Feasibility of Net-Zero GHG   Against   Against      Shareholder
+      Emissions
+
+
+
+
+========== SPDR Bloomberg Emerging Markets Local Bond ETF ===========
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+========= SPDR Bloomberg Emerging Markets USD Bond ETF =========
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+========= SPDR Bloomberg High Yield Bond ETF =========
+
+
+MALLINCKRODT PLC
+
+Ticker:       MNKPF          Security ID:  G5890A102
+Meeting Date: SEP 29, 2022   Meeting Type: Annual
+Record Date:  AUG 10, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Paul M. Bisaro           For       For          Management
+1b    Elect Director Daniel A. Celentano      For       For          Management
+1c    Elect Director Riad H. El-Dada          For       For          Management
+1d    Elect Director Neal P. Goldman          For       For          Management
+1e    Elect Director Karen L. Ling            For       For          Management
+1f    Elect Director Woodrow A. Myers, Jr.    For       For          Management
+1g    Elect Director James R. Sulat           For       For          Management
+1h    Elect Director Sigurdur O. Olafsson     For       For          Management
+2     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors and Authorise Their
+      Remuneration
+3     Advisory Vote to Ratify Named           For       Against      Management
+      Executive Officers' Compensation
+4     Authorize Market Purchases or Overseas  For       For          Management
+      Market Purchases of Ordinary Shares
+5     Determine Price Range for Reissuance    For       For          Management
+      of Treasury Shares
+
+
+--------------------------------------------------------------------------------
+
+MALLINCKRODT PLC
+
+Ticker:       MNK            Security ID:  G5890A102
+Meeting Date: MAY 16, 2023   Meeting Type: Annual
+Record Date:  MAR 20, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Paul M. Bisaro           For       For          Management
+1b    Elect Director Daniel A. Celentano      For       For          Management
+1c    Elect Director Riad H. El-Dada          For       For          Management
+1d    Elect Director Neal P. Goldman          For       Against      Management
+1e    Elect Director Karen L. Ling            For       For          Management
+1f    Elect Director Woodrow A. Myers, Jr.    For       For          Management
+1g    Elect Director Susan M. Silbermann      For       For          Management
+1h    Elect Director James R. Sulat           For       For          Management
+1i    Elect Director Sigurdur O. Olafsson     For       For          Management
+2     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors and Authorise Their
+      Remuneration
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Authorize Market Purchases or Overseas  For       For          Management
+      Market Purchases of Ordinary Shares
+5     Determine Price Range for Reissuance    For       For          Management
+      of Treasury Shares
+
+
+
+
+========== SPDR Bloomberg International Corporate Bond ETF ==========
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+========== SPDR Bloomberg International Treasury Bond ETF ===========
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+========= SPDR Bloomberg Investment Grade Floating Rate ETF =========
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+============== SPDR Bloomberg SASB Corporate Bond ESG Select ETF ===============
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period. The Fund liquidated on April
+17, 2023.
+
+
+
+=========== SPDR Bloomberg Short Term High Yield Bond ETF ===========
+
+
+CLEAR CHANNEL OUTDOOR HOLDINGS, INC.
+
+Ticker:       CCO            Security ID:  18453H106
+Meeting Date: MAY 03, 2023   Meeting Type: Annual
+Record Date:  MAR 07, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director John Dionne              For       For          Management
+1.2   Elect Director Lisa Hammitt             For       For          Management
+1.3   Elect Director Andrew Hobson            For       For          Management
+1.4   Elect Director Thomas C. King           For       For          Management
+1.5   Elect Director Joe Marchese             For       For          Management
+1.6   Elect Director W. Benjamin Moreland     For       For          Management
+1.7   Elect Director Mary Teresa Rainey       For       For          Management
+1.8   Elect Director Scott R. Wells           For       For          Management
+1.9   Elect Director Jinhy Yoon               For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+4     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+IHEARTMEDIA, INC.
+
+Ticker:       IHRT           Security ID:  45174J509
+Meeting Date: MAY 18, 2023   Meeting Type: Annual
+Record Date:  MAR 24, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Robert W. Pittman        For       For          Management
+1.2   Elect Director James A. Rasulo          For       For          Management
+1.3   Elect Director Richard J. Bressler      For       For          Management
+1.4   Elect Director Samuel E. Englebardt     For       For          Management
+1.5   Elect Director Brad Gerstner            For       For          Management
+1.6   Elect Director Cheryl Mills             For       For          Management
+1.7   Elect Director Graciela Monteagudo      For       For          Management
+1.8   Elect Director Kamakshi                 For       For          Management
+      Sivaramakrishnan
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+5     Amend Omnibus Stock Plan                For       For          Management
+
+
+
+
+========= SPDR Bloomberg Short Term International Treasury Bond ETF   ==========
+
+There is no proxy voting activity for the fund, as the fund did not hold any
+votable positions during the reporting period.
+
+
+
+=========================== SPDR Dow Jones REIT ETF ============================
+
+
+ACADIA REALTY TRUST
+
+Ticker:       AKR            Security ID:  004239109
+Meeting Date: MAY 04, 2023   Meeting Type: Annual
+Record Date:  MAR 07, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Kenneth F. Bernstein     For       For          Management
+1b    Elect Director Douglas Crocker, II      For       For          Management
+1c    Elect Director Mark A. Denien           For       For          Management
+1d    Elect Director Kenneth A. McIntyre      For       For          Management
+1e    Elect Director William T. Spitz         For       For          Management
+1f    Elect Director Lynn C. Thurber          For       For          Management
+1g    Elect Director Lee S. Wielansky         For       For          Management
+1h    Elect Director Hope B. Woodhouse        For       For          Management
+1i    Elect Director C. David Zoba            For       Against      Management
+2     Ratify BDO USA, LLP as Auditors         For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Amend Omnibus Stock Plan                For       For          Management
+5     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+
+
+--------------------------------------------------------------------------------
+
+AGREE REALTY CORPORATION
+
+Ticker:       ADC            Security ID:  008492100
+Meeting Date: MAY 11, 2023   Meeting Type: Annual
+Record Date:  MAR 17, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Merrie S. Frankel        For       For          Management
+1.2   Elect Director John Rakolta, Jr.        For       For          Management
+1.3   Elect Director Jerome Rossi             For       For          Management
+2     Ratify Grant Thornton LLP as Auditors   For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+
+
+--------------------------------------------------------------------------------
+
+ALEXANDRIA REAL ESTATE EQUITIES, INC.
+
+Ticker:       ARE            Security ID:  015271109
+Meeting Date: MAY 16, 2023   Meeting Type: Annual
+Record Date:  MAR 31, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Joel S. Marcus           For       For          Management
+1b    Elect Director Steven R. Hash           For       Against      Management
+1c    Elect Director James P. Cain            For       For          Management
+1d    Elect Director Cynthia L. Feldmann      For       For          Management
+1e    Elect Director Maria C. Freire          For       For          Management
+1f    Elect Director Richard H. Klein         For       For          Management
+1g    Elect Director Michael A. Woronoff      For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Advisory Vote on Say on Pay Frequency   One Year  One Year     Management
+4     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+AMERICAN ASSETS TRUST, INC.
+
+Ticker:       AAT            Security ID:  024013104
+Meeting Date: JUN 05, 2023   Meeting Type: Annual
+Record Date:  MAR 31, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Ernest S. Rady           For       For          Management
+1.2   Elect Director Robert S. Sullivan       For       For          Management
+1.3   Elect Director Thomas S. Olinger        For       For          Management
+1.4   Elect Director Joy L. Schaefer          For       Withhold     Management
+1.5   Elect Director Nina A. Tran             For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+AMERICAN CAMPUS COMMUNITIES, INC.
+
+Ticker:       ACC            Security ID:  024835100
+Meeting Date: AUG 04, 2022   Meeting Type: Special
+Record Date:  JUN 14, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Approve Merger Agreement                For       For          Management
+2     Advisory Vote on Golden Parachutes      For       For          Management
+3     Adjourn Meeting                         For       Against      Management
+
+
+--------------------------------------------------------------------------------
+
+AMERICAN HOMES 4 RENT
+
+Ticker:       AMH            Security ID:  02665T306
+Meeting Date: MAY 09, 2023   Meeting Type: Annual
+Record Date:  MAR 13, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director Matthew J. Hart          For       For          Management
+1b    Elect Director David P. Singelyn        For       For          Management
+1c    Elect Director Douglas N. Benham        For       Against      Management
+1d    Elect Director Jack Corrigan            For       For          Management
+1e    Elect Director David Goldberg           For       For          Management
+1f    Elect Director Tamara H. Gustavson      For       For          Management
+1g    Elect Director Michelle C. Kerrick      For       For          Management
+1h    Elect Director James H. Kropp           For       For          Management
+1i    Elect Director Lynn C. Swann            For       For          Management
+1j    Elect Director Winifred M. Webb         For       For          Management
+1k    Elect Director Jay Willoughby           For       For          Management
+1l    Elect Director Matthew R. Zaist         For       For          Management
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+
+
+--------------------------------------------------------------------------------
+
+AMERICOLD REALTY TRUST
+
+Ticker:       COLD           Security ID:  03064D108
+Meeting Date: MAY 16, 2023   Meeting Type: Annual
+Record Date:  MAR 20, 2023
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1a    Elect Director George F. Chappelle, Jr. For       For          Management
+1b    Elect Director George J. Alburger, Jr.  For       For          Management
+1c    Elect Director Kelly H. Barrett         For       For          Management
+1d    Elect Director Robert L. Bass           For       For          Management
+1e    Elect Director Antonio F. Fernandez     For       For          Management
+1f    Elect Director Pamela K. Kohn           For       For          Management
+1g    Elect Director David J. Neithercut      For       For          Management
+1h    Elect Director Mark R. Patterson        For       Against      Management
+1i    Elect Director Andrew P. Power          For       For          Management
+2     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+3     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+APARTMENT INCOME REIT CORP.
+
+Ticker:       AIRC           Security ID:  03750L109
+Meeting Date: DEC 07, 2022   Meeting Type: Annual
+Record Date:  OCT 20, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Terry Considine          For       For          Management
+1.2   Elect Director Thomas N. Bohjalian      For       For          Management
+1.3   Elect Director Kristin R. Finney-Cooke  For       For          Management
+1.4   Elect Director Thomas L. Keltner        For       For          Management
+1.5   Elect Director Devin I. Murphy          For       For          Management
+1.6   Elect Director Margarita                For       For          Management
+      Palau-Hernandez
+1.7   Elect Director John Dinha Rayis         For       For          Management
+1.8   Elect Director Ann Sperling             For       For          Management
+1.9   Elect Director Nina A. Tran             For       For          Management
+2     Ratify Deloitte &amp; Touche LLP as         For       For          Management
+      Auditors
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+4     Amend Omnibus Stock Plan                For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+APARTMENT INVESTMENT AND MANAGEMENT COMPANY
+
+Ticker:       AIV            Security ID:  03748R747
+Meeting Date: DEC 16, 2022   Meeting Type: Proxy Contest
+Record Date:  OCT 26, 2022
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+      Management Universal Proxy (White
+      Proxy Card)
+#     Proposal                                Diss Rec  Vote Cast    Sponsor
+      From the Combined List of Management &amp;
+      Dissident Nominees - Elect 3 Directors
+1A    Elect Management Nominee Director Jay   For       For          Management
+      Paul Leupp
+1B    Elect Management Nominee Director       For       For          Management
+      Michael A. Stein
+1C    Elect Management Nominee Director R.    For       For          Management
+      Dary Stone
+1D    Elect Dissident Nominee Director        Withhold  Withhold     Shareholder
+      Michelle Applebaum
+1E    Elect Dissident Nominee Director James  Withhold  Withhold     Shareholder
+      P. Sullivan
+2     Ratify Ernst &amp; Young LLP as Auditors    For       For          Management
+3     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+#     Proposal                                Diss Rec  Vote Cast    Sponsor
+      Dissident Universal Proxy (Blue Proxy
+      Card)
+#     Proposal                                Diss Rec  Vote Cast    Sponsor
+      From the Combined List of Management &amp;
+      Dissident Nominees - Elect 3 Directors
+1A    Elect Dissident Nominee Director        For       Did Not Vote Shareholder
+      Michelle Applebaum
+1B    Elect Dissident Nominee Director James  For       Did Not Vote Shareholder
+      P. Sullivan
+1C    Elect Management Nominee Director Jay   For       Did Not Vote Management
+      Paul Leupp
+1D    Elect Management Nominee Director       Withhold  Did Not Vote Management
+      Michael A. Stein
+1E    Elect Management Nominee Director R.    Withhold  Did Not Vote Management
+      Dary Stone
+2     Ratify Ernst &amp; Young LLP as Auditors    None      Did Not Vote Management
+3     Advisory Vote to Ratify Named           None      Did Not Vote Management
+      Executive Officers' Compensation
+
+</PRE>
+ </DIV>
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">SIGNATURES </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Investment Company Act of 1940, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="7%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">SPDR Series Trust</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Ann M. Carpenter</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Ann M. Carpenter</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>President</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">Date: August&nbsp;25, 2023</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

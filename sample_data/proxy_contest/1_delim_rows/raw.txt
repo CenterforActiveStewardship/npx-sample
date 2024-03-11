@@ -1,0 +1,199 @@
+<SEC-DOCUMENT>0001193125-13-349699.txt : 20130828
+<SEC-HEADER>0001193125-13-349699.hdr.sgml : 20130828
+<ACCEPTANCE-DATETIME>20130828115258
+ACCESSION NUMBER:		0001193125-13-349699
+CONFORMED SUBMISSION TYPE:	N-PX
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20130630
+FILED AS OF DATE:		20130828
+DATE AS OF CHANGE:		20130828
+EFFECTIVENESS DATE:		20130828
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BLACKROCK GLOBAL SMALLCAP FUND, INC.
+		CENTRAL INDEX KEY:			0000922457
+		IRS NUMBER:				223310365
+		STATE OF INCORPORATION:			MD
+
+	FILING VALUES:
+		FORM TYPE:		N-PX
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-07171
+		FILM NUMBER:		131064943
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+		BUSINESS PHONE:		800-441-7762
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BELLEVUE PARKWAY
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			19809
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MERRILL LYNCH GLOBAL SMALLCAP FUND INC
+		DATE OF NAME CHANGE:	19941019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MERRILL LYNCH SMALLCAP WORLD FUND INC
+		DATE OF NAME CHANGE:	19940429
+<SERIES-AND-CLASSES-CONTRACTS-DATA>
+<EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+<SERIES>
+<OWNER-CIK>0000922457
+<SERIES-ID>S000002724
+<SERIES-NAME>BLACKROCK GLOBAL SMALLCAP FUND, INC.
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007429
+<CLASS-CONTRACT-NAME>Investor A
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007430
+<CLASS-CONTRACT-NAME>Investor B
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007431
+<CLASS-CONTRACT-NAME>Investor C
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007432
+<CLASS-CONTRACT-NAME>Institutional
+</CLASS-CONTRACT>
+<CLASS-CONTRACT>
+<CLASS-CONTRACT-ID>C000007433
+<CLASS-CONTRACT-NAME>Class R
+</CLASS-CONTRACT>
+</SERIES>
+</EXISTING-SERIES-AND-CLASSES-CONTRACTS>
+</SERIES-AND-CLASSES-CONTRACTS-DATA>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-PX
+<SEQUENCE>1
+<FILENAME>d586400dnpx.htm
+<DESCRIPTION>BLACKROCK GLOBAL SMALL CAP FUND, INC.
+<TEXT>
+<HTML><HEAD>
+<TITLE>BlackRock Global Small Cap Fund, Inc.</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+<P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="margin-top:4px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P>
+<P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="5"><B>FORM N-PX </B></FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT STYLE="font-family:Times New Roman" SIZE="3"><B>ANNUAL REPORT OF PROXY VOTING RECORD OF REGISTERED </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT
+STYLE="font-family:Times New Roman" SIZE="3"><B>MANAGEMENT INVESTMENT COMPANY </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Investment Company Act file number 811-07171 </FONT></P>
+<P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name of Fund: BlackRock Global SmallCap Fund, Inc. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Fund Address: 100 Bellevue Parkway, Wilmington, DE 19809 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px; margin-left:2%; text-indent:-2%"><FONT STYLE="font-family:Times New Roman" SIZE="2">Name
+and address of agent for service: John Perlowski, Chief Executive Officer, BlackRock Global SmallCap Fund, Inc., </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px; margin-left:2%; text-indent:-2%;padding-bottom:0px; "><FONT
+STYLE="font-family:Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;55 East 52</FONT><FONT STYLE="font-family:Times New Roman" SIZE="1"><SUP STYLE="vertical-align:baseline; position:relative; bottom:.8ex">nd</SUP></FONT><FONT
+STYLE="font-family:Times New Roman" SIZE="2"> Street, New York City, NY 10055. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Registrant&#146;s telephone number, including area code: (800)
+441-7762 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Date of fiscal year end: 06/30 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+STYLE="font-family:Times New Roman" SIZE="2">Date of reporting period: 07/01/2012 &#150; 06/30/2013 </FONT></P> <P STYLE="font-size:10px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<P STYLE="line-height:0px;margin-top:0px;margin-bottom:0px;border-bottom:0.5pt solid #000000">&nbsp;</P> <P STYLE="line-height:3px;margin-top:0px;margin-bottom:2px;border-bottom:0.5pt solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Item 1 &#150; Proxy Voting Record &#150; Attached hereto. </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <DIV ALIGN="LEFT">
+<PRE>
+
+******************************* FORM N-Px REPORT *******************************
+
+ICA File Number: 811-07171
+Reporting Period: 07/01/2012 - 06/30/2013
+BlackRock Global Small Cap Fund, Inc.
+
+
+
+
+
+
+
+
+
+==================== BlackRock Global Small Cap Fund, Inc. =====================
+
+
+DSP GROUP, INC.
+
+Ticker:       DSPG           Security ID:  23332B106
+Meeting Date: JUN 10, 2013   Meeting Type: Proxy Contest
+Record Date:  APR 16, 2013
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+      Management Proxy (Gold Card)            None
+1.1   Elect Director Eliyahu Ayalon           For       Did Not Vote Management
+1.2   Elect Director Zvi Limon                For       Did Not Vote Management
+1.3   Elect Director Reuven Regev             For       Did Not Vote Management
+2     Amend Qualified Employee Stock          For       Did Not Vote Management
+      Purchase Plan
+3     Amend Omnibus Stock Plan                For       Did Not Vote Management
+4     Ratify Auditors                         For       Did Not Vote Management
+5     Advisory Vote to Ratify Named           For       Did Not Vote Management
+      Executive Officers' Compensation
+6     Elect Gabi Seligsohn as Class II        For       Did Not Vote Management
+      Director
+7     Adjourn Meeting                         For       Did Not Vote Management
+#     Proposal                                Diss Rec  Vote Cast    Sponsor
+      Dissident Proxy (White Card)            None
+1.1   Elect Director Michael Bornak           For       Withhold     Shareholder
+1.2   Elect Director Norman J. Rice, III      For       For          Shareholder
+1.3   Elect Director Norman P. Taffe          For       For          Shareholder
+2     Amend Qualified Employee Stock          Against   For          Management
+      Purchase Plan
+3     Amend Omnibus Stock Plan                Against   For          Management
+4     Ratify Auditors                         None      For          Management
+5     Advisory Vote to Ratify Named           None      For          Management
+      Executive Officers' Compensation
+6     Adjourn Meeting                         Against   Against      Management
+
+========== END NPX REPORT</PRE>
+ </DIV>
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Pursuant to the requirements of the Investment Company Act of 1940, the registrant has duly caused this
+report to be signed on its behalf by the undersigned, thereunto duly authorized. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">BlackRock Global SmallCap Fund, Inc. </FONT></P>
+<P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR>
+<TD VALIGN="top"><FONT STYLE="font-family:Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT STYLE="font-family:Times New Roman" SIZE="2">/s/ John Perlowski</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">John Perlowski</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">Chief Executive Officer of</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT STYLE="font-family:Times New Roman" SIZE="2">BlackRock Global SmallCap Fund, Inc.</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT STYLE="font-family:Times New Roman" SIZE="2">Date: August&nbsp;27, 2013 </FONT></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
