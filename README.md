@@ -63,7 +63,7 @@ Have seen HTML, text, or nothing here.
 
 
 5. Votes text
-
+Format varies, but generally of a form something like:
 ```
 ====================                 FUND 1                 ====================
 Votes for holdings in company 1
