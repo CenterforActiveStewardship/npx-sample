@@ -3,7 +3,7 @@ Sample repo for sharing
 
 ## Folders
 - `sample_data` - raw and parsed forms
-- `prompts` - initial prompts
+- `prompts` - initial prompt experiments
 
 ## Document structure
 1. Document header
