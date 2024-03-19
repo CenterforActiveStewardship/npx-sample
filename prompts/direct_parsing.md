@@ -1,13 +1,114 @@
 ## Simplified direct parsing
 System prompt:
 ```
-Your job is to parse data into CSV format. The user prompt contains text records that show how the fund called "BLACKROCK GLOBAL SMALLCAP FUND, INC." voted at shareholder meetings for several companies. These records are divided into sections, and each section starts with the name of the company, the company's ticker, the meeting date, and the meeting type, with some other metadata; then, in each section, there is a list of proposals formatted in columns that show the proposal ordinal (which may be an integer, a number of the form "1.1", or a ordinal of the form "1a", the proposal description, the management recommendation, the vote cast, and the sponsor. Create a CSV, USING AN UNAMBIGUOUS STRING DELIMITER that does not appear in the data to surround each item, showing, for each proposal, the fund name, the company name, the company ticker, the meeting date, the proposal number, the proposal description, the management recommendation, the vote cast, and the sponsor. Change capitalization of the fund name and company names to be title case. Format dates as "YYYY-MM-DD". DO NOT otherwise change the data fields. Output only the CSV, not code to generate it.
+Your job is to parse data into CSV format. The user prompt contains text records that show how the fund called "BLACKROCK GLOBAL SMALLCAP FUND, INC." voted at shareholder meetings for several companies. These records are divided into sections, and each section starts with the name of the company, the company's ticker, the meeting date, and the meeting type, with some other metadata; then, in each section, there is a list of proposals formatted in columns that show the proposal ordinal (which may be an integer, a number of the form "1.1", or a ordinal of the form "1a", the proposal description, the management recommendation, the vote cast, and the sponsor. Create a CSV, surrounding each string with double-quotes, showing, for each proposal, the fund name, the company name, the company ticker, the meeting date, the proposal number, the proposal description, the management recommendation, the vote cast, and the sponsor. Change capitalization of the fund name and company names to be title case. Format dates as "YYYY-MM-DD". DO NOT otherwise change the data fields. Output only the CSV, not code to generate it.
 ```
-User prompt: contents of a short form NPX, headers manually removed (note the explicit naming of the fund in the prompt.
+User prompt: (contents of a short form NPX, headers manually removed (note the explicit naming of the fund in the prompt):
+```--------------------------------------------------------------------------------
+
+ABERDEEN ASSET MANAGEMENT PLC
+
+Ticker:       ADN            Security ID:  G00434111
+Meeting Date: JAN 17, 2013   Meeting Type: Annual
+Record Date:  JAN 15, 2013
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Accept Financial Statements and         For       For          Management
+      Statutory Reports
+2     Approve Final Dividend                  For       For          Management
+3     Reappoint KPMG Audit plc as Auditors    For       For          Management
+      and Authorise Their Remuneration
+4     Re-elect Julie Chakraverty as Director  For       For          Management
+5     Re-elect Roger Cornick as Director      For       For          Management
+6     Re-elect Anita Frew as Director         For       For          Management
+7     Re-elect Martin Gilbert as Director     For       For          Management
+8     Re-elect Andrew Laing as Director       For       For          Management
+9     Re-elect Kenichi Miyanaga as Director   For       For          Management
+10    Re-elect Jim Pettigrew as Director      For       For          Management
+11    Re-elect Bill Rattray as Director       For       For          Management
+12    Re-elect Anne Richards as Director      For       For          Management
+13    Re-elect Simon Troughton as Director    For       For          Management
+14    Re-elect Hugh Young as Director         For       For          Management
+15    Elect Richard Mully as Director         For       For          Management
+16    Elect Rod MacRae as Director            For       For          Management
+17    Approve Remuneration Report             For       For          Management
+18    Authorise Issue of Equity with          For       For          Management
+      Pre-emptive Rights
+19    Authorise Issue of Equity without       For       For          Management
+      Pre-emptive Rights
+20    Authorise the Company to Call EGM with  For       For          Management
+      Two Weeks' Notice
+21    Authorise Market Purchase of Ordinary   For       For          Management
+      Shares
+22    Authorise EU Political Donations and    For       For          Management
+      Expenditure
+23    Approve Increase in Aggregate Fees      For       For          Management
+      Payable to Directors
+
+
+--------------------------------------------------------------------------------
+
+ACXIOM CORPORATION
+
+Ticker:       ACXM           Security ID:  005125109
+Meeting Date: AUG 16, 2012   Meeting Type: Annual
+Record Date:  JUN 19, 2012
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Elect Director John L. Battelle         For       For          Management
+2     Elect Director Ann Die Hasselmo         For       For          Management
+3     Elect Director William J. Henderson     For       For          Management
+4     Advisory Vote to Ratify Named           For       For          Management
+      Executive Officers' Compensation
+5     Ratify Auditors                         For       For          Management
+
+
+--------------------------------------------------------------------------------
+
+ADDEX THERAPEUTICS LTD.
+
+Ticker:       ADXN           Security ID:  H00479107
+Meeting Date: MAR 19, 2013   Meeting Type: Annual
+Record Date:
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1     Accept Financial Statements and         For       For          Management
+      Statutory Reports
+2     Approve Treatment of Net Loss           For       For          Management
+3     Approve Discharge of Board and Senior   For       For          Management
+      Management
+4     Ratify PricewaterhouseCoopers as        For       For          Management
+      Auditors
+5.1   Approve Extension and Increase in       For       Against      Management
+      Authorised Capital to CHF 4.5 Million
+      without Preemptive Rights
+5.2   Approve Increase of Conditional         For       Against      Management
+      Capital to CHF 2.8 Million without
+      Preemptive Rights
+
+
+--------------------------------------------------------------------------------
+
+AEGERION PHARMACEUTICALS, INC.
+
+Ticker:       AEGR           Security ID:  00767E102
+Meeting Date: JUN 26, 2013   Meeting Type: Annual
+Record Date:  APR 29, 2013
+
+#     Proposal                                Mgt Rec   Vote Cast    Sponsor
+1.1   Elect Director Marc D. Beer             For       For          Management
+1.2   Elect Director David I. Scheer          For       Withhold     Management
+2     Ratify Auditors                         For       For          Management
+
+
+--------------------------------------------------------------------------------
+```
+Result: correct
+
 
 ## Full-document direct parsing
 System prompt:
 ```
-Your job is to parse data into CSV format. The user prompt contains text records that show how a fund voted at shareholder meetings for several companies. The fund is specified somewhere in the header metadata. The records are divided into sections, and each section starts with the name of the company, the company's ticker, the meeting date, and the meeting type, with some other metadata; then, in each section, there is a list of proposals formatted in columns that show the proposal ordinal (which may be an integer, a number of the form "1.1", or a ordinal of the form "1a", the proposal description, the management recommendation, the vote cast, and the sponsor. Create a CSV, USING AN UNAMBIGUOUS STRING DELIMITER that does not appear in the data to surround each item, showing, for each proposal, the fund name, the company name, the company ticker, the meeting date, the proposal number, the proposal description, the management recommendation, the vote cast, and the sponsor. Change capitalization of the fund name and company names to be title case. Format dates as "YYYY-MM-DD". DO NOT otherwise change the data fields. Output only the CSV, not code to generate it.
+Your job is to parse data into CSV format. The user prompt contains text records that show how a fund voted at shareholder meetings for several companies. The fund is specified somewhere in the header metadata. The records are divided into sections, and each section starts with the name of the company, the company's ticker, the meeting date, and the meeting type, with some other metadata; then, in each section, there is a list of proposals formatted in columns that show the proposal ordinal (which may be an integer, a number of the form "1.1", or a ordinal of the form "1a", the proposal description, the management recommendation, the vote cast, and the sponsor. Create a CSV, surrounding each string with double-quotes, showing, for each proposal, the fund name, the company name, the company ticker, the meeting date, the proposal number, the proposal description, the management recommendation, the vote cast, and the sponsor. Change capitalization of the fund name and company names to be title case. Format dates as "YYYY-MM-DD". DO NOT otherwise change the data fields. Output only the CSV, not code to generate it.
 ```
 User prompt: the full contents of a form NPX (under the token limit) -- e.g., `../sample_data/normal_doc/raw.txt`
