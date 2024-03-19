@@ -1,0 +1,64 @@
+Here is the Python code to generate the requested CSV:
+
+```python
+import csv
+import re
+
+def process_npx_report(text):
+    fund_name = re.search(r'Reporting\s+Period.*(?P<fund>[\w\s.-]+)(?=\s*ICA)',text,re.DOTALL).group('fund')
+    fund_name = fund_name.title()
+
+    records = []
+    company_pattern = re.compile(r'(?s)(?P<company>.*?)(?=\n-{10}|\Z)')
+    for company_match in company_pattern.finditer(text):
+        company_text = company_match.group('company')
+        
+        header_pattern = re.compile(r'(?P<company>.*?)\s+Ticker:.*Security ID:.*?\s+Meeting Date:\s*(?P<date>\w+\s+\d{1,2},\s+\d{4})')
+        header_match = header_pattern.search(company_text)
+        if header_match:
+            company_name = header_match.group('company').strip().title()
+            ticker = re.search(r'Ticker:\s*(?P<ticker>\w+)',company_text).group('ticker')
+            meeting_date = header_match.group('date')
+            meeting_date = re.sub(r'(?<=\d)(st|nd|rd|th)',r'',meeting_date)
+            meeting_date = meeting_date.replace(',','').title()
+            meeting_date = datetime.datetime.strptime(meeting_date,'%B %d %Y').strftime('%Y-%m-%d')
+        
+        proposal_pattern = re.compile(r'#\s+Proposal.*?(?P<number>\d+(\.\d+)?)(?:\.(?P<subid>.*?))?\s+(?P<description>.*?)\s+(?P<mgt_rec>For|Against).*?(?P<vote_cast>For|Against|Abstain)\s+(?P<sponsor>Management|Shareholder)',re.DOTALL)
+        for proposal_match in proposal_pattern.finditer(company_text):
+            proposal_number = proposal_match.group('number') + (proposal_match.group('subid') or '')
+            proposal_desc = proposal_match.group('description').strip()
+            mgt_rec = proposal_match.group('mgt_rec')
+            vote_cast = proposal_match.group('vote_cast')
+            sponsor = proposal_match.group('sponsor')
+            
+            records.append([fund_name,company_name,ticker,meeting_date,proposal_number,proposal_desc,mgt_rec,vote_cast,sponsor])
+            
+    return records
+
+def generate_csv(npx_text):
+    records = process_npx_report(npx_text)
+    
+    with open('npx_report.csv','w',newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['Fund Name','Company Name','Ticker','Meeting Date','Proposal Number','Proposal Description','Management Recommendation','Vote Cast','Sponsor'])
+        writer.writerows(records)
+        
+# Example usage
+npx_text = '''<SEC-DOCUMENT>...</SEC-DOCUMENT>'''
+generate_csv(npx_text)
+```
+
+This code defines two functions:
+1. `process_npx_report(text)`: Takes the NPX report text as input, extracts the relevant fields using regular expressions, and returns a list of records.
+2. `generate_csv(npx_text)`: Calls `process_npx_report()` to get the records, then writes them to a CSV file named 'npx_report.csv'. 
+
+The key steps are:
+- Extract the fund name from the header using regex 
+- Loop through each company section using regex
+- For each company, extract company name, ticker, meeting date using regex
+- Format the meeting date as 'YYYY-MM-DD'
+- Loop through each proposal using regex, extracting number, description, management recommendation, vote cast, sponsor
+- Add each proposal as a record to the list
+- Write all records to CSV, with the specified headers
+
+Let me know if you have any other questions!
