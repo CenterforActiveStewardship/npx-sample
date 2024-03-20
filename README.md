@@ -1,11 +1,11 @@
 # npx-sample
-Sample repo for sharing
+Sample Form N-PX repo for sharing.
 
 ## Folders
 - `sample_data` - raw and parsed forms
 - `prompts` - initial prompt experiments
 
-## Document structure
+## Form N-PX document structure
 1. Document header
 
 Always present
