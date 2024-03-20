@@ -1,0 +1,28 @@
+[tool.black]
+
+[tool.isort]
+profile = "black"
+skip_gitignore = true
+
+[tool.mypy]
+ignore_missing_imports = true
+exclude = [".venv/*", "prompts/", "sample_data/"]
+
+[tool.pytest.ini_options]
+testpaths = "tests"
+pythonpath = "."
+filterwarnings = ["ignore:::DtypeWarning"]
+
+[tool.ruff]
+line-length = 88
+ignore = ["E203", "E266", "E501"]
+unfixable = []
+include = ["*.py"]
+exclude = [
+    "data/",
+    ".mypy_cache/",
+    ".pytest_cache/",
+    ".venv/",
+    "*.ipynb",
+    "*.ini",
+]
